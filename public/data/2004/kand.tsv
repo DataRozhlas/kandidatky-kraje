@@ -1,0 +1,807 @@
+ESTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	STATOBCAN	POVOLANI	BYDLISTEN	BYDLISTEK	PSTRANA	NSTRANA	PLATNOST	POCHLASU	POCPROC	MANDAT	PORADIMAND	PORADINAHR	POHLAVI	ROK	VSTRANA
+1	1	Josef	Zieleniec	Doc. Ing.	CSc.	58	CZ	senátor	Praha	1	99	129	A	83828	32.58	A	1	0	M	2004	311
+1	2	Jana	Hybášková	PhDr.		38	CZ	diplomatka	Praha	1	99	143	A	59282	23.04	A	2	0	F	2004	311
+1	3	Tomáš	Zatloukal	Mgr.		34	CZ	ředitel gymnázia	Napajedla	585513	99	129	A	4110	0	A	3	0	M	2004	311
+1	4	Peter	Appelt	Dipl. Kauf.		38	CZ	ekonom	Praha	1	99	143	A	3291	0	N	0	1	M	2004	311
+1	5	Josef	Holejšovský	MVDr.		60	CZ	ředitel st. veterinární správy	Jihlava	586846	99	129	A	4212	0	N	0	2	M	2004	311
+1	6	Lukáš	Macek		M.A.	28	CZ	politolog.	Praha	1	99	143	A	1478	0	N	0	3	M	2004	311
+1	7	Marie	Černá	Ing.		47	CZ	náměstkyně hejtmana	Třebíč	590266	129	129	A	1518	0	N	0	4	F	2004	311
+1	8	Jana	Mačáková	prof. MUDr. PhDr.		61	CZ	rektorka UP Olomouc	Olomouc	500496	99	143	A	4511	0	N	0	5	F	2004	311
+1	9	Přemysl	Rabas	MVDr.		40	CZ	ředitel Zooparku	Chomutov	562971	99	129	A	2049	0	N	0	6	M	2004	311
+1	10	Silvano	Pedretti		M.A.	39	FR	podnikatel	Praha	1	99	143	A	420	0	N	0	7	M	2004	311
+1	11	Jiří	Podlipný	MUDr.		34	CZ	lékař	Plzeň	2	99	129	A	1020	0	N	0	8	M	2004	311
+1	12	Jaromír	Gajdáček	Ing.		45	CZ	výkonný ředitel Svazu zdr.poj.	Havířov	555088	99	143	A	325	0	N	0	9	M	2004	311
+1	13	Sylva	Kováčiková	Ing.		46	CZ	starostka	Bílovec	599247	129	129	A	800	0	N	0	10	F	2004	311
+1	14	Jan	Reban	MUDr.		64	CZ	lékař	Hluboká nad Vltavou	544485	143	143	A	312	0	N	0	11	M	2004	311
+1	15	Jiří	Holenda	doc. RNDr.		71	CZ	vysokoškolský učitel	Plzeň	2	99	129	A	870	0	N	0	12	M	2004	311
+1	16	Helena	Fousková	MUDr.		44	CZ	lékařka	Ostrava	4	99	143	A	792	0	N	0	13	F	2004	311
+1	17	Zdenka	Majerová			55	CZ	poradce	Kolín	533165	99	129	A	165	0	N	0	14	F	2004	311
+1	18	Petr	Kravčík	Mgr.		48	CZ	právník	Ostrava	4	99	143	A	370	0	N	0	15	M	2004	311
+1	19	Jan	Macek	prof. Ing.	DrSc.	55	CZ	vysokoškolský učitel	Praha	1	99	129	A	600	0	N	0	16	M	2004	311
+1	20	Eva	Hochheimerová		M.A.	55	CZ	auditorka	Mníšek pod Brdy	540765	143	143	A	64	0	N	0	17	F	2004	311
+1	21	Ivan	Týče	MUDr.		52	CZ	ředitel úřadu	Lanškroun	580511	99	129	A	100	0	N	0	18	M	2004	311
+1	22	Martin	Habáň			22	CZ	student	Přerov	511382	143	143	A	179	0	N	0	19	M	2004	311
+1	23	Věra	Palkovská	RNDr.		41	CZ	místostarostka	Třinec	598810	129	129	A	808	0	N	0	20	F	2004	311
+1	24	Jan	Kasl	Ing. arch.		52	CZ	architekt	Praha	1	143	143	A	9490	0	N	0	21	M	2004	311
+1	25	Milan	Kunc	Ing.		38	CZ	manažer	Děčín	562335	99	129	A	227	0	N	0	22	M	2004	311
+1	26	Milan	Kudyn	MUDr.		55	CZ	dětský lékař	Praha	1	99	143	A	375	0	N	0	23	M	2004	311
+1	27	Petr	Narwa			48	CZ	ředitel odboru úřadu	Rychnov nad Kněžnou	576069	99	129	A	167	0	N	0	24	M	2004	311
+1	28	Markéta	Reedová			35	CZ	novinářka	Praha	1	143	143	A	329	0	N	0	25	F	2004	311
+1	29	Václav	Hartman	PaedDr.		51	CZ	místostarosta	Jilemnice	577197	129	129	A	165	0	N	0	26	M	2004	311
+1	30	Milan	Urban	Ing.	Dr.	44	CZ	architekt	Praha	1	143	143	A	100	0	N	0	27	M	2004	311
+1	31	Jaroslav	Šebek	Ing.		30	CZ	tajemník ASZ ČR	Kyškovice	565091	129	129	A	80	0	N	0	28	M	2004	311
+1	32	Stanislav	Polčák	JUDr.		24	CZ	právník	Vysoké Pole	585980	143	143	A	309	0	N	0	29	M	2004	311
+2	1	Václav	Srb			46	CZ	majitel cestovní agentury	Praha	1	55	55	A	303	0	N	0	0	M	2004	55
+2	2	Adam	Bubna-Litic			76	CZ	podnikatel	Doudleby nad Orlicí	576301	99	55	A	472	0	N	0	0	M	2004	55
+2	3	Pavel	Macků	Mgr.		40	CZ	učitel na CM církevní ZŠ	Brno	3	55	55	A	210	0	N	0	0	M	2004	55
+2	4	Petr	Nohel	Bc. et Bc.		25	CZ	pořadatel výchovných koncertů	Přerov	511382	55	55	A	112	0	N	0	0	M	2004	55
+2	5	Marek	Janeček			32	CZ	sportovní manažer a promotér	Praha	1	99	55	A	76	0	N	0	0	M	2004	55
+2	6	Milan	Schelinger			52	CZ	hudebník	Praha	1	55	55	A	122	0	N	0	0	M	2004	55
+2	7	Marie	Salm-Reifferscheidt-Raitzová			72	CZ	podnikatelka	Rájec-Jestřebí	582239	55	55	A	315	0	N	0	0	F	2004	55
+2	8	Jaroslav	Volný	Mgr.		48	CZ	etnolog, novinář a spisovatel	Praha	1	99	55	A	59	0	N	0	0	M	2004	55
+2	9	Tereza	Skříšovská			25	CZ	překladatelka	Brno	3	99	55	A	133	0	N	0	0	F	2004	55
+2	10	Jaromír	Stach	JUDr. et PhDr.		55	CZ	historik a soudní znalec	Praha	1	55	55	A	159	0	N	0	0	M	2004	55
+2	11	Giuseppe	Maiello		PhD.	42	IT	odb. asistent na FF UK	Praha	1	99	55	A	67	0	N	0	0	M	2004	55
+2	12	Ivan	Henn	Mgr.		50	CZ	překladatel a průvodce	Praha	1	99	55	A	30	0	N	0	0	M	2004	55
+2	13	Tomáš	Kordač	JUDr.		38	CZ	advokát	Praha	1	55	55	A	71	0	N	0	0	M	2004	55
+2	14	Stanislav	Jelínek	Mgr.		59	CZ	hudební skladatel	Praha	1	55	55	A	46	0	N	0	0	M	2004	55
+2	15	Vladimír	Němec	MUDr.		48	CZ	lékař - chirurg	Praha	1	55	55	A	87	0	N	0	0	M	2004	55
+2	16	Jiří	Čížek	MVDr.		46	CZ	soukromý veterinář	Vnorovy	586757	55	55	A	56	0	N	0	0	M	2004	55
+2	17	David	Hibsch			33	CZ	PC grafik	Ostrava	4	55	55	A	47	0	N	0	0	M	2004	55
+2	18	Sebastián	Flajšer			35	CZ	příslušník jízd. oddílu MP	Ostrava	4	55	55	A	44	0	N	0	0	M	2004	55
+2	19	Pavel	Vaculík	Mgr.		31	CZ	etnolog, zaměstnanec stát.spr.	Chodov	553735	55	55	A	45	0	N	0	0	M	2004	55
+2	20	Václav	Makrlík	Ing.		60	CZ	ekonom-projektový manažer	Statenice	539686	55	55	A	10	0	N	0	0	M	2004	55
+2	21	Eva	Fuxová			46	CZ	poštovní úřednice	Brno	3	55	55	A	6	0	N	0	0	F	2004	55
+2	22	Vít	Kubias	MUDr.		54	CZ	lékař-rentgenolog	Praha	1	55	55	A	14	0	N	0	0	M	2004	55
+2	23	Miluše	Jelínková	Mgr.		56	CZ	učitelka hudby	Praha	1	55	55	A	9	0	N	0	0	F	2004	55
+2	24	Svatopluk	Haugwitz			52	CZ	zdravotník záchranář	Praha	1	55	55	A	50	0	N	0	0	M	2004	55
+2	25	Jakub	Voleský			35	CZ	výtvarný redaktor	Praha	1	99	55	A	3	0	N	0	0	M	2004	55
+2	26	Libor	Linhart			48	CZ	odborný psycholog	Brno	3	55	55	A	22	0	N	0	0	M	2004	55
+2	27	Felix	Nevřela			33	CZ	filmový producent	Praha	1	99	55	A	15	0	N	0	0	M	2004	55
+2	28	Josef	Mrocek	Ing.		49	CZ	ekonom. a organizační poradce	Kutná Hora	533955	55	55	A	16	0	N	0	0	M	2004	55
+2	29	Václav	Vintr			41	CZ	psychiatrický asistent	Karlovy Vary	554961	99	55	A	11	0	N	0	0	M	2004	55
+2	30	Milan	Němec			47	CZ	účetní	Brandýs n.L.-St.Bol.	538094	55	55	A	5	0	N	0	0	M	2004	55
+2	31	Julius	Moravec			42	CZ	finanční poradce	Praha	1	55	55	A	21	0	N	0	0	M	2004	55
+3	1	Dimitrij	Dostál			51	CZ	hudební skladatel	Ostrava	4	99	151	A	170	0	N	0	0	M	2004	151
+3	2	David	Tobiasz			26	CZ	muzikant	Ostrava	4	99	151	A	175	0	N	0	0	M	2004	151
+3	3	Vladimír	Skórka			28	CZ	muzikant	Ostrava	4	99	151	A	79	0	N	0	0	M	2004	151
+3	4	Gabriela	Zimermanová			27	CZ	umělkyně	Dolní Benešov	506702	151	151	A	132	0	N	0	0	F	2004	151
+3	5	Michal	Burian			25	CZ	moderátor	Brno	3	99	151	A	119	0	N	0	0	M	2004	151
+3	6	Lumír	Mořkovský			35	CZ	moderátor	Ostrava	4	99	151	A	125	0	N	0	0	M	2004	151
+3	7	Petr	Novák			28	CZ	producent	Ostrava	4	99	151	A	45	0	N	0	0	M	2004	151
+3	8	Miroslav	Pifka	Ing.		30	CZ	spisovatel	Ostrava	4	99	151	A	93	0	N	0	0	M	2004	151
+3	9	Táňa	Zimermanová			22	CZ	zpěvačka	Dolní Benešov	506702	99	151	A	140	0	N	0	0	F	2004	151
+3	10	Jiří	Hyner			47	CZ	producent	Ostrava	4	99	151	A	28	0	N	0	0	M	2004	151
+3	11	Marek	Slonina			31	CZ	manager	Havířov	555088	99	151	A	47	0	N	0	0	M	2004	151
+3	12	Jan	Rohel			25	CZ	kaskadér	Ostrava	4	99	151	A	142	0	N	0	0	M	2004	151
+3	13	Zuzana	Slezáková			22	CZ	modelka	Ostrava	4	99	151	A	174	0	N	0	0	F	2004	151
+3	14	Petra	Halfarová			24	CZ	malířka	Ostrava	4	99	151	A	53	0	N	0	0	F	2004	151
+3	15	Martina	Jelínková			23	CZ	manager	Ostrava	4	99	151	A	45	0	N	0	0	F	2004	151
+3	16	Robert	Pifka	Ing.		28	CZ	sportovec	Ostrava	4	99	151	A	68	0	N	0	0	M	2004	151
+3	17	Aleš	Ďurka			33	CZ	zpěvák	Ostrava	4	99	151	A	38	0	N	0	0	M	2004	151
+3	18	Attila	Vencel			31	CZ	hudebník	Ostrava	4	99	151	A	26	0	N	0	0	M	2004	151
+3	19	Jiří	Beneš			32	CZ	hoteliér	Ostrava	4	99	151	A	26	0	N	0	0	M	2004	151
+3	20	Jan	Frkala			25	CZ	redaktor	Havířov	555088	99	151	A	42	0	N	0	0	M	2004	151
+3	21	Pavel	Kučera			33	CZ	muzikant	Ostrava	4	99	151	A	33	0	N	0	0	M	2004	151
+3	22	Ivo	Žídek			48	CZ	podnikatel	Ostrava	4	99	151	A	30	0	N	0	0	M	2004	151
+4	1	Libor	Rouček	Dr.		49	CZ	politolog	Družec	532274	7	7	A	39885	19.46	A	2	0	M	2004	7
+4	2	Richard	Falbr	JUDr.		63	CZ	senátor PČR	Praha	1	7	7	A	47270	23.06	A	1	0	M	2004	7
+4	3	Milan	Ekert	Ing.		39	CZ	poslanec PS PČR	Klatovy	555771	7	7	A	4498	0	N	0	1	M	2004	7
+4	4	Petr	Lachnit	Ing.	CSc.	54	CZ	poslanec PS PČR	Ostrava	4	7	7	A	4028	0	N	0	2	M	2004	7
+4	5	Bohumil	Fišer	Prof. MUDr.	CSc.	60	CZ	lékař	Brno	3	7	7	A	7742	0	N	0	3	M	2004	7
+4	6	Olga	Sehnalová	MUDr.		35	CZ	lékařka	Kroměříž	588296	7	7	A	7185	0	N	0	4	F	2004	7
+4	7	Anna	Čurdová	Mgr.		42	CZ	poslankyně PS PČR	Odolena Voda	538574	7	7	A	1841	0	N	0	5	F	2004	7
+4	8	František	Mezihorák	Prof. PhDr.	CSc.	66	CZ	univerzitní profesor, děkan	Olomouc	500496	7	7	A	5105	0	N	0	6	M	2004	7
+4	9	Jan	Hamáček			25	CZ	překladatel	Mladá Boleslav	535419	7	7	A	1829	0	N	0	7	M	2004	7
+4	10	Eva	Nováková	Mgr.		48	CZ	poslankyně PS PČR	Praha	1	7	7	A	946	0	N	0	8	F	2004	7
+4	11	Josef	Och			59	CZ	konzultant	Praha	1	7	7	A	117	0	N	0	9	M	2004	7
+4	12	Pavel	Poc	RNDr.		40	CZ	obchodní ředitel	Velká Hleďsebe	539279	7	7	A	400	0	N	0	10	M	2004	7
+4	13	Zuzana	Brzobohatá	Ing.		41	CZ	ředitelka kanceláře MF ČR	Tišnov	584002	7	7	A	1036	0	N	0	11	F	2004	7
+4	14	Zdeněk	Doležel	PhDr.	PhD.	50	CZ	ředitel odboru personál. MV ČR	Velké Meziříčí	597007	7	7	A	591	0	N	0	12	M	2004	7
+4	15	Vladimír	Müller	PhDr.	CSc.	40	CZ	zahraniční tajemník	Tábor	552046	7	7	A	879	0	N	0	13	M	2004	7
+4	16	Miroslav	Máče		CSc.,PhD.	47	CZ	vysokoškolský učitel	Český Krumlov	545392	7	7	A	676	0	N	0	14	M	2004	7
+4	17	Michal	Kraus	Ing. Mgr.		46	CZ	poslanec PS PČR	Semily	576964	7	7	A	1648	0	N	0	15	M	2004	7
+4	18	Libor	Hradil	Ing.		35	CZ	tajemník KVV ČSSD	Litomyšl	578347	7	7	A	446	0	N	0	16	M	2004	7
+4	19	Jiří	Jurán	Ing.	MBA.	38	CZ	ekonom	Bruntál	597180	7	7	A	760	0	N	0	17	M	2004	7
+4	20	Petr	Šulák	Ing.		60	CZ	poslanec PS PČR	Vsetín	541630	7	7	A	637	0	N	0	18	M	2004	7
+4	21	Tomáš	Novotný	JUDr. Ing.		35	CZ	státní úředník	Praha	1	7	7	A	231	0	N	0	19	M	2004	7
+4	22	Jaroslav	Bártl	Ing.		49	CZ	státní zaměstnanec	Jihlava	586846	7	7	A	208	0	N	0	20	M	2004	7
+4	23	Jaroslav	Straka	Mgr.	MBA.	37	CZ	konzultant	Plzeň	2	7	7	A	323	0	N	0	21	M	2004	7
+4	24	Ladislav	Skopal	Ing.		45	CZ	poslanec PS PČR	Dobšice	546941	7	7	A	204	0	N	0	22	M	2004	7
+4	25	Václav	Svoboda			55	CZ	poradce premiéra	České Budějovice	544256	7	7	A	435	0	N	0	23	M	2004	7
+4	26	Miloš	Titz	Doc. Ing.	CSc.	65	CZ	vysokoškolský učitel	Pardubice	555134	7	7	A	556	0	N	0	24	M	2004	7
+4	27	Jiří	Schüller	Mgr.		30	CZ	vysokoškolský učitel, advokát	Potěhy	534331	7	7	A	347	0	N	0	25	M	2004	7
+4	28	Pavel	Němec	Mgr.		27	CZ	právník	Mohelnice	540471	7	7	A	680	0	N	0	26	M	2004	7
+4	29	Jan	Zlínský	JUDr.		55	CZ	advokát	Zlín	585068	7	7	A	585	0	N	0	27	M	2004	7
+4	30	Jiří	Frank	Ing.	CSc.	63	CZ	akademický pracovník	Hradec Králové	569810	7	7	A	137	0	N	0	28	M	2004	7
+4	31	Věra	Jourová	Mgr.		39	CZ	úřednice	Jihlava	586846	7	7	A	338	0	N	0	29	F	2004	7
+4	32	Ivana	Tomková			52	CZ	personalistka	Kramolna	574546	7	7	A	204	0	N	0	30	F	2004	7
+5	1	Petra	Edelmannová	Mgr.		29	CZ	bankovní analytik	Františkovy Lázně	554529	152	152	A	357	0	N	0	0	F	2004	310
+5	2	Viktor	Trkal	RNDr.	CSc.	75	CZ	vědecký pracovník	Praha	1	2	2	A	244	0	N	0	0	M	2004	310
+5	3	Zbyněk	Holub	PaedDr.	PhDr.	47	CZ	VŠ pedagog	Zliv	545341	2	2	A	249	0	N	0	0	M	2004	310
+5	4	Martin	Votava	MUDr.	PhD.	31	CZ	VŠ pedagog	Praha	1	99	2	A	137	0	N	0	0	M	2004	310
+5	5	Jaroslav	Skopal	Ing.		67	CZ	podnikatel	Přerov	511382	2	2	A	66	0	N	0	0	M	2004	310
+5	6	Jaroslav	Malý	Ing.		41	CZ	komunitní poradce	Olomouc	500496	99	152	A	50	0	N	0	0	M	2004	310
+5	7	Jaroslava	Danišová	Ing.		58	CZ	podnikatel	Ústí nad Labem	554804	2	2	A	41	0	N	0	0	F	2004	310
+5	8	Dita	Holcmannová	Ing.		28	CZ	ekonomka	Chrudim	571164	99	152	A	80	0	N	0	0	F	2004	310
+5	9	Bohdan	Babinec	MUDr.	CSc.	60	CZ	lékař - chirurg	Praha	1	2	2	A	96	0	N	0	0	M	2004	310
+5	10	Jan	Kubačák			32	CZ	podnikatel	Vyškov	592889	2	2	A	87	0	N	0	0	M	2004	310
+5	11	Lenka	Hetzelová	Ing.		41	CZ	bankovní specialista	Kladno	532053	99	152	A	32	0	N	0	0	F	2004	310
+5	12	Petr	Topinka	JUDr.		46	CZ	podnikatel	Praha	1	2	2	A	41	0	N	0	0	M	2004	310
+5	13	Marek	Světlík	Mgr.		59	CZ	SŠ pedagog	Praha	1	2	2	A	33	0	N	0	0	M	2004	310
+5	14	Michaela	Matějková	Mgr.		42	CZ	SŠ pedagog	Praha	1	99	2	A	24	0	N	0	0	F	2004	310
+5	15	Ludvík	Hynek	JUDr.		54	CZ	podnikatel	Praha	1	2	2	A	14	0	N	0	0	M	2004	310
+5	16	Jiří	Pondělíček			39	CZ	knihkupec	Praha	1	2	2	A	28	0	N	0	0	M	2004	310
+5	17	Milan	Soukup	Bc.		38	CZ	analytik	Neratovice	535087	152	152	A	16	0	N	0	0	M	2004	310
+5	18	František	Stránský	Ing.		48	CZ	analytik	Praha	1	2	2	A	7	0	N	0	0	M	2004	310
+5	19	Jan	Herna		ThDipl.	61	CZ	teolog	Praha	1	2	2	A	7	0	N	0	0	M	2004	310
+5	20	Ladislav	Bergmann			72	CZ	sekretář SBPV	Řevnice	539643	99	2	A	10	0	N	0	0	M	2004	310
+5	21	Vladimír	Fröhlich			56	CZ	zvukař	Praha	1	2	2	A	3	0	N	0	0	M	2004	310
+5	22	Růžena	Šimková	RNDr.		43	CZ	podnikatel	Valašské Meziříčí	545058	99	152	A	15	0	N	0	0	F	2004	310
+5	23	Přemysl	Votava			60	CZ	manažer	Praha	1	2	2	A	14	0	N	0	0	M	2004	310
+5	24	Naděžda	Bruthansová	Ing.		50	CZ	podnikatel	Praha	1	99	152	A	2	0	N	0	0	F	2004	310
+5	25	Pavel	Sibřina		DiS.	25	CZ	manažer	Praha	1	99	152	A	12	0	N	0	0	M	2004	310
+5	26	Ivan	Dvořák			48	CZ	mistr	Praha	1	2	2	A	3	0	N	0	0	M	2004	310
+5	27	Věra	Edelmannová	Bc.		24	CZ	VŠ studentka	Františkovy Lázně	554529	99	152	A	29	0	N	0	0	F	2004	310
+5	28	Miroslav	Knapovský	Ing.		32	CZ	IT specialista	Červený Kostelec	573965	99	152	A	16	0	N	0	0	M	2004	310
+5	29	Jarmila	Jirsáková			51	CZ	podnikatel	Praha	1	2	2	A	1	0	N	0	0	F	2004	310
+5	30	Karel	Mrlík	Ing.		63	CZ	podnikatel	Zlín	585068	2	2	A	16	0	N	0	0	M	2004	310
+5	31	Miroslav	Bezecný			54	CZ	publicista	Sezimovo Ústí	553069	2	2	A	12	0	N	0	0	M	2004	310
+6	1	Jan	Zahradil	Ing.		41	CZ	poslanec PS PČR	Praha	1	53	53	A	129888	18.53	A	1	0	M	2004	53
+6	2	Petr	Duchoň	RNDr.		47	CZ	fyzik	Brno	3	53	53	A	31175	0	A	3	0	M	2004	53
+6	3	Miroslav	Ouzký	MUDr.		45	CZ	poslanec PS PČR	Kadaň	563102	53	53	A	5771	0	A	4	0	M	2004	53
+6	4	Hynek	Fajmon	Mgr.		36	CZ	poslanec PS PČR	Lysá nad Labem	537454	53	53	A	4840	0	A	5	0	M (Hynek Fajmon)	2004	53
+6	5	Nina	Škottová	Doc. RNDr.	CSc.	57	CZ	docentka lékařské fakulty UP	Bedihošť	589268	53	53	A	9352	0	A	6	0	F	2004	53
+6	6	Ivo	Strejček	PaedDr.		42	CZ	pedagog, překladatel	Žďár nad Sázavou	595209	53	53	A	5865	0	A	7	0	M	2004	53
+6	7	Oldřich	Vlasák	Ing.		48	CZ	primátor Hradce Králové	Hradec Králové	569810	53	53	A	10801	0	A	8	0	M	2004	53
+6	8	Milan	Cabrnoch	MUDr.		41	CZ	lékař	Kolín	533165	53	53	A	5719	0	A	9	0	M	2004	53
+6	9	Ivan	Knižátko	Ing.		45	CZ	fyzik	Ostrava	4	53	53	A	5126	0	N	0	1	M	2004	53
+6	10	Jaroslav	Zvěřina	Doc. MUDr.	CSc.	61	CZ	psychiatr, sexuolog, poslanec	Tábor	552046	53	53	A	54957	7.84	A	2	0	M	2004	53
+6	11	Zdeněk	Vostracký	Prof. Ing.	DrSc.,DEng.FEng	63	CZ	vysokoškolský profesor	Plzeň	2	53	53	A	14944	0	N	0	2	M	2004	53
+6	12	Tomáš	Úlehla	Mgr.		39	CZ	soukromý podnikatel	Zlín	585068	53	53	A	6367	0	N	0	3	M	2004	53
+6	13	Veronika	Nedvědová	Ing.		41	CZ	poslankyně PS PČR	Orlické Podhůří	580716	53	53	A	4102	0	N	0	4	F	2004	53
+6	14	Jaroslav	Zámečník	Ing.	CSc.	37	CZ	člen rady Libereckého kraje	Liberec	563889	53	53	A	3542	0	N	0	5	M	2004	53
+6	15	Luděk	Sequens	Mgr.		36	CZ	starosta	Nejdek	555380	53	53	A	2328	0	N	0	6	M	2004	53
+6	16	Antonín	Kazda	Mgr.	LL.M.	31	CZ	advokát	Praha	1	53	53	A	2627	0	N	0	7	M	2004	53
+6	17	Petr	Plecitý	Mgr.		33	CZ	radní MČ Praha 4	Praha	1	53	53	A	1363	0	N	0	8	M	2004	53
+6	18	Kateřina	Trinerová			29	CZ	nákupčí v automobil. průmyslu	Kryry	566314	53	53	A	2770	0	N	0	9	F	2004	53
+6	19	Luděk	Sefzig	MUDr.		47	CZ	chirurg, senátor PČR	Rokycany	559717	53	53	A	2265	0	N	0	10	M	2004	53
+6	20	Jaromír	Kalus	PhDr.		56	CZ	ředitel muzea	Opava	505927	53	53	A	1706	0	N	0	11	M	2004	53
+6	21	Simeon	Karamazov	Doc. Ing.	Dr.	40	CZ	vysokoškolský učitel	Pardubice	555134	53	53	A	1423	0	N	0	12	M	2004	53
+6	22	Jan	Šlemr	Ing.		37	CZ	řídící pracovník	Karlovy Vary	554961	53	53	A	589	0	N	0	13	M	2004	53
+6	23	Jan	Bartoň	Ing.	CSc.	53	CZ	vedoucí filiálky	Česká Lípa	561380	53	53	A	515	0	N	0	14	M	2004	53
+6	24	Jan	Šulc	PhDr.		60	CZ	diplomat	Vsetín	541630	53	53	A	1112	0	N	0	15	M	2004	53
+6	25	David	Šeich	Mgr.		27	CZ	poslanec PS PČR	Rajhrad	583758	53	53	A	852	0	N	0	16	M	2004	53
+6	26	Helena	Mallotová	Mgr.		59	CZ	poslankyně PS PČR	Praha	1	53	53	A	373	0	N	0	17	F	2004	53
+6	27	Karel	Novák	Prof. MUDr.	DrSc.	53	CZ	lékař, vysokoškolský profesor	Rokycany	559717	53	53	A	1955	0	N	0	18	M	2004	53
+6	28	Martin	Kučera	Ing.		34	CZ	tlumočník, překladatel	Přerov	511382	53	53	A	1654	0	N	0	19	M	2004	53
+6	29	Rostislav	Všetečka	Ing.		48	CZ	ekonom	Opočno	542555	53	53	A	726	0	N	0	20	M	2004	53
+6	30	Josef	Hynek	RNDr.		38	CZ	děkan fakulty	Vysoké Mýto	581186	53	53	A	1053	0	N	0	21	M	2004	53
+6	31	Ivo	Železný	PhDr.		54	CZ	nakladatel, překladatel	Praha	1	53	53	A	2780	0	N	0	22	M	2004	53
+6	32	Raymond	Asuquo	Ing.	PhD.,MBA.	46	CZ	petronom str. rozvoje, ředitel	Břeclav	584291	53	53	A	963	0	N	0	23	M	2004	53
+7	1	Eva	Tylová	Ing.		44	CZ	poradkyně pro život. prostředí	Praha	1	103	103	A	815	0	N	0	0	F	2004	103
+7	2	Marian	Böhm	Ing.		25	CZ	asistent náměstkyně primátora	Liberec	563889	99	103	A	270	0	N	0	0	M	2004	103
+7	3	Pavel	Nováček	RNDr.	CSc.	43	CZ	vysokoškolský učitel - ekolog	Olomouc	500496	103	103	A	741	0	N	0	0	M	2004	103
+7	4	Marcela	Neradová			25	CZ	podnikatelka	Strašice	551775	103	103	A	70	0	N	0	0	F	2004	103
+7	5	Svatomír	Mlčoch	JUDr.		48	CZ	advokát	České Budějovice	544256	103	103	A	352	0	N	0	0	M	2004	103
+7	6	Jan	Šusta			24	CZ	student	Hradec Králové	569810	99	103	A	55	0	N	0	0	M	2004	103
+7	7	Eva	Hauserová	RNDr.		49	CZ	spisovatelka	Praha	1	99	103	A	202	0	N	0	0	F	2004	103
+7	8	Ivana	Kadochová	Ing.		42	CZ	úřednice MÚ odb.živ.prostředí	Vimperk	550647	103	103	A	62	0	N	0	0	F	2004	103
+7	9	Pavel	Navrátil	MUDr.	CSc.	52	CZ	lékař	Prostějov	589250	99	103	A	161	0	N	0	0	M	2004	103
+7	10	Zdeněk	Černovský	Ing.	PhD.	32	CZ	projektový vedoucí a konzult.	Říčany	538728	103	103	A	73	0	N	0	0	M	2004	103
+7	11	Tomáš	Zdražil		Dr.phil.	30	CZ	učitel	Semily	576964	99	103	A	176	0	N	0	0	M	2004	103
+7	12	Simona	Svobodová			34	CZ	podnikatelka	Třebíč	590266	99	103	A	35	0	N	0	0	F	2004	103
+7	13	Yvona	Hlinská	Mgr.		40	CZ	lektor - konzultant	Vsetín	541630	99	103	A	67	0	N	0	0	F	2004	103
+7	14	Jiří	Kulich	RNDr.		43	CZ	ředitel stř.ekol.výchovy SEVER	Horní Maršov	579262	99	103	A	226	0	N	0	0	M	2004	103
+7	15	Lubor	Kysučan	PhDr.		36	CZ	vysokoškolský učitel	Brno	3	99	103	A	115	0	N	0	0	M	2004	103
+7	16	Jan	Dráždil			60	CZ	místostarosta	Dubí	567507	103	103	A	35	0	N	0	0	M	2004	103
+7	17	Radim	Misiaček	RNDr.		44	CZ	odborný pracovník	Ostrava	4	99	103	A	20	0	N	0	0	M	2004	103
+7	18	Marie	Hlávková	Mgr.		29	CZ	psychoterapeutka, publicistka	Praha	1	99	103	A	60	0	N	0	0	F	2004	103
+7	19	Karel	Dolejší	Mgr.		33	CZ	sociolog, publicista	Dolní Kounice	582956	99	103	A	43	0	N	0	0	M	2004	103
+7	20	Petr	Půlpán	Ing.		37	CZ	obchodní manažer	Holice	574988	99	103	A	17	0	N	0	0	M	2004	103
+7	21	Eva	Bílková			22	CZ	studentka	Sedliště	548961	99	103	A	39	0	N	0	0	F	2004	103
+7	22	Jana	Hajduchová	Ing. arch.		42	CZ	učitelka jazyků, architektka	Uherské Hradiště	592005	99	103	A	48	0	N	0	0	F	2004	103
+7	23	Zuzana	Tachovská	Mgr.		33	CZ	farmaceutický representant	Liberec	563889	103	103	A	41	0	N	0	0	F	2004	103
+7	24	Jan	Kozák			23	CZ	makléř na akciových trzích	Vyskeř	577685	99	103	A	21	0	N	0	0	M	2004	103
+7	25	Andrea	Dutková	MUDr.		38	CZ	psychiatr	Přerov	511382	99	103	A	36	0	N	0	0	F	2004	103
+7	26	Jana	Sobotková	Bc.		24	CZ	novinářka	Vojkovice	552488	99	103	A	25	0	N	0	0	F	2004	103
+7	27	Martin	Pavlečka		DiS.	26	CZ	administrativní pracovník	Třebíč	590266	103	103	A	19	0	N	0	0	M	2004	103
+7	28	Radek	Skřivánek			29	CZ	vedoucí technik	Říčany	583839	103	103	A	13	0	N	0	0	M	2004	103
+7	29	Michal	Vajrauch	Mgr.		55	CZ	sociolog	Pardubice	555134	103	103	A	11	0	N	0	0	M	2004	103
+7	30	Lukáš	Klimeš	Ing.		27	CZ	projektový manažer	Tachov	553638	103	103	A	16	0	N	0	0	M	2004	103
+7	31	Alena	Bochová	Bc.		24	CZ	učitelka jazyků	Semily	576964	99	103	A	83	0	N	0	0	F	2004	103
+7	32	Tereza	Kynčlová			26	CZ	studentka	Hradec Králové	569810	99	103	A	39	0	N	0	0	F	2004	103
+8	1	Milan	Neubert	RNDr.		49	CZ	pracovník výzkumu a vývoje	Praha	1	74	74	A	119	0	N	0	0	M	2004	74
+8	2	Vladimír	Farana	JUDr.		51	CZ	starosta města	Orlová	599069	74	74	A	196	0	N	0	0	M	2004	74
+8	3	Božena	Kremláčková	MVDr.		48	CZ	veterinární lékařka	Jihlava	586846	74	74	A	84	0	N	0	0	F	2004	74
+8	4	Jiří	Hudeček	RNDr.	CSc.	50	CZ	vysokoškolský učitel	Praha	1	74	74	A	54	0	N	0	0	M	2004	74
+8	5	Jan	Komenda	RSDr.		57	CZ	technik	České Budějovice	544256	74	74	A	51	0	N	0	0	M	2004	74
+8	6	Karel	Masný	MUDr.		62	CZ	lékař	Karlovy Vary	554961	74	74	A	73	0	N	0	0	M	2004	74
+8	7	Ľudmila	Vodičková	MUDr.	CSc.	47	CZ	vědecký pracovník	Praha	1	99	74	A	41	0	N	0	0	F	2004	74
+8	8	Karel	Hanauer	RNDr.		38	CZ	programátor	Praha	1	74	74	A	38	0	N	0	0	M	2004	74
+8	9	František	Bartoš	Ing.		57	CZ	podnikatel	Český Krumlov	545392	74	74	A	18	0	N	0	0	M	2004	74
+8	10	Marie	Lopourová			40	CZ	učitelka	Třebařov	578908	74	74	A	30	0	N	0	0	F	2004	74
+8	11	Jaroslav	Hornych	MUDr.		53	CZ	úředník	Dobřichovice	539198	74	74	A	16	0	N	0	0	M	2004	74
+8	12	Miroslav	Fišer			40	CZ	provozní chemik	Vyskytná n.Jihlavou	588172	74	74	A	29	0	N	0	0	M	2004	74
+8	13	Vladimír	Seidl	Mgr.		68	CZ	důchodce	Praha	1	74	74	A	21	0	N	0	0	M	2004	74
+8	14	Matúš	Bóna	Mgr.		33	CZ	advokát	Brno	3	74	74	A	25	0	N	0	0	M	2004	74
+8	15	Josef	Formánek	MVDr.		54	CZ	veterinární lékař	České Budějovice	544256	74	74	A	36	0	N	0	0	M	2004	74
+8	16	Petr	Andrš	RSDr.		54	CZ	skladník	Neratovice	535087	74	74	A	5	0	N	0	0	M	2004	74
+8	17	Marie	Jeništová			56	CZ	nezaměstnaná	Proseč	537829	74	74	A	20	0	N	0	0	F	2004	74
+8	18	Vít	Stanislav	PaedDr.		60	CZ	učitel	Praha	1	74	74	A	11	0	N	0	0	M	2004	74
+8	19	Anna	Oppitzová			52	CZ	manažer	Mělník	534676	74	74	A	18	0	N	0	0	F	2004	74
+8	20	Bohuslav	Mikulášek			58	CZ	muzejník	Velké Meziříčí	597007	74	74	A	24	0	N	0	0	M	2004	74
+8	21	Bruno	Förster	Ing.		61	CZ	důchodce	Karlovy Vary	554961	74	74	A	15	0	N	0	0	M	2004	74
+8	22	Karel	Lajtkep			52	CZ	izolatér	Praha	1	74	74	A	6	0	N	0	0	M	2004	74
+8	23	Jaromír	Machník			50	CZ	podnikatel	Český Krumlov	545392	74	74	A	10	0	N	0	0	M	2004	74
+8	24	Oldřich	Křepelka	PhDr.		72	CZ	důchodce	Karlovy Vary	554961	74	74	A	4	0	N	0	0	M	2004	74
+8	25	Alena	Harusová			58	CZ	studijní referentka	Praha	1	74	74	A	1	0	N	0	0	F	2004	74
+8	26	Václav	Honc	Ing.		66	CZ	stavební inženýr	Praha	1	74	74	A	3	0	N	0	0	M	2004	74
+8	27	Karel	Černý			57	CZ	technik	Pardubice	555134	74	74	A	2	0	N	0	0	M	2004	74
+8	28	Vladimír	Koukal			68	CZ	jednatel společnosti	Praha	1	74	74	A	2	0	N	0	0	M	2004	74
+8	29	Marie	Hardtová	Mgr.	CSc.	60	CZ	učitelka	Dobřichovice	539198	99	74	A	7	0	N	0	0	F	2004	74
+9	1	Jakub	Patočka			31	CZ	šéfredaktor Literárních novin	Brno	3	5	5	A	10297	0	N	0	0	M	2004	5
+9	2	Jana	Ulbrychová			31	CZ	novinářka	Brno	3	5	5	A	4018	0	N	0	0	F	2004	5
+9	3	Frank	Boldt			61	CZ	ředitel nadace Evrop. Comenium	Cheb	554481	5	5	A	762	0	N	0	0	M	2004	5
+9	4	Olga	Lomová			47	CZ	ředitelka Ústavu DV na FF UK	Praha	1	5	5	A	1545	0	N	0	0	F	2004	5
+9	5	Miroslav	Zima			46	CZ	ředitel Romského centra dětí	Brno	3	99	5	A	541	0	N	0	0	M	2004	5
+9	6	Zuzana	Zdráhalová Lapčíková			36	CZ	cimbalistka a zpěvačka	Topolná	592692	99	5	A	1472	0	N	0	0	F	2004	5
+9	7	Jaromír	Štětina			61	CZ	novinář a obhájce lidsk.práv	Praha	1	99	5	A	11462	0	N	0	0	M	2004	5
+9	8	Rut	Kolínská			51	CZ	etnografka	Praha	1	99	5	A	1495	0	N	0	0	F	2004	5
+9	9	Leo	Košťál			42	CZ	ekolog.lesník a chovatel koní	Ostravice	598542	99	5	A	1753	0	N	0	0	M	2004	5
+9	10	Tereza	Boučková			47	CZ	spisovatelka	Svatý Jan pod Skalou	531804	99	5	A	2782	0	N	0	0	F	2004	5
+9	11	Jaroslav	Pavlíček			60	CZ	polárník	Písek	549240	99	5	A	1092	0	N	0	0	M	2004	5
+9	12	Neela	Winkelmannová			34	CZ	poradkyně ekologické energet.	Praha	1	5	5	A	1281	0	N	0	0	F	2004	5
+9	13	Pavel	Dobeš			55	CZ	písničkář	Hradec Králové	569810	99	5	A	3145	0	N	0	0	M	2004	5
+9	14	Marie	Žochová			60	CZ	dramaturgyně a novinářka	Ostrava	4	99	5	A	257	0	N	0	0	F	2004	5
+9	15	Mojmír	Vlašín			49	CZ	ochránce přírody	Brno	3	99	5	A	1807	0	N	0	0	M	2004	5
+9	16	Olga	Žampová			40	CZ	mateřská dovolená	Praha	1	99	5	A	123	0	N	0	0	F	2004	5
+9	17	Jan	Korytář			32	CZ	předseda Sdruž.ochr.Jizer.hor	Liberec	563889	5	5	A	1344	0	N	0	0	M	2004	5
+9	18	Jana	Drápalová			41	CZ	starostka Brna-N.Lískovce	Brno	3	5	5	A	538	0	N	0	0	F	2004	5
+9	19	Jan	Linhart			53	CZ	poradce v obl.realit a financí	Pardubice	555134	5	5	A	86	0	N	0	0	M	2004	5
+9	20	Helena	Červená			63	CZ	učitelka	Mladá Boleslav	535419	5	5	A	78	0	N	0	0	F	2004	5
+9	21	Petr	Vacek			39	CZ	herec divadla Ypsilon	Praha	1	99	5	A	2321	0	N	0	0	M	2004	5
+9	22	Jindřiška	Krpálková			51	CZ	evangelická farářka	Praha	1	99	5	A	309	0	N	0	0	F	2004	5
+9	23	Miroslav	Janík			56	CZ	předseda ČSOP Kosenka	Valašské Klobouky	585891	99	5	A	640	0	N	0	0	M	2004	5
+9	24	Marie	Hronová			56	CZ	manažerka vzdělávání	Jihlava	586846	5	5	A	74	0	N	0	0	F	2004	5
+9	25	Jiří	Slanec			57	CZ	ředitel divadla v Příbrami	Milín	540757	5	5	A	50	0	N	0	0	M	2004	5
+9	26	Alena	Wagnerová			68	CZ	spisovatelka	Praha	1	99	5	A	82	0	N	0	0	F	2004	5
+9	27	Pavel	Andrš			40	CZ	lékař	Olomouc	500496	5	5	A	295	0	N	0	0	M	2004	5
+9	28	Naděžda	Kopelentová			42	CZ	předsedkyně ČSOP Zel.Šumava	Sušice	557153	5	5	A	603	0	N	0	0	F	2004	5
+9	29	Milan	Smrž			56	CZ	předseda sdružení Eurosolar	Praha	1	5	5	A	159	0	N	0	0	M	2004	5
+9	30	Kateřina	Bláhová			33	CZ	personalistka	Tábor	552046	99	5	A	94	0	N	0	0	F	2004	5
+9	31	Petr	Larva			32	CZ	před.Stř.kolonie umění Terezín	Praha	1	99	5	A	185	0	N	0	0	M	2004	5
+9	32	Věra	Zabloudilová			60	CZ	chemik	Brno	3	5	5	A	68	0	N	0	0	F	2004	5
+10	1	Patrik	Koranda			29	CZ	projektový konzultant	Lišov	544779	100	100	A	231	0	N	0	0	M	2004	100
+10	2	Dana	Feminová			33	CZ	podnikatelka	Praha	1	100	100	A	202	0	N	0	0	F	2004	100
+10	3	Jan	Tamáš	Ing.		28	CZ	doktorand	Kostelec nad Orlicí	576361	100	100	A	154	0	N	0	0	M	2004	100
+10	4	Táňa	Bednářová	Bc.		26	CZ	koordinátorka nezisk. organ.	Praha	1	100	100	A	194	0	N	0	0	F	2004	100
+10	5	Jan	Bednář			25	CZ	grafik	Praha	1	100	100	A	73	0	N	0	0	M (muž)	2004	100
+10	6	Eva	Obořilová	Mgr.		30	CZ	bioložka	Ivanovice na Hané	593117	99	100	A	135	0	N	0	0	F	2004	100
+10	7	Lucie	Chocholatá			27	CZ	studentka	Praha	1	100	100	A	69	0	N	0	0	F	2004	100
+10	8	Jiří	Ullrich	Ing.		28	CZ	podnikatel	Zdobnice	576948	100	100	A	35	0	N	0	0	M	2004	100
+10	9	Markéta	Náměstková	Bc.		24	CZ	studentka	Kosova Hora	540498	100	100	A	42	0	N	0	0	F	2004	100
+10	10	Simona	Heřtusová			30	CZ	koordinátor.nezisk.organizace	Praha	1	100	100	A	78	0	N	0	0	F	2004	100
+10	11	Antonín	Vavřík	Bc.		29	CZ	středoškolský učitel	Ludslavice	588725	100	100	A	40	0	N	0	0	M	2004	100
+10	12	Silvia	Knihařová	Mgr.		29	CZ	pedagog	Třešť	588032	99	100	A	51	0	N	0	0	F	2004	100
+10	13	Vratislav	Artner	Mgr.		53	CZ	soudní překladatel	Praha	1	99	100	A	44	0	N	0	0	M	2004	100
+10	14	Michal	Bareš			29	CZ	podnikatel	Rynoltice	564397	100	100	A	11	0	N	0	0	M	2004	100
+10	15	Radmila	Kudelová	Ing.		26	CZ	obchodní referent	Ostrava	4	99	100	A	30	0	N	0	0	F	2004	100
+10	16	Lenka	Talácková			23	CZ	marketingová ředitelka	Hořice	572926	100	100	A	52	0	N	0	0	F	2004	100
+10	17	Jan	Burian			30	CZ	asistent na Vysoké škole	Praha	1	99	100	A	30	0	N	0	0	M	2004	100
+10	18	Václav	Havlík	Ing.		26	CZ	layout designer	Benešov	529303	100	100	A	44	0	N	0	0	M	2004	100
+10	19	Dagmar	Bystřická	Mgr.		27	CZ	biolog - cytolog	Frýdlant	564028	100	100	A	55	0	N	0	0	F	2004	100
+10	21	Eva	Fialová			22	CZ	studentka	Rudolfov	544981	99	100	A	37	0	N	0	0	F	2004	100
+10	22	Jana	Kalátová			22	CZ	studentka	Praha	1	100	100	A	21	0	N	0	0	F	2004	100
+10	23	Veronika	Matúšová			22	CZ	studentka	Zlín	585068	99	100	A	43	0	N	0	0	F	2004	100
+10	24	Lenka	Mihulová			40	CZ	podnikatelka	Praha	1	99	100	A	16	0	N	0	0	F	2004	100
+10	25	Anna	Vojtíšková			72	CZ	zdravotní sestra	Praha	1	100	100	A	4	0	N	0	0	F	2004	100
+10	26	Anna	Trubanová	MUDr.		50	CZ	rentgenolog	Praha	1	100	100	A	19	0	N	0	0	F	2004	100
+10	27	Markéta	Jůnová			24	CZ	studentka	Praha	1	100	100	A	7	0	N	0	0	F	2004	100
+10	28	Ivana	Hladká			23	CZ	studentka	Jihlava	586846	100	100	A	17	0	N	0	0	F	2004	100
+10	29	Petr	Chocholatý			23	CZ	student	Praha	1	100	100	A	12	0	N	0	0	M	2004	100
+10	31	Dominika	Fiřtíková			22	CZ	asistentka realitní kanceláře	Praha	1	100	100	A	17	0	N	0	0	F	2004	100
+10	32	Sofia	Komrsková			22	CZ	studentka	Praha	1	100	100	A	32	0	N	0	0	F	2004	100
+11	1	Alena	Hromádková	Ing.		61	CZ	vysokoškolský učitel	Praha	1	99	24	A	1974	0	N	0	0	F	2004	24
+11	2	Iva	Zezulová	Mgr.		37	CZ	psycholožka	Klatovy	555771	24	24	A	466	0	N	0	0	F	2004	24
+11	3	Milan	Paumer			73	CZ	důchodce	Poděbrady	537683	24	24	A	204	0	N	0	0	M	2004	24
+11	4	Jaromír	Morávek	Ing.		55	CZ	konzultant	Branišovice	593834	24	24	A	183	0	N	0	0	M	2004	24
+11	5	Myslibor	Chalupa	Ing.		70	CZ	důchodce	Praha	1	24	24	A	43	0	N	0	0	M	2004	24
+12	1	Zuzana	Brázdová	Prof. MUDr.		47	CZ	prorektorka Masarykovy univ.	Brno	3	99	158	A	3009	0	N	0	0	F	2004	158
+12	2	Michael James Alexander	Stewart of Albany			46	GB	spisovatel	Edinburgh	1	99	158	A	728	0	N	0	0	M	2004	158
+12	3	Ladislav	Klíma	Ing.	generálpor.	55	CZ	manažer	Hradec Králové	569810	99	158	A	883	0	N	0	0	M	2004	158
+12	4	Jaroslav	Pařík			62	CZ	viceprezident a. s. Delta	Židlochovice	584282	99	158	A	1713	0	N	0	0	M	2004	158
+12	5	Dymo	Piškula	Ing.		37	CZ	starosta města Břeclav	Břeclav	584291	99	158	A	305	0	N	0	0	M	2004	158
+12	6	Jiří	Balvín	Mgr.		50	CZ	generální ředitel	Praha	1	99	158	A	120	0	N	0	0	M	2004	158
+12	7	Pavel	Tomáš	Ing.		40	CZ	majitel společnosti	Praha	1	99	158	A	50	0	N	0	0	M	2004	158
+12	8	František	Vižďa	Doc. RNDr.	PhD.	34	CZ	vysokoškolský pedagog	Brno	3	99	158	A	644	0	N	0	0	M	2004	158
+12	9	Jaromír	Volek	Ing.	PhD.	40	CZ	majitel společnosti	Jankovice	575101	99	158	A	41	0	N	0	0	M	2004	158
+12	10	Jana	Skácelová	Ing.		41	CZ	místostarostka obce Šlapanice	Šlapanice	532916	99	158	A	239	0	N	0	0	F	2004	158
+12	11	Igor	Zipper	PaedDr.		41	CZ	ředitel příspěvkové organizace	Hodonín	547794	99	158	A	116	0	N	0	0	M	2004	158
+12	12	Miroslav	Hebký	Ing.		45	CZ	manažer	Hlinsko	571393	99	158	A	79	0	N	0	0	M	2004	158
+12	13	Vladislav	Navrátil	Prof. RNDr.	CSc.	62	CZ	vysokoškolský pedagog	Brno	3	99	158	A	234	0	N	0	0	M	2004	158
+12	14	Karel	Levínský	Ing.		36	CZ	ředitel stavební pojišťovny	Sezemice	599573	99	158	A	76	0	N	0	0	M	2004	158
+12	15	Jiří	Mališka			45	CZ	ředitel společnosti	Liberec	563889	99	158	A	40	0	N	0	0	M	2004	158
+12	16	Jan	Havlík			52	CZ	starosta MČ Brno - Tuřany	Brno	3	99	158	A	55	0	N	0	0	M	2004	158
+12	17	Josef	Vavřík			48	CZ	starosta obce Blatnice	Blatnice p.Sv.Anton.	586048	99	158	A	139	0	N	0	0	M	2004	158
+12	18	Ladislav	Plička	Mgr.		60	CZ	ředitel společnosti	Jičín	572659	99	158	A	25	0	N	0	0	M	2004	158
+12	19	Hana	Slámová			42	CZ	starostka obce Želešice	Želešice	584266	99	158	A	47	0	N	0	0	F	2004	158
+12	20	Radomil	Brada			46	CZ	starosta obce Oskava	Oskava	540544	99	158	A	24	0	N	0	0	M	2004	158
+12	21	Josef	Schwarzmann			56	CZ	majitel společnosti	Kolín	533165	99	158	A	9	0	N	0	0	M	2004	158
+12	22	Radovan	Brzobohatý	Ing.		39	CZ	vysokoškolský pedagog	Jiříkovice	583189	99	158	A	69	0	N	0	0	M	2004	158
+12	23	Martin	Ondrouch	Ing. arch.		33	CZ	architekt	Břeclav	584291	99	158	A	64	0	N	0	0	M	2004	158
+12	24	Jaromír	Harvánek	JUDr.	CSc.	49	CZ	právník	Brno	3	99	158	A	119	0	N	0	0	M	2004	158
+12	25	Petr	Konečný	Ing.		30	CZ	majitel společnosti	Vizovice	585939	99	158	A	39	0	N	0	0	M	2004	158
+12	26	Jiří	Horký			47	CZ	dramaturg	Brno	3	99	158	A	25	0	N	0	0	M	2004	158
+12	27	Miloslav	Morávek			50	CZ	technik	Šumperk	523704	99	158	A	26	0	N	0	0	M	2004	158
+12	28	Ivo	Černoch			42	CZ	manažer	Jičín	572659	99	158	A	27	0	N	0	0	M	2004	158
+12	29	Bohumil	Filipenský	MUDr.		57	CZ	lékař	Břeclav	584291	99	158	A	84	0	N	0	0	M	2004	158
+12	30	Zdeněk	Šustr	MUDr.	CSc.	59	CZ	lékař	Brno	3	99	158	A	66	0	N	0	0	M	2004	158
+12	31	Zdeněk	Petr	Mgr.		42	CZ	ředitel příspěvkové organizace	Břeclav	584291	99	158	A	26	0	N	0	0	M	2004	158
+12	32	Jan	Petrás	Ing.		44	CZ	technik	Brno	3	99	158	A	41	0	N	0	0	M	2004	158
+13	1	Patrik	Ungermann	Mgr.		30	CZ	středošk. profesor,šéfredaktor	Hradec Králové	569810	156	156	A	233	0	N	0	0	M	2004	156
+13	2	Jan	Broj			72	CZ	soukromý zemědělec	Březová	532011	156	156	A	110	0	N	0	0	M	2004	156
+13	3	Olga	Chválová	PaedDr.	CSc.	47	CZ	podnikatelka a překladatelka	Praha	1	99	156	A	174	0	N	0	0	F	2004	156
+13	4	Miroslav	Nedvídek	Ing.		73	CZ	ekonomický poradce	Praha	1	156	156	A	22	0	N	0	0	M	2004	156
+13	5	Jana	Mrovcová	Ing.		41	CZ	učitelka	Náchod	573868	99	156	A	89	0	N	0	0	F	2004	156
+13	6	Jaroslav	Hradecký			23	CZ	dělník	Police nad Metují	574341	156	156	A	103	0	N	0	0	M	2004	156
+13	7	Marta	Karlíčková			54	CZ	finanční poradce	Chomutov	562971	99	156	A	52	0	N	0	0	F	2004	156
+13	8	Josef	Novotný			55	CZ	invalidní důchodce	Teplice nad Metují	574538	156	156	A	42	0	N	0	0	M	2004	156
+13	9	Jakub	Dvořák	Mgr.		37	CZ	stř.profesor a evang. duchovní	Bohuslavice	573892	99	156	A	100	0	N	0	0	M	2004	156
+13	10	Marek	Bejr			22	CZ	studující VŠ	Trutnov	579025	156	156	A	63	0	N	0	0	M	2004	156
+13	11	Pavel	Varga			40	CZ	sociální pracovník	Náchod	573868	156	156	A	35	0	N	0	0	M	2004	156
+13	12	Josef	Tišler			66	CZ	soukromý zemědělec	Prachatice	550094	156	156	A	47	0	N	0	0	M	2004	156
+13	13	Miloš	Novotný			28	CZ	dělník	Náchod	573868	156	156	A	67	0	N	0	0	M	2004	156
+13	14	Jaroslav	Němec			44	CZ	servisní technik	Svitavy	577731	156	156	A	28	0	N	0	0	M	2004	156
+13	15	Jaroslav	Lípa			68	CZ	důchodce	Brandýs n.L.-St.Bol.	538094	156	156	A	12	0	N	0	0	M	2004	156
+13	16	Jana	Huclová			60	CZ	důchodce	Břasy	559725	99	156	A	21	0	N	0	0	F	2004	156
+13	17	David	Richter			26	CZ	speditér	Jaroměř	574121	156	156	A	21	0	N	0	0	M	2004	156
+13	18	Anna	Chalupová			62	CZ	důchodkyně	Jeneč	539317	156	156	A	13	0	N	0	0	F	2004	156
+13	19	Miroslav	Zeman			27	CZ	t.č. bez zaměstnání	Náchod	573868	156	156	A	38	0	N	0	0	M	2004	156
+13	20	Josef	Ženíšek			63	CZ	soukromý podnikatel	Velké Přílepy	539813	99	156	A	11	0	N	0	0	M	2004	156
+13	21	Iva	Karkoszková			40	CZ	prodavačka	Náchod	573868	156	156	A	23	0	N	0	0	F	2004	156
+14	1	Milan	Kozlík	MUDr.		31	CZ	farmaceutický reprezentant	Dobřív	559776	68	68	A	356	0	N	0	0	M	2004	68
+14	2	Michal	Chromec	MUDr.		56	CZ	lékař	Přerov	511382	68	68	A	342	0	N	0	0	M	2004	68
+14	3	Miloslav	Krieger	PhDr.	CSc.	50	CZ	historik	Praha	1	68	68	A	282	0	N	0	0	M	2004	68
+14	4	Lucie	Ripová	Mgr. et Mgr.		31	CZ	právnička	Praha	1	68	68	A	189	0	N	0	0	F	2004	68
+14	5	Zdeněk	Hosa	Mgr. Ing.		31	CZ	daňový poradce	Poděbrady	537683	68	68	A	77	0	N	0	0	M	2004	68
+14	6	Lenka	Kuchlerová		DiS.	38	CZ	fyzioterapeutka	Sázava	534382	68	68	A	58	0	N	0	0	F	2004	68
+14	7	Ivana	Novotná	PhDr.		49	CZ	středoškolská profesorka	Přerov	511382	68	68	A	126	0	N	0	0	F	2004	68
+14	8	Jan	Novák			50	CZ	zástupce ředitele ZUŠ	Litoměřice	564567	99	68	A	75	0	N	0	0	M	2004	68
+14	9	Lenka	Šubrtová	MUDr.		37	CZ	lékařka	Chotěšov	557838	68	68	A	94	0	N	0	0	F	2004	68
+14	10	Martin	Ryba			27	CZ	systémový analytik	Dětmarovice	598941	99	68	A	38	0	N	0	0	M	2004	68
+14	11	Miroslava	Mohylová	Ing.		36	CZ	daňová poradkyně	Přerov	511382	99	68	A	68	0	N	0	0	F	2004	68
+14	12	Daniela	Šimková			31	CZ	podnikatelka	Jihlava	586846	68	68	A	33	0	N	0	0	F	2004	68
+14	13	Jiří	Sekyra	Mgr.		54	CZ	učitel	Litoměřice	564567	68	68	A	64	0	N	0	0	M	2004	68
+14	14	Kamil	Kuchler			26	CZ	podnikatel	Praha	1	68	68	A	29	0	N	0	0	M	2004	68
+14	15	Dalibor	Státník	Mgr.		42	CZ	historik archivář	Praha	1	1	68	A	53	0	N	0	0	M	2004	68
+14	16	Pavel	Hlavsa	MUDr.		30	CZ	manažer	Zruč	559679	68	68	A	34	0	N	0	0	M	2004	68
+14	17	Ladislav	Foukal	Ing.		59	CZ	stavební technik	Přerov	511382	99	68	A	25	0	N	0	0	M	2004	68
+14	18	Erika	Honzáková	Ing.		50	CZ	systémová specialistka	Praha	1	99	68	A	18	0	N	0	0	F	2004	68
+14	19	Petr	Musil			34	CZ	podnikatel	Rokycany	559717	68	68	A	25	0	N	0	0	M	2004	68
+14	20	Jiří	Precektor			31	CZ	učitel	Přerov	511382	68	68	A	34	0	N	0	0	M	2004	68
+14	21	Vlasta	Šťastná	MUDr.		31	CZ	lékařka	Kbelany	538183	99	68	A	25	0	N	0	0	F	2004	68
+14	22	Irena	Malotová	Mgr.		36	CZ	farmaceut. representant	Strakonice	550787	99	68	A	13	0	N	0	0	F	2004	68
+14	23	David	Binhack			24	CZ	podnikatel	Praha	1	68	68	A	8	0	N	0	0	M	2004	68
+14	24	Eva	Konradyová	Mgr.		34	CZ	farmaceut. representant	Plzeň	2	99	68	A	17	0	N	0	0	F	2004	68
+14	25	Vladimír	Flegel	Mgr.		56	CZ	fyzioterapeut	Přerov	511382	99	68	A	15	0	N	0	0	M	2004	68
+14	26	Miroslava	Pištěcká			59	CZ	zdravotní sestra	Trnovany	542407	68	68	A	13	0	N	0	0	F	2004	68
+14	27	Vladimír	Jopek	Dipl.umělec		27	CZ	pedagog	Mimoň	561835	68	68	A	17	0	N	0	0	M	2004	68
+14	28	Kvido	Kuželka	Ing.		28	CZ	farmaceut. representant	Rokycany	559717	99	68	A	39	0	N	0	0	M	2004	68
+14	29	Jana	Vavrouchová			48	CZ	sekretářka	Přerov	511382	99	68	A	9	0	N	0	0	F	2004	68
+14	30	Zdeněk	Zeman			57	CZ	systémový specialista	Louny	565971	99	68	A	10	0	N	0	0	M	2004	68
+14	31	Tomáš	Linhart			30	CZ	rentiér	Dobřív	559776	68	68	A	15	0	N	0	0	M	2004	68
+14	32	Jaromír	Kafka			23	CZ	student	Rokycany	559717	68	68	A	28	0	N	0	0	M	2004	68
+15	1	Vladislav	Novara	Ing.		64	CZ	ekonom	Havířov	555088	154	154	A	54	0	N	0	0	M	2004	154
+15	2	Martin	Polášek			32	CZ	ředitel společnosti	Těrlicko	599158	154	154	A	70	0	N	0	0	M	2004	154
+15	3	Eva	Zwyrteková			39	CZ	referentka	Havířov	555088	154	154	A	26	0	N	0	0	F	2004	154
+15	4	Milan	Chroboček			33	CZ	podnikatel	Havířov	555088	154	154	A	49	0	N	0	0	M	2004	154
+15	5	Kamil	Kapera	Ing.		33	CZ	programátor	Havířov	555088	154	154	A	57	0	N	0	0	M	2004	154
+15	6	Miroslav	Kantor	Ing.		45	CZ	podnikatel	Havířov	555088	154	154	A	18	0	N	0	0	M	2004	154
+15	7	David	Kempný			34	CZ	podnikatel	Havířov	555088	154	154	A	37	0	N	0	0	M	2004	154
+15	8	Róbert	Rehák			45	CZ	podnikatel	Havířov	555088	154	154	A	11	0	N	0	0	M	2004	154
+15	9	Milan	Sliwka			39	CZ	podnikatel	Havířov	555088	154	154	A	18	0	N	0	0	M	2004	154
+15	10	Milan	Rašík			57	CZ	"podnikatel ""RADIOHRAD"""	Těrlicko	599158	154	154	A	38	0	N	0	0	M	2004	154
+15	11	Radim	Lendl			34	CZ	zaměstnanec	Český Těšín	598933	154	154	A	45	0	N	0	0	M	2004	154
+15	12	Marcela	Tomanová			45	CZ	zaměstnankyně	Havířov	555088	154	154	A	40	0	N	0	0	F	2004	154
+15	13	Miroslav	Olszovy	Ing.		55	CZ	toho času nezaměstnaný	Havířov	555088	154	154	A	19	0	N	0	0	M	2004	154
+15	14	Tomáš	Urban			34	CZ	toho času nezaměstnaný	Havířov	555088	154	154	A	20	0	N	0	0	M	2004	154
+15	15	Martin	Fusek			32	CZ	podnikatel	Havířov	555088	154	154	A	32	0	N	0	0	M	2004	154
+15	16	Pavel	Kaštan			37	CZ	podnikatel	Ostrava	4	154	154	A	26	0	N	0	0	M	2004	154
+15	17	Lenka	Havelková			59	CZ	důchodce	Mělník	534676	154	154	A	11	0	N	0	0	F	2004	154
+15	18	Petr	Drozdík			21	CZ	toho času nezaměstnaný	Karviná	598917	154	154	A	24	0	N	0	0	M	2004	154
+15	19	Stanislav	Stádník			43	CZ	zaměstnanec	Hradec Králové	569810	154	154	A	4	0	N	0	0	M	2004	154
+15	20	Vladimír	Slezák			66	CZ	důchodce	Chotěboř	568759	154	154	A	2	0	N	0	0	M	2004	154
+16	1	Tomáš	Vandas			35	CZ	předseda DS	Praha	1	153	153	A	227	0	N	0	0	M	2004	153
+16	2	Josef	Šteiner			38	CZ	předseda odborového sdružení	Plzeň	2	99	153	A	159	0	N	0	0	M	2004	153
+16	3	Jiří	Štěpánek			32	CZ	obchodní referent	Praha	1	153	153	A	79	0	N	0	0	M	2004	153
+16	4	Jindřich	Nestler			28	CZ	manažer	Harrachov	577081	153	153	A	78	0	N	0	0	M	2004	153
+16	5	Václav	Prokůpek			31	CZ	novinář	Spálené Poříčí	558362	99	153	A	130	0	N	0	0	M	2004	153
+16	6	Petr	Kotáb			28	CZ	detektiv	Kadaň	563102	153	153	A	121	0	N	0	0	M	2004	153
+16	7	Ladislav	Tůma			43	CZ	provozní zámečník	Chomutov	562971	99	153	A	290	0	N	0	0	M	2004	153
+16	8	Jan	Blaško			46	CZ	podnikatel	Cheb	554481	153	153	A	52	0	N	0	0	M	2004	153
+16	9	Jan	Drbohlav	Ing.		56	CZ	novinář	Praha	1	99	153	A	66	0	N	0	0	M	2004	153
+16	10	Petr	Černík			54	CZ	technik	Bílina	567451	99	153	A	92	0	N	0	0	M	2004	153
+16	11	Bohumil	Šuléř			60	CZ	živnostník	Kroměříž	588296	153	153	A	49	0	N	0	0	M	2004	153
+16	12	Michal	Moravec			29	CZ	podnikatel	Jirkov	563099	153	153	A	90	0	N	0	0	M	2004	153
+16	13	Vladimír	Pelák			48	CZ	řidič	Nýřany	559300	153	153	A	138	0	N	0	0	M	2004	153
+16	14	Mária	Sedliská			50	CZ	laborantka	Brandýs nad Orlicí	579947	153	153	A	47	0	N	0	0	F	2004	153
+16	15	Ivan	Šrotýř			54	CZ	řidič	Jičín	572659	153	153	A	102	0	N	0	0	M	2004	153
+16	16	Kamil	Kubín			26	CZ	bezpečnostní pracovník	Stružná	555592	153	153	A	55	0	N	0	0	M	2004	153
+16	17	Jozef	Révay			57	CZ	mechanik	Kadaň	563102	99	153	A	65	0	N	0	0	M	2004	153
+16	18	Lenka	Pavlíčková			25	CZ	obchodní asistentka	Praha	1	99	153	A	107	0	N	0	0	F	2004	153
+16	19	Blanka	Karbašová			50	CZ	vedoucí obchodu	Kadaň	563102	99	153	A	69	0	N	0	0	F	2004	153
+16	20	Alena	Kotábová			23	CZ	studentka	Kadaň	563102	99	153	A	64	0	N	0	0	F	2004	153
+17	1	Pavla	Netušilová	Mgr.		40	CZ	profesorka jazyků	Olomouc	500496	99	159	A	236	0	N	0	0	F	2004	159
+17	2	Marta	Chovancová	JUDr.	LL.M.	46	CZ	právník	Praha	1	99	159	A	113	0	N	0	0	F	2004	159
+17	3	Aleš	Eliáš	Ing.		52	CZ	informatik	Ostrava	4	159	159	A	89	0	N	0	0	M	2004	159
+17	4	Helena	Kynčlová	Bc.		50	CZ	kontrolor	Benešov	529303	99	159	A	38	0	N	0	0	F	2004	159
+17	5	Magdalena	Senczaková	PhDr.		55	CZ	profesorka jazyků	Olomouc	500496	99	159	A	97	0	N	0	0	F	2004	159
+17	6	Miroslav	Hudeček			42	CZ	důstojník v záloze	Služovice	510297	99	159	A	37	0	N	0	0	M	2004	159
+17	7	Roman	Jelínek	MUDr.		48	CZ	lékař	Kopřivnice	599565	99	159	A	106	0	N	0	0	M	2004	159
+17	8	Jan	Heglas			50	CZ	personalista	Olomouc	500496	159	159	A	37	0	N	0	0	M	2004	159
+17	9	Václav	Blažek			57	CZ	strojvedoucí	Bruntál	597180	99	159	A	82	0	N	0	0	M	2004	159
+17	10	Jaroslav	Moureček	Ing.		45	CZ	informatik	Ostrava	4	99	159	A	46	0	N	0	0	M	2004	159
+17	11	Petr	Šach			56	CZ	vedoucí prodejny	Praha	1	99	159	A	11	0	N	0	0	M	2004	159
+17	12	Pavol	Valko			64	CZ	důstojník ve výslužbě	Ostrava	4	99	159	A	10	0	N	0	0	M	2004	159
+17	13	Zdeněk	Svoboda			55	CZ	podnikatel	Komořany	593168	99	159	A	18	0	N	0	0	M	2004	159
+17	14	Zdeněk	Kučírek			48	CZ	vedoucí prodejny	Světlá nad Sázavou	569569	99	159	A	28	0	N	0	0	M	2004	159
+17	15	Pavel	Procházka			61	CZ	stavební technik	Horka nad Moravou	502545	99	159	A	25	0	N	0	0	M	2004	159
+17	16	Miroslav	Ivan			38	CZ	mzdový účetní	Štěpánov	505161	99	159	A	61	0	N	0	0	M	2004	159
+17	17	Zdena	Kučírková			37	CZ	v domácnosti	Jihlava	586846	99	159	A	21	0	N	0	0	F	2004	159
+18	1	Jaroslav	Hutka			57	CZ	písničkář	Praha	1	99	140	A	2833	0	N	0	0	M	2004	140
+18	2	Jiří	Dědeček			51	CZ	písničkář, básník, překladatel	Praha	1	99	140	A	2323	0	N	0	0	Muž - Jiří Dědeček	2004	140
+18	3	Kurt	Gebauer			62	CZ	sochař	Praha	1	99	140	A	760	0	N	0	0	M	2004	140
+19	1	Pavel	Dohnal	Ing.		43	CZ	podnikatel	Hluk	592170	99	82	A	824	0	N	0	0	M	2004	312
+19	2	Jiří	Pernes	PhDr.		55	CZ	spisovatel, historik	Brno	3	83	83	A	773	0	N	0	0	M	2004	312
+19	3	Yvona	Šabacká	Ing.		27	CZ	vědecký pracovník-asist. VŠE	Brno	3	99	82	A	624	0	N	0	0	F	2004	312
+19	4	Drahomír	Nosek	JUDr.		48	CZ	starosta obce Hevlín	Hevlín	594032	83	83	A	212	0	N	0	0	M	2004	312
+19	5	Jiří	Novotný			26	CZ	student, místopředseda MoDS	Bohdalice-Pavlovice	592901	82	82	A	221	0	N	0	0	M	2004	312
+19	6	Marie	Fojtová	RNDr.		47	CZ	správce počítačové sítě	Brno	3	99	83	A	224	0	N	0	0	F	2004	312
+19	7	Karel	Holomek	Ing.		67	CZ	předseda Spol. Romů na Moravě	Brno	3	99	82	A	90	0	N	0	0	M	2004	312
+19	8	František	Novotný			50	CZ	podnikatel	Hodonín	547794	83	83	A	143	0	N	0	0	M	2004	312
+19	9	Karel	Kříž			53	CZ	podnikatel	Břeclav	584291	83	83	A	73	0	N	0	0	M	2004	312
+19	10	Josef	Pecl	Ing.	CSc.	63	CZ	publicista	Brno	3	99	83	A	89	0	N	0	0	M	2004	312
+19	11	Zdeněk	Polák			49	CZ	obchodní referent	Pohořelice	584801	99	82	A	75	0	N	0	0	M	2004	312
+19	12	Jiří	Adámek	PhDr.		64	CZ	historik, archivář	Brno	3	83	83	A	119	0	N	0	0	M	2004	312
+19	13	Milan	Salaš	PhDr.	CSc.	47	CZ	archeolog Moravs. zemsk. muzea	Brno	3	99	82	A	154	0	N	0	0	M	2004	312
+19	14	Jiří	Čížek			33	CZ	podnikatel	Pohořelice	584801	83	83	A	83	0	N	0	0	M	2004	312
+19	15	Ivo	Filouš	MUDr.		42	CZ	lékař	Blansko	581283	82	82	A	184	0	N	0	0	M	2004	312
+19	16	Rostislav	Eigner			55	CZ	podnikatel	Modřice	583391	99	83	A	11	0	N	0	0	M	2004	312
+19	17	Robert	Keprt	Mgr.		36	CZ	historik	Brno	3	82	82	A	81	0	N	0	0	M	2004	312
+19	18	Antonín	Pantůček	MVDr.		61	CZ	veterinární lékař	Brno	3	99	83	A	46	0	N	0	0	M	2004	312
+19	19	Roman	Želonka			33	CZ	technolog	Havířov	555088	83	83	A	75	0	N	0	0	M	2004	312
+19	20	Pavel	Hrůza	Ing. arch.		52	CZ	architekt	Tišnov	584002	82	82	A	50	0	N	0	0	M	2004	312
+19	21	Milan	Černocký			67	CZ	místostarosta MČBrno-Vinohrady	Brno	3	83	83	A	24	0	N	0	0	M	2004	312
+19	22	František	Žák			51	CZ	manažer	Jeseník	536385	82	82	A	74	0	N	0	0	M	2004	312
+19	23	Jan	Smejkal	doc. Ing.	CSc.	67	CZ	podnikatel	Brno	3	83	83	A	27	0	N	0	0	M	2004	312
+19	24	Miroslav	Vavřík			60	CZ	podnikatel	Pohořelice	584801	82	82	A	32	0	N	0	0	M	2004	312
+19	25	Augustin	Štika			60	CZ	technik	Kobylí	584568	83	83	A	35	0	N	0	0	M	2004	312
+19	26	Richard	Němeček	Ing.		40	CZ	podnikatel	Brno	3	82	82	A	34	0	N	0	0	M	2004	312
+19	27	Václav	Novák			70	CZ	podnikatel	Adamov	531367	83	83	A	13	0	N	0	0	M	2004	312
+19	28	Zdeněk	Gába			32	CZ	strojvedoucí ČD	Šumperk	523704	82	82	A	114	0	N	0	0	M	2004	312
+19	29	Josef	Havel	Ing.		71	CZ	statik	Brno	3	83	83	A	22	0	N	0	0	M	2004	312
+20	1	Zuzana	Roithová	MUDr.	MBA.	51	CZ	senátorka	Praha	1	1	1	A	52166	23.35	A	1	0	F	2004	1
+20	2	Jan	Březina	Ing.		50	CZ	hejtman	Uničov	505587	1	1	A	27854	12.46	A	2	0	M	2004	1
+20	3	Pavel	Jajtner	Ing.		56	CZ	diplomat	Přibyslav	574368	1	1	A	24529	10.98	N	0	1	M	2004	1
+20	4	David	Macek	Mgr.		27	CZ	sociolog	Brno	3	1	1	A	10389	0	N	0	4	M	2004	1
+20	5	Vilém	Holáň	RNDr.		65	CZ	politik a diplomat	Ostrava	4	1	1	A	12254	5.48	N	0	3	M	2004	1
+20	6	Ondřej	Benešík		B.B.S.	27	CZ	odbor.prac. pro zahr.vztahy	Strání	592617	1	1	A	8340	0	N	0	5	M	2004	1
+20	7	Boris	Keuzberg	Doc. MUDr.	CSc.	54	CZ	přednosta kliniky	Plzeň	2	1	1	A	2715	0	N	0	6	M	2004	1
+20	8	Jiří	Karas	JUDr. Ing.		61	CZ	poslanec	Třebíč	590266	1	1	A	22748	10.18	N	0	2	M	2004	1
+20	9	Pavel	Svoboda	Doc. JUDr.	D.E.A.	42	CZ	vysokoškolský učitel	Praha	1	1	1	A	3123	0	N	0	7	M	2004	1
+20	10	Ondřej	Novák	Prof. Ing.	CSc.	48	CZ	vysokoškolský učitel	Liberec	563889	1	1	A	1506	0	N	0	8	M	2004	1
+20	11	Jaroslav	Košut	RNDr.	CSc.,MBA.	43	CZ	ekonomický poradce	Praha	1	1	1	A	606	0	N	0	9	M	2004	1
+20	12	Ivo	Kaplán	Ing.		43	CZ	finanční poradce	Praha	1	1	1	A	297	0	N	0	10	M	2004	1
+20	13	František	Havíř	Ing.		47	CZ	starosta	Rousínov	593559	1	1	A	761	0	N	0	11	M	2004	1
+20	14	Lenka	Klumparová	Mgr.		27	CZ	pedagogická pracovnice	Česká Třebová	580031	99	1	A	845	0	N	0	12	F	2004	1
+20	15	Václav	Horák	Ing.		43	CZ	manažer projektů EU	Šlapanice	583952	1	1	A	1150	0	N	0	13	M	2004	1
+20	16	Adéla	Parkanová			26	CZ	studující	Sezimovo Ústí	553069	99	1	A	1444	0	N	0	14	F	2004	1
+20	17	Vít	Černý	Bc.		27	CZ	překladatel	Třebíč	590266	1	1	A	1078	0	N	0	15	M	2004	1
+20	18	Pavla	Andrejkivová			58	CZ	ředitelka Charity	Karlovy Vary	554961	1	1	A	837	0	N	0	16	F	2004	1
+20	19	Milan	Pekárek			45	CZ	podnikatel	Teplice	567442	1	1	A	294	0	N	0	17	M	2004	1
+20	20	Petr	Elšík	Mgr.		27	CZ	právník	Olomouc	500496	1	1	A	818	0	N	0	18	M	2004	1
+20	21	Vladimír	Gelnar	Ing.		53	CZ	ředitel pro projekty EU	Ostrava	4	1	1	A	672	0	N	0	19	M	2004	1
+20	22	Lubomír	Ligas			41	CZ	majitel a prov.souk.uměl.školy	Bzenec	586081	1	1	A	282	0	N	0	20	M	2004	1
+20	23	Pavel	Šustr	Ing.		49	CZ	státní úředník	Nové Město na Moravě	596230	1	1	A	495	0	N	0	21	M	2004	1
+20	24	Lýdia	Říhová	PhDr.	PhD.	55	CZ	státní úřednice	Praha	1	1	1	A	96	0	N	0	22	F	2004	1
+20	25	Pavla	Tůmová	RNDr.		30	CZ	vědecká pracovnice	Praha	1	1	1	A	181	0	N	0	23	F	2004	1
+20	26	Jaroslav	Lobkowicz	Ing.		61	CZ	poslanec	Plzeň	2	1	1	A	2019	0	N	0	24	M	2004	1
+20	27	Zdeněk	Bezecný	Mgr.	PhD.	32	CZ	vědecký pracovník	České Budějovice	544256	1	1	A	349	0	N	0	25	M	2004	1
+20	28	Vladimíra	Rattayová	PaedDr.		59	CZ	středoškolská učitelka	Praha	1	1	1	A	104	0	N	0	26	F	2004	1
+20	29	Martin	Machů	Ing.		25	CZ	studující	Benátky	569861	1	1	A	234	0	N	0	27	M	2004	1
+20	30	Ivan	Drábek	MUDr.		57	CZ	ředitel léčebny	Opava	505927	1	1	A	767	0	N	0	28	M	2004	1
+20	31	Václava	Zelenková			42	CZ	místostarostka	Račiněves	565491	1	1	A	150	0	N	0	29	F	2004	1
+20	32	Daniel	Kroupa	Mgr.		55	CZ	vysokoškolský učitel	Praha	1	99	1	A	5333	0	N	0	30	M	2004	1
+21	1	Petr	Cibulka			53	CZ	nezáv.novinář, polit.analytik	Praha	1	98	98	A	9635	0	N	0	0	M	2004	98
+21	2	Miloslava	Jebavá	PhDr.		51	CZ	VŠ učitelka, překladatelka	Jilemnice	577197	98	98	A	2862	0	N	0	0	F	2004	98
+21	3	Jaroslav	Schnirch	Ing.		52	CZ	živnostník, inform.analytik	Liberec	563889	98	98	A	306	0	N	0	0	M	2004	98
+21	4	Martin	Novotný			41	CZ	překladatel a tlumočník angl.	Praha	1	98	98	A	426	0	N	0	0	M	2004	98
+21	5	František	Kazilovský			47	CZ	technik, informační analytik	Lázně Bohdaneč	574767	98	98	A	90	0	N	0	0	M	2004	98
+21	6	Antonín	Zejda			53	CZ	finanční analytik a poradce PB	Třebíč	590266	98	98	A	144	0	N	0	0	M	2004	98
+21	7	Petr	Lukáček			45	CZ	podnikatel	Mladé Buky	579548	98	98	A	80	0	N	0	0	M	2004	98
+21	8	Václav	Dědeček			50	CZ	živnostník	Černilov	569917	98	98	A	47	0	N	0	0	M	2004	98
+21	9	Miroslav	Chaloupka			62	CZ	živnostník	Broumov	541401	98	98	A	55	0	N	0	0	M	2004	98
+21	10	Miroslav	Roubínek			29	CZ	počítačový programátor	Karlovy Vary	554961	98	98	A	276	0	N	0	0	M	2004	98
+21	11	Karel	Přibyl			68	CZ	živnostník	Hronov	574082	98	98	A	27	0	N	0	0	M	2004	98
+21	12	Jozef	Matulay			61	CZ	informační analytik PB	Karlovy Vary	554961	98	98	A	25	0	N	0	0	M	2004	98
+21	13	Vladimír	Procházka			62	CZ	OSVČ, občanský aktivista	Dobříš	540111	98	98	A	38	0	N	0	0	M	2004	98
+21	14	Jan	Sedlák			60	CZ	hudebník, výtvarník	Praha	1	98	98	A	56	0	N	0	0	M	2004	98
+21	15	Libuše	Kožíšková			48	CZ	obchodní zástupce	Jihlava	586846	98	98	A	31	0	N	0	0	F	2004	98
+21	16	Michal	Novotný			54	CZ	konstruktér	Jablonec nad Nisou	563510	98	98	A	52	0	N	0	0	M	2004	98
+21	17	Vladimír	Bartoň			59	CZ	grafik - sítotiskař	Vysoké nad Jizerou	577693	98	98	A	20	0	N	0	0	M	2004	98
+21	18	Milan	Rejthar			58	CZ	živnostník	Písečná	580775	98	98	A	48	0	N	0	0	M	2004	98
+21	19	Jan	Hraba	Ing.		62	CZ	spec. na sděl. a inf. technol.	Prostějov	589250	98	98	A	26	0	N	0	0	M	2004	98
+21	20	Jindřich	Myslivec			54	CZ	zaměstnanec	Havlíčkův Brod	568414	98	98	A	24	0	N	0	0	M	2004	98
+21	22	Edita	Matysková			32	CZ	technik	Trutnov	579025	98	98	A	69	0	N	0	0	F	2004	98
+21	23	Josef	Kosina			47	CZ	živnostník	Mladé Buky	579548	98	98	A	16	0	N	0	0	M	2004	98
+21	24	Milan Miki	Pešula			44	CZ	živnostník	Kladno	532053	98	98	A	24	0	N	0	0	M	2004	98
+21	25	Josef	Friedl			60	CZ	zemědělský technik	Šumperk	523704	98	98	A	26	0	N	0	0	M	2004	98
+21	26	Pavel	Polách			46	CZ	technik	Jeseník	536385	98	98	A	33	0	N	0	0	M	2004	98
+21	27	Ivan	Krametbauer			55	CZ	technik	Jablonec nad Nisou	563510	98	98	A	17	0	N	0	0	M	2004	98
+21	28	Jitka	Černá			63	CZ	vlakvedoucí	Žatec	566985	98	98	A	23	0	N	0	0	F	2004	98
+21	29	Dobroslav	Málek			56	CZ	zaměstnanec	Teplice nad Metují	574538	98	98	A	11	0	N	0	0	M	2004	98
+21	30	Marie	Zelená			41	CZ	přadlena	Otovice	537969	98	98	A	71	0	N	0	0	F	2004	98
+22	1	Petr	Hannig	Mgr.		58	CZ	skladatel a producent	Praha	1	137	137	A	800	0	N	0	0	M	2004	137
+22	2	Ivan	Slavický			26	CZ	podnikatel	Opava	505927	99	137	A	204	0	N	0	0	M	2004	137
+22	3	Eva	Burdová	JUDr.		52	CZ	advokát	Brno	3	99	137	A	209	0	N	0	0	F	2004	137
+22	4	Gabriela	Khollová	Ing.		26	CZ	ekonom	Karlovy Vary	554961	99	137	A	207	0	N	0	0	F	2004	137
+22	5	Marek	Dobrodinský	Ing.		42	CZ	hudebník a bavič	Praha	1	99	137	A	523	0	N	0	0	M	2004	137
+22	6	Alena	Půlpánová			48	CZ	podnikatelka	Olomouc	500496	99	137	A	67	0	N	0	0	F	2004	137
+22	7	Jiří	Golembiewski			53	CZ	podnikatel	Praha	1	99	137	A	19	0	N	0	0	M	2004	137
+22	8	Pavel	Běleš	MUDr.		62	CZ	lékař a homeopat	Praha	1	99	137	A	218	0	N	0	0	M	2004	137
+22	9	Gabriela	Dousková			33	CZ	koordinátor mezinárod. vztahů	Praha	1	99	137	A	137	0	N	0	0	F	2004	137
+22	10	Otto	Novotný			24	CZ	správce obecního majetku	Jindřichovice p.Smr.	564133	99	137	A	87	0	N	0	0	M	2004	137
+22	11	Otakar	Maňas	MUDr.		51	CZ	lékař	Praha	1	99	137	A	139	0	N	0	0	M	2004	137
+22	12	Jitka	Patřičná			35	CZ	fotografka	Pardubice	555134	137	137	A	88	0	N	0	0	F	2004	137
+22	13	Jan	Spěváček			59	CZ	léčitel	Proboštov	567787	99	137	A	75	0	N	0	0	M	2004	137
+22	14	Kateřina	Růžičková			24	CZ	herečka	Praha	1	99	137	A	99	0	N	0	0	F	2004	137
+22	15	Vlastimil	Čáp	Mgr.		63	CZ	důchodce	Stránka	531731	99	137	A	46	0	N	0	0	M	2004	137
+22	16	Dana	Faitová	Ing.		44	CZ	programátorka	Plzeň	2	99	137	A	69	0	N	0	0	F	2004	137
+22	17	Petr	Karlík			50	CZ	živnostník	Chodouny	564923	137	137	A	47	0	N	0	0	M	2004	137
+22	18	Ludmila	Urbánková			51	CZ	realitní makléř	Ústí nad Labem	554804	99	137	A	36	0	N	0	0	F	2004	137
+22	19	Zdeněk	Obhlídal			51	CZ	manager	Jihlava	586846	137	137	A	42	0	N	0	0	M	2004	137
+22	20	Hana	Křížová			47	CZ	fyzioterapeut	České Budějovice	544256	99	137	A	45	0	N	0	0	F	2004	137
+22	21	Stanislav	Frydrych			36	CZ	mistr výroby	Ratiboř	507784	99	137	A	18	0	N	0	0	M	2004	137
+22	22	Hana	Krásenská			51	CZ	pedagog volného času	Volanice	573761	99	137	A	18	0	N	0	0	F	2004	137
+22	23	Stanislav	Bartoň			49	CZ	živnostník	Telč	588024	99	137	A	19	0	N	0	0	M	2004	137
+22	24	Mária	Vavrincová			35	CZ	finanční poradce a účetní	Havířov	555088	99	137	A	17	0	N	0	0	F	2004	137
+22	25	Zdislav	Růžička			54	CZ	knihkupec	Praha	1	99	137	A	9	0	N	0	0	M	2004	137
+22	26	Ivana	Kejhová			30	CZ	ekonom	Praha	1	137	137	A	20	0	N	0	0	F	2004	137
+22	27	Jindřich	Procházka			47	CZ	živnostník	Praha	1	99	137	A	4	0	N	0	0	M	2004	137
+22	28	Květa	Prouzová			27	CZ	auditor	Úpice	579777	99	137	A	28	0	N	0	0	F	2004	137
+22	29	Pavel	Šolc	Ing.		59	CZ	stavební inženýr	Praha	1	99	137	A	17	0	N	0	0	M	2004	137
+22	30	Radmila	Přibylská			33	CZ	úřednice	Ostrava	4	99	137	A	30	0	N	0	0	F	2004	137
+22	31	Vladimír	Němec			56	CZ	živnostník	Praha	1	137	137	A	4	0	N	0	0	M	2004	137
+22	32	Josef	Weisz			61	CZ	důchodce	Opava	505927	137	137	A	13	0	N	0	0	M	2004	137
+23	1	Helena	Rögnerová	Ing.		49	CZ	senátorka PČR	Praha	1	99	102	A	10347	0	N	0	0	F	2004	313
+23	2	Pavel	Svoboda	Ing.		35	CZ	poslanec PČR	Hovorčovice	538230	102	102	A	1351	0	N	0	0	M	2004	313
+23	3	Jiřina	Nováková	RNDr.	CSc.	58	CZ	vědecká pracovnice	Praha	1	13	13	A	663	0	N	0	0	F	2004	313
+23	4	Svatopluk	Karásek	ThMgr.		61	CZ	poslanec PČR	Praha	1	102	102	A	5369	0	N	0	0	M	2004	313
+23	5	Tereza	Brdečková			47	CZ	spisovatelka	Praha	1	99	133	A	2276	0	N	0	0	F	2004	313
+23	6	Josef	Szymeczek	Mgr.		30	CZ	historik	Nýdek	507091	99	102	A	1773	0	N	0	0	M	2004	313
+23	7	Karel	Kühnl	JUDr.		49	CZ	poslanec PČR	Praha	1	102	102	A	6103	0	N	0	0	M	2004	313
+23	8	Blanka	Misconiová	Bc.		48	CZ	prezidentka asoc. domácí péče	Praha	1	13	13	A	273	0	N	0	0	F	2004	313
+23	9	Alena	Štěrbová	Mgr.		51	CZ	náměstkyně hejtm. kr. Vysočina	Humpolec	547999	102	102	A	221	0	N	0	0	F	2004	313
+23	10	Martin	Stránský	MUDr.		47	CZ	lékař	Praha	1	99	133	A	676	0	N	0	0	M	2004	313
+23	11	Karel	Schwarzenberg			66	CZ	lesník	Sýkořice	542466	99	13	A	5944	0	N	0	0	M	2004	313
+23	12	Soňa	Paukrtová	Mgr.		54	CZ	senátorka PČR	Jablonec nad Nisou	563510	99	102	A	331	0	N	0	0	F	2004	313
+23	13	Milan	Hamerský	Mgr.		31	CZ	vydavatel	Brno	3	138	138	A	127	0	N	0	0	M	2004	313
+23	14	Kateřina	Lusk Poslední			32	CZ	publicistka	Praha	1	133	133	A	121	0	N	0	0	F	2004	313
+23	15	Miroslav	Brýdl	Ing.		63	CZ	náměstek hejtm. Pardub. kraje	Litomyšl	578347	102	102	A	365	0	N	0	0	M	2004	313
+23	16	Ilja	Kašík	Ing.	CSc.	52	CZ	radní Jihomoravského kraje	Brno	3	102	102	A	157	0	N	0	0	M	2004	313
+23	17	Jarmila	Číhalová	MUDr.		43	CZ	lékařka	Kroměříž	588296	102	102	A	127	0	N	0	0	F	2004	313
+23	18	Antonín	Podzimek			55	CZ	náměstek hejtm. Středočes. kr.	Sedlec-Prčice	530573	102	102	A	285	0	N	0	0	M	2004	313
+23	19	Luboš	Polanský	Ing. Arch.		31	CZ	architekt	Most	567027	102	102	A	51	0	N	0	0	M	2004	313
+23	20	Jaroslav	Vácha	Ing.		49	CZ	náměstek hejtm. Královéhr. kr.	Hořice	572926	102	102	A	74	0	N	0	0	M	2004	313
+23	21	Jiří Miroslav	Knedlík			54	CZ	místostarosta města Aš	Aš	554499	102	102	A	74	0	N	0	0	M	2004	313
+23	22	Pavel	Hříbek			36	CZ	evangelický duchovní	Praha	1	99	102	A	250	0	N	0	0	M	2004	313
+23	23	Martina	Šourková	JUDr.		31	CZ	právnička	Praha	1	102	102	A	100	0	N	0	0	F	2004	313
+23	24	František	Gábor			34	CZ	radní Libereckého kraje	Liberec	563889	102	102	A	93	0	N	0	0	M	2004	313
+23	25	Pavel	Weiss			24	CZ	asistent senátora PČR	Kadaň	563102	138	138	A	24	0	N	0	0	M	2004	313
+23	26	Jakub	Cháb	PhDr.		40	CZ	ředitel jazykové školy	Praha	1	13	13	A	58	0	N	0	0	M	2004	313
+23	27	Tomáš	Křiklán	MUDr.		48	CZ	lékař	Dolní Bělá	558796	102	102	A	84	0	N	0	0	M	2004	313
+23	28	Zbyněk	Šorm	Ing.		51	CZ	radní Středočeského kraje	Jílové u Prahy	539333	102	102	A	84	0	N	0	0	M	2004	313
+23	29	Zdeněk	Čáp			49	CZ	ekonom	České Budějovice	544256	102	102	A	45	0	N	0	0	M	2004	313
+23	30	Petr	Matějů	Doc. PhDr.	PhD.	53	CZ	sociolog	Praha	1	99	133	A	246	0	N	0	0	M	2004	313
+23	31	Josef	Brož			38	CZ	publicista	Praha	1	99	133	A	28	0	N	0	0	M	2004	313
+23	32	Jiří	Lobkowicz	Ing.	lic. oec. HSG.	48	CZ	ekonom	Praha	1	133	133	A	632	0	N	0	0	M	2004	313
+24	1	Miloslav	Ransdorf	PhDr.	CSc.	51	CZ	poslanec Parlamentu ČR	Praha	1	47	47	A	142444	30.12	A	1	0	M	2004	47
+24	2	Vladimír	Remek	Ing.		55	CZ	ved. obchod. úseku zast. úřadu	Praha	1	99	47	A	85272	18.03	A	2	0	M	2004	47
+24	3	Jaromír	Kohlíček	Ing.	CSc.	51	CZ	poslanec Parlamentu ČR	Teplice	567442	47	47	A	9338	0	A	3	0	M	2004	47
+24	4	Jiří	Maštálka	MUDr.		48	CZ	poslanec Parlamentu ČR	Plzeň	2	47	47	A	13317	0	A	4	0	M	2004	47
+24	5	Věra	Flasarová	RSDr. Ing.		51	CZ	instruktorka	Ostrava	4	47	47	A	8711	0	A	5	0	F	2004	47
+24	6	Franz	Stros			60	DE	novinář Daniel Strož	Plasy	559351	99	47	A	1808	0	A	6	0	F	2004	47
+24	7	Zdeněk	Klanica	Doc. PhDr.	DrSc.	65	CZ	vědecký pracovník	Brno	3	47	47	A	7990	0	N	0	1	M	2004	47
+24	8	Alena	Svobodová	Doc. PhDr.	CSc.	56	CZ	středoškolská učitelka	Turnov	577626	47	47	A	5043	0	N	0	2	F	2004	47
+24	9	Stanislav	Fischer	Ing.	CSc.	67	CZ	důchodce	Ledce	532533	47	47	A	1439	0	N	0	3	M	2004	47
+24	10	Zdeněk	Štefek	Ing.		29	CZ	odborný pracovník	Buštěhrad	532169	47	47	A	2890	0	N	0	4	M	2004	47
+24	11	Hassan	Charfo	Doc. Ing.	DrSc.	60	CZ	vedoucí mezinárodního oddělení	Praha	1	47	47	A	1140	0	N	0	5	M	2004	47
+24	12	Josef	Morávek			54	CZ	pracovník tiskového oddělení	Praha	1	47	47	A	669	0	N	0	6	M	2004	47
+24	13	Peter Rainhard	Schuster			24	CZ	studující vysoké školy	Brno	3	47	47	A	1964	0	N	0	7	M	2004	47
+24	14	Pavel	Hojda	Ing.		51	CZ	poslanec Parlamentu ČR	Cheb	554481	47	47	A	1397	0	N	0	8	M	2004	47
+24	15	Stanislav	Suja	JUDr.		63	CZ	pracovník mezinárod. oddělení	Praha	1	47	47	A	481	0	N	0	9	M	2004	47
+24	16	Stanislav	Holubec	PhDr.		25	CZ	interní doktorant	Hradec Králové	569810	47	47	A	1602	0	N	0	10	M	2004	47
+24	17	Kateřina	Konečná	Bc.		23	CZ	poslankyně Parlamentu ČR	Starý Jičín	599905	99	47	A	3066	0	N	0	11	F	2004	47
+24	18	Miroslav	Prokeš	RNDr.		56	CZ	podnikatel	Praha	1	47	47	A	386	0	N	0	12	M	2004	47
+24	19	Vlastislav	Antolák	Mgr.		62	CZ	poslanec Parlamentu ČR	Vsetín	541630	47	47	A	533	0	N	0	13	M	2004	47
+24	20	Václav	Jumr	JUDr.		69	CZ	důchodce	Praha	1	47	47	A	500	0	N	0	14	M	2004	47
+24	21	Jaroslava	Cardová	PaedDr.		50	CZ	učitelka	Olomouc	500496	47	47	A	1260	0	N	0	15	F	2004	47
+24	22	Ivan	Nadberežný	Mgr.		52	CZ	podnikatel	České Budějovice	544256	47	47	A	389	0	N	0	16	M	2004	47
+24	23	Jan	Minář	Doc. RNDr.	DrSc.	68	CZ	důchodce	Praha	1	99	47	A	230	0	N	0	17	M	2004	47
+24	24	René	David	Ing.		44	CZ	ekonom	Praha	1	47	47	A	991	0	N	0	18	M	2004	47
+24	25	Hana	Svobodová	Mgr.		36	CZ	pracovnice tiskového oddělení	Most	567027	47	47	A	1069	0	N	0	19	F	2004	47
+24	26	Pavel	Poláček	Ing.	CSc.	65	CZ	středoškolský učitel	Praha	1	99	47	A	150	0	N	0	20	M	2004	47
+24	27	Svatomír	Recman	RSDr. Ing.		51	CZ	poslanec Parlamentu ČR	Frýdek-Místek	598003	47	47	A	1353	0	N	0	21	M	2004	47
+24	28	Vladimír	Klofáč	PhDr.		51	CZ	podnikatel	Praha	1	47	47	A	150	0	N	0	22	M	2004	47
+24	29	Petra	Nováková	Ing.		28	CZ	obchodní referentka	Maletín	540366	99	47	A	613	0	N	0	23	F	2004	47
+24	30	Jiří	Otradovský	Ing.		34	CZ	obchodní manažer	Praha	1	47	47	A	171	0	N	0	24	M	2004	47
+24	31	Luboš	Dvořák	JUDr.		47	CZ	referent	Vyšší Brod	545848	47	47	A	306	0	N	0	25	M	2004	47
+24	32	Roman	Janouch	Mgr.		31	CZ	novinář	Praha	1	47	47	A	736	0	N	0	26	M	2004	47
+25	1	Jiří	Sedlo	Ing.	CSc.	41	CZ	předseda vinohr. a vinař. unie	Velké Bílovice	584983	99	101	A	1169	0	N	0	0	M	2004	101
+25	2	Miroslav	Richter	JUDr.		52	CZ	legislativec Úřadu vlády	Žatčany	584240	99	101	A	316	0	N	0	0	M	2004	101
+25	3	Josef	Křížek	Ing.	CSc.	65	CZ	jednatel spol.Agroprogres	Dubicko	534927	101	101	A	271	0	N	0	0	M	2004	101
+25	4	František	Střeleček	Prof. Ing.	CSc.	68	CZ	prorektor Jihoč.univ.-zem.fak.	Dobrá Voda u Č.Bud.	535206	99	101	A	506	0	N	0	0	M	2004	101
+25	5	František	Špruček	MVDr.		45	CZ	prakt.soukr.veterinární lékař	Olomouc	500496	101	101	A	370	0	N	0	0	M	2004	101
+25	6	Stanislav	Coufal	Ing.		53	CZ	předseda předs.Moravia Lacto	Jihlava	586846	99	101	A	95	0	N	0	0	M	2004	101
+25	7	Antonín	Kroužek	Ing.		58	CZ	soukr.hospodař.zemědělec	Tábor	552046	99	101	A	422	0	N	0	0	M	2004	101
+25	8	Jaromír	Herzán	Ing.		43	CZ	předseda Čsl.spol.moder.zeměd.	Slavkov u Brna	593583	99	101	A	227	0	N	0	0	M	2004	101
+25	9	Zdeněk	Rosa	Mgr.		28	CZ	tajemník Svaz.pěstitelů chmele	Mutějovice	542121	99	101	A	342	0	N	0	0	M	2004	101
+25	10	Stanislav	Pecka			54	CZ	soukr. pekař-prokurista v.o.s	Sobětuchy	572276	101	101	A	308	0	N	0	0	M	2004	101
+25	11	Josef	Ošmera	MUDr.		51	CZ	stomatolog	Rajhrad	583758	99	101	A	43	0	N	0	0	M	2004	101
+25	12	Igor	Kyselka	Ing.	CSc.	41	CZ	zahradní a krajinář. architekt	Tábor	552046	99	101	A	128	0	N	0	0	M	2004	101
+25	13	Martin	Mrůzek	Ing.		34	CZ	výzkum. a vývoj.pracovník	Krnov	597520	99	101	A	91	0	N	0	0	M	2004	101
+25	14	Marie	Poláchová	Ing.		55	CZ	oblastní ředitelka HVP	Hluk	592170	101	101	A	79	0	N	0	0	F	2004	101
+25	15	Bedřich	Plíšek	Ing.		56	CZ	soukromý bio-ovocnář	Třebnouševes	573612	99	101	A	118	0	N	0	0	M	2004	101
+25	16	Jan	Zich	Ing.		37	CZ	ved.útvar.výr.krm.směsí ZZN	Žabčice	584231	99	101	A	146	0	N	0	0	M	2004	101
+25	17	Roman	Honzík	Ing.		42	CZ	výzkum. a vývoj. pracovník	Klášterec nad Ohří	563129	101	101	A	40	0	N	0	0	M	2004	101
+25	18	Martin	Ludvík	Ing.		31	CZ	tajemník Ovocnářské unie ČR	Dobrá Voda u Hořic	572837	99	101	A	95	0	N	0	0	M	2004	101
+25	19	Karel	Holík	Ing.		60	CZ	taj.Zelinář.unie Čech a Moravy	Olomouc	500496	99	101	A	55	0	N	0	0	M	2004	101
+25	20	Dušan	Horák	MVDr.		41	CZ	starosta obce Mutěnice	Mutěnice	586412	99	101	A	139	0	N	0	0	M	2004	101
+25	21	Marie	Bubíková	Ing.		58	CZ	předsedkyně ZD Jeseník	Lipová-lázně	540030	99	101	A	102	0	N	0	0	F	2004	101
+25	22	František	Ťopek	Ing.		57	CZ	ekonom	Hradec Králové	569810	101	101	A	20	0	N	0	0	M	2004	101
+25	23	Luděk	Cimpa	Ing.		41	CZ	ředitel společnosti Netafim	Lipno	566403	99	101	A	34	0	N	0	0	M	2004	101
+25	24	Oldřich	Bachtík	Ing.	CSc.	63	CZ	jednatel spol. Zemex s.r.o	Rokytnice n.Jizerou	577456	101	101	A	28	0	N	0	0	M	2004	101
+25	25	Jaroslav	Kopista	Ing.		51	CZ	soukr. hospodařící zemědělec	Úhřetice	572446	99	101	A	152	0	N	0	0	M	2004	101
+25	26	Petr	Baťa			34	CZ	podnikatel	Teplice	567442	101	101	A	29	0	N	0	0	M	2004	101
+25	27	Vít	Hönig	Ing.		40	CZ	autorizovaný stavební inženýr	Mikulov	567701	101	101	A	35	0	N	0	0	M	2004	101
+25	28	Josef	Svoboda			55	CZ	místostarosta města	Ronov nad Doubravou	572161	101	101	A	34	0	N	0	0	M	2004	101
+25	29	Stanislava	Šmídová	Ing.		55	CZ	jednatel spol. Polana s.r.o	Arnolec	586854	101	101	A	15	0	N	0	0	F	2004	101
+25	30	Marie	Luxová			55	CZ	samostaně hospodař. zemědělec	Litomyšl	578347	99	101	A	176	0	N	0	0	F	2004	101
+25	31	Jarmila	Vlasáková	Ing.		57	CZ	ředitelka úřadu Okr.agrár.kom.	Hradec Králové	569810	99	101	A	89	0	N	0	0	F	2004	101
+25	32	Jiří	Slavík			30	CZ	ekonom	Sobětuchy	572276	101	101	A	74	0	N	0	0	M	2004	101
+26	1	Marcela	Kozerová	Mgr.		59	CZ	ekonom	Pardubice	555134	20	20	A	1004	0	N	0	0	F	2004	20
+26	2	Ondřej	Fischer	JUDr.		55	CZ	právník	Praha	1	20	20	A	610	0	N	0	0	M	2004	20
+26	3	Jan	Fafejta	JUDr.		56	CZ	moderátor ČT	Tisá	568309	20	20	A	293	0	N	0	0	M	2004	20
+26	4	Jana	Novotná	Mgr.		44	CZ	ředitelka školy	Písek	549240	99	20	A	435	0	N	0	0	F	2004	20
+26	5	Josef	Hajný	JUDr.		49	CZ	advokát	Česká Kamenice	562394	20	20	A	320	0	N	0	0	M	2004	20
+26	6	Marta	Langmeierová	MUDr.	CSc.	53	CZ	lékařka	Praha	1	20	20	A	521	0	N	0	0	F	2004	20
+26	7	Václav	Čekan	PhDr.		58	CZ	mechanik těžních zařízení	Příbram	539911	20	20	A	163	0	N	0	0	M	2004	20
+26	8	Antonín	Vokoun			27	CZ	podnikatel	Plzeň	2	20	20	A	212	0	N	0	0	M	2004	20
+26	9	Štěpán	Zdvořáček	Ing.		56	CZ	živnostník	Mariánské Lázně	554642	20	20	A	77	0	N	0	0	M	2004	20
+26	10	Jiří	Kafka	Ing.		60	CZ	podnikatel	Přerov	511382	20	20	A	106	0	N	0	0	M	2004	20
+26	11	Alois	Kňura			73	CZ	podnikatel	Ostrava	4	20	20	A	71	0	N	0	0	M	2004	20
+26	12	Ludmila	Tittlerová			45	CZ	zdravotní sestra	Třebíč	590266	20	20	A	360	0	N	0	0	F	2004	20
+26	13	Pavel	Fiľo	PhDr.	CSc.	55	CZ	psycholog	Brno	3	20	20	A	317	0	N	0	0	M	2004	20
+26	14	Marek	Koníček			29	CZ	servisní technik	Slavičín	585751	20	20	A	179	0	N	0	0	M	2004	20
+26	15	Miroslava	Ajksnerová	Ing.		29	CZ	úřednice	Koštice	566284	99	20	A	101	0	N	0	0	F	2004	20
+26	16	Alena	Jandošová			42	CZ	podnikatelka	Plzeň	2	20	20	A	137	0	N	0	0	F	2004	20
+26	17	Jaromír	Kubelka			47	CZ	úředník	Kouřim	533424	20	20	A	61	0	N	0	0	M	2004	20
+26	18	František	Zatloukal			64	CZ	technik	Ostrava	4	20	20	A	114	0	N	0	0	M	2004	20
+26	19	Jiří	Janeček			55	CZ	nástrojař	Liberec	563889	20	20	A	231	0	N	0	0	M	2004	20
+26	20	Václav	Urie	Ing.		56	CZ	technik	Praha	1	20	20	A	10	0	N	0	0	M	2004	20
+26	21	Jan	Kufner			68	CZ	učitel a speciální pedagog	Plzeň	2	20	20	A	57	0	N	0	0	M	2004	20
+26	22	Jaroslav	Liška	Ing.		81	CZ	novinář	Praha	1	20	20	A	27	0	N	0	0	M	2004	20
+26	23	Roman	Müller	Ing.		40	CZ	technik	Jevíčko	578193	20	20	A	81	0	N	0	0	M	2004	20
+26	24	Miloslav	Kocián			68	CZ	obchodní zástupce	Jihlava	586846	20	20	A	42	0	N	0	0	M	2004	20
+26	25	Anna	Káňová			66	CZ	prodavačka	Ostrava	4	20	20	A	67	0	N	0	0	F	2004	20
+28	1	Nora	Baumbergerová			34	CZ	podnikatelka Dolly Buster	Wesel	1	99	9	A	7493	0	N	0	0	F	2004	9
+28	2	Richard	Knot	PhDr.		51	CZ	vydavatel	Praha	1	9	9	A	650	0	N	0	0	M	2004	9
+28	3	Jan	Beer			33	CZ	novinář	Praha	1	99	9	A	393	0	N	0	0	M	2004	9
+28	4	Jiří	Pop			52	CZ	technik	Strupčice	563358	9	9	A	61	0	N	0	0	M	2004	9
+28	5	Jiří	Skála			45	CZ	stavební technik	Slaný	532819	9	9	A	59	0	N	0	0	M	2004	9
+28	6	Jaromír	Jirásek	MUDr.		50	CZ	lékař	Dubí	567507	9	9	A	235	0	N	0	0	M	2004	9
+28	7	Vlasta	Pávková			55	CZ	učitelka SŠ	Praha	1	99	9	A	146	0	N	0	0	F	2004	9
+28	8	Zdeněk	Hanák	Ing.		51	CZ	stavební technik	Vsetín	541630	9	9	A	109	0	N	0	0	M	2004	9
+28	9	Jaroslav	Poláček			54	CZ	technik	Třebíč	590266	9	9	A	48	0	N	0	0	M	2004	9
+28	10	Květa	Popová			50	CZ	technička	Strupčice	563358	99	9	A	79	0	N	0	0	F	2004	9
+28	11	Pavel	Kratochvíl			23	CZ	nezaměstnaný	Praha	1	99	9	A	186	0	N	0	0	M	2004	9
+28	12	David	Novotný			24	CZ	manažér	Náchod	573868	99	9	A	94	0	N	0	0	M	2004	9
+28	13	Pavel	Šikýř			34	CZ	studující	Praha	1	9	9	A	35	0	N	0	0	M	2004	9
+28	14	Roman	Blaško			34	CZ	fotograf	Luboměř	599646	99	9	A	41	0	N	0	0	M	2004	9
+28	15	Jan	Hrouda			31	CZ	novinář	Praha	1	99	9	A	49	0	N	0	0	M	2004	9
+28	16	Jakub	Votýpka			30	CZ	elektrikář	Praha	1	9	9	A	70	0	N	0	0	M	2004	9
+28	17	Zdeněk	Wehrenberg			57	CZ	akademický sochař	Vsetín	541630	99	9	A	86	0	N	0	0	M	2004	9
+28	18	Jaroslav	Pech			55	CZ	učitel	Praha	1	9	9	A	43	0	N	0	0	M	2004	9
+28	19	Miroslav	Malec			54	CZ	novinář	Praha	1	9	9	A	43	0	N	0	0	M	2004	9
+28	20	Miloslav	Nádeník			53	CZ	obráběč kovů	Jirkov	563099	99	9	A	50	0	N	0	0	M	2004	9
+28	21	Vladimír	Kondrk			44	CZ	finanční poradce	Praha	1	9	9	A	7	0	N	0	0	M	2004	9
+28	22	Jiří	Drška			58	CZ	technik	Dubí	567507	99	9	A	46	0	N	0	0	M	2004	9
+28	23	Petr	Vylít			32	CZ	prodavač	Praha	1	99	9	A	17	0	N	0	0	M	2004	9
+28	24	Lucie	Malcová			25	CZ	prodavačka	Praha	1	99	9	A	188	0	N	0	0	F	2004	9
+28	25	Jan	Jirásek			23	CZ	studující	Teplice	567442	99	9	A	61	0	N	0	0	M	2004	9
+28	26	Jiří	Opršal			28	CZ	producent	Praha	1	99	9	A	56	0	N	0	0	M	2004	9
+29	1	Jaroslav	Valenta	Ing.	CSc.	47	CZ	podnikatel	Praha	1	99	155	A	128	0	N	0	0	M	2004	155
+29	2	Pavel	Marek			50	CZ	podnikatel	Hoštka	564877	155	155	A	73	0	N	0	0	M	2004	155
+29	3	Eva	Morávková			25	CZ	placená předsed.polit.strany	Praha	1	155	155	A	67	0	N	0	0	F	2004	155
+29	4	Leoš	Götzinger	Ing.		34	CZ	obchodník ve farmacii	Hustopeče	584495	155	155	A	42	0	N	0	0	M	2004	155
+29	5	Jan	Štěpánek	Ing.		47	CZ	podnikatel	Praha	1	99	155	A	22	0	N	0	0	M	2004	155
+29	6	Tomáš	Slabý			23	CZ	programátor	Praha	1	155	155	A	90	0	N	0	0	M	2004	155
+29	7	Lumír	Drobek			40	CZ	živnostník	Bohumín	599051	99	155	A	29	0	N	0	0	M	2004	155
+29	8	Daniel	Vagenknecht			27	CZ	záchranář	Praha	1	99	155	A	137	0	N	0	0	M	2004	155
+29	9	Eva	Marková			36	CZ	majitelka účetní firmy	Praha	1	155	155	A	44	0	N	0	0	F	2004	155
+30	1	Viktor	Kožený			40	IE	podnikatel	Blackrock	1	160	160	A	854	0	N	0	0	M	2004	160
+30	2	Helmut	Gänsel			69	CZ	podnikatel	Hradištko	539252	160	160	A	149	0	N	0	0	M	2004	160
+30	3	Vítězslav	Mádr	Mgr.		56	CZ	učitel	Přerov	511382	160	160	A	41	0	N	0	0	M	2004	160
+30	4	Vojtěch	Stanley	Ing.		56	CZ	podnikatel	Znojmo	593711	160	160	A	36	0	N	0	0	M	2004	160
+30	5	Petr	Koutek	Ing.		39	CZ	podnikatel	Zeleneč	539066	160	160	A	20	0	N	0	0	M	2004	160
+30	6	Naďa	Bednárková			22	CZ	švadlena	Přerov	511382	160	160	A	85	0	N	0	0	F	2004	160
+30	7	Tomáš	Toncar			51	CZ	podnikatel	Cheb	554481	160	160	A	14	0	N	0	0	M	2004	160
+30	8	Jaroslav	Dolhý			37	CZ	podnikatel	Klenčí pod Čerchovem	553794	160	160	A	19	0	N	0	0	M	2004	160
+30	9	Zdeněk	Mašek			38	CZ	podnikatel	Louny	565971	160	160	A	15	0	N	0	0	M	2004	160
+30	10	Věra	Olszarová			51	CZ	kuchařka	Řeka	552640	160	160	A	13	0	N	0	0	F	2004	160
+30	11	Ivo	Mlátilík			43	CZ	ředitel	Praha	1	160	160	A	18	0	N	0	0	M	2004	160
+30	12	Radek	Krejza			40	CZ	podnikatel	Třinec	598810	160	160	A	17	0	N	0	0	M	2004	160
+30	13	Michal	Vencovský			37	CZ	obchodní ředitel	Česká Lípa	561380	160	160	A	31	0	N	0	0	M	2004	160
+31	1	Miroslav	Sládek	PhDr.		53	CZ	předseda politické strany RMS	Brno	3	127	127	A	6210	0	N	0	0	M	2004	127
+31	2	František	Kocman	ThMgr.		67	CZ	farář Římskokatolické církve	Rovensko p.Troskami	577472	99	127	A	695	0	N	0	0	M	2004	127
+31	3	Josef	Valenta			53	CZ	místopředseda RMS	Havlíčkův Brod	568414	127	127	A	573	0	N	0	0	M	2004	127
+31	4	Jiří	Mänzel			36	CZ	majitel tiskárny	Staré Křečany	562823	99	127	A	115	0	N	0	0	M	2004	127
+31	5	Jaroslav	Kopecký			47	CZ	podnikatel, tajemník RMS	Frýdlant	564028	127	127	A	126	0	N	0	0	M	2004	127
+31	6	Cyril	Malec			56	CZ	podnikatel, místopředseda RMS	Vrbno pod Pradědem	597961	127	127	A	90	0	N	0	0	M	2004	127
+31	7	Jindřiška	Nazarská	Mgr.		39	CZ	výtvarnice	Lčovice	561649	127	127	A	209	0	N	0	0	F (Jindřiška)	2004	127
+31	8	Zdeněk	Lang	JUDr.		59	CZ	finanční a organizační poradce	Brno	3	99	127	A	144	0	N	0	0	M	2004	127
+31	9	Ljulin	Christov			62	CZ	podnikatel,vedoucí sekret. RMS	Kosmonosy	570826	127	127	A	66	0	N	0	0	M	2004	127
+31	10	Vladimír	Vaňata	MUDr.		81	CZ	lékař	České Budějovice	544256	127	127	A	74	0	N	0	0	M	2004	127
+31	11	Roman	Sláma			41	CZ	podnikatel	Olomouc	500496	11	127	A	90	0	N	0	0	M	2004	127
+31	12	Taťána	Frýblová	MUDr.	CSc.	60	CZ	lékařka	Ostrava	4	99	127	A	105	0	N	0	0	F	2004	127
+31	13	Zdeněk	Krampera			52	CZ	starožitník, místopředseda RMS	Praha	1	127	127	A	107	0	N	0	0	M	2004	127
+31	14	Václav	Komárek	Mgr.		60	CZ	učitel	Ostrava	4	127	127	A	170	0	N	0	0	M	2004	127
+31	15	Dana	Marschová			47	CZ	zdravotní sestra -specialistka	Chomutov	562971	99	127	A	114	0	N	0	0	F	2004	127
+31	16	Luboš	Novotný	Mgr.		46	CZ	psycholog	Havlíčkův Brod	568414	99	127	A	70	0	N	0	0	M	2004	127
+31	17	Michael	Straka	PhDr.		54	CZ	středoškolský profesor	Znojmo	593711	99	127	A	75	0	N	0	0	M	2004	127
+31	18	Vladimír	Veselý	MUDr.		58	CZ	lékař	Kralupy nad Vltavou	534951	99	127	A	58	0	N	0	0	M	2004	127
+31	19	František	Pavlišta			31	CZ	majitel firmy Pafaas	Liberec	563889	11	127	A	85	0	N	0	0	M	2004	127
+31	20	Jaroslav	Dupák			48	CZ	horník	Příbram	539911	127	127	A	57	0	N	0	0	M	2004	127
+31	21	Vilém	Švajda			60	CZ	spojový mechanik, olympionik	Praha	1	127	127	A	10	0	N	0	0	M	2004	127
+31	22	Oldřich	Vrcha			60	CZ	inv. důch., předseda OO RMS	Prostějov	589250	127	127	A	25	0	N	0	0	M	2004	127
+31	23	Michael	Baťka	Ing.		33	CZ	podnikatel	Český Krumlov	545392	127	127	A	32	0	N	0	0	M	2004	127
+31	24	Ria	Otrubová			30	CZ	zdravotní sestra	Hodonín	547794	99	127	A	82	0	N	0	0	F	2004	127
+31	25	Ivo	Vlk			63	CZ	podnikatel	Mělník	534676	127	127	A	27	0	N	0	0	M	2004	127
+31	26	Jindřich	Vaňata			60	CZ	starosta obce	Hvozdec	531235	127	127	A	34	0	N	0	0	M	2004	127
+31	27	Václav	Capouch			60	CZ	technik	Sulislav	561231	127	127	A	16	0	N	0	0	M	2004	127
+31	28	Karel	Mašlík	Mgr.		36	CZ	učitel	Bruntál	597180	127	127	A	70	0	N	0	0	M	2004	127
+31	29	Marie	Dlouhá			53	CZ	podnikatelka	Veselá	560235	99	127	A	9	0	N	0	0	F	2004	127
+31	30	Vladimír	Cekota			40	CZ	montér	Klášterec nad Ohří	563129	127	127	A	39	0	N	0	0	M	2004	127
+31	31	Zdeněk	Stolin	Ing.		25	CZ	technik	Jaroměř	574121	127	127	A	86	0	N	0	0	M	2004	127
+31	32	Milan	Veselý			49	CZ	řidič	Opava	505927	127	127	A	81	0	N	0	0	M	2004	127
+32	1	Vladimír	Železný	PhDr.		59	CZ	senátor	Praha	1	99	88	A	62638	32.79	A	2	0	M	2004	88
+32	2	Jana	Bobošíková	Ing.		39	CZ	novinářka	Praha	1	99	88	A	99368	52.01	A	1	0	F	2004	88
+32	3	Dana	Holečková	RNDr.		46	CZ	ředitelka ZOO	Dvůr Králové n.Labem	579203	99	88	A	10091	5.28	N	0	1	F	2004	88
+32	4	Jiří	Vrba	PhDr.	CSc.	65	CZ	VŠ pedagog	Olomouc	500496	99	88	A	1456	0	N	0	2	M	2004	88
+32	5	Václav	Havlík	JUDr.		63	CZ	ředitel ČOI	Plzeň	2	99	88	A	992	0	N	0	3	M	2004	88
+32	6	Jiří	Farkota	Ing.		57	CZ	starosta	Žatec	566985	88	88	A	428	0	N	0	4	M	2004	88
+32	7	Miroslav	Samek	MUDr.		50	CZ	lékař	Liberec	563889	88	88	A	1145	0	N	0	5	M	2004	88
+32	8	Otakar	Prajzner			58	CZ	herec	Ostrava	4	99	88	A	377	0	N	0	6	M	2004	88
+32	9	Petr	Hudlík			49	CZ	starosta městské části	Brno	3	88	88	A	621	0	N	0	7	M	2004	88
+32	10	Rostislav	Koníček	Ing.	PhD.	53	CZ	dopravní expert	Znojmo	593711	88	88	A	582	0	N	0	8	M	2004	88
+32	11	Roman	Málek			26	CZ	sportovec	Praha	1	99	88	A	2895	0	N	0	9	M	2004	88
+32	12	Ladislav	Ambrož	Mgr.		55	CZ	starosta	Kuřim	583251	99	88	A	290	0	N	0	10	M	2004	88
+32	13	Lucie	Černá Šternerová			37	CZ	novinářka	Štěnovický Borek	539741	88	88	A	922	0	N	0	11	F	2004	88
+32	14	Stanislav	Baťa	Ing.		62	CZ	soudní znalec	Pardubice	555134	88	88	A	372	0	N	0	12	M	2004	88
+32	15	Zbigniew	Michalek	MUDr.		58	CZ	lékař	Orlová	599069	88	88	A	246	0	N	0	13	M	2004	88
+32	16	Petr	Mrázek	Ing.		56	CZ	podnikatel	Zlín	585068	88	88	A	306	0	N	0	14	M	2004	88
+32	17	Jan	Technik	Ing.		56	CZ	učitel	Liberec	563889	88	88	A	292	0	N	0	15	M	2004	88
+32	18	Jan	Fismol	Bc.		57	CZ	místostarosta	Dolní Lutyně	598968	88	88	A	123	0	N	0	16	M	2004	88
+32	19	Jan	Fuka			51	CZ	podnikatel	Loučná pod Klínovcem	546518	88	88	A	95	0	N	0	17	M	2004	88
+32	20	Eva	Koutná	Mgr.		50	CZ	učitelka	Zlín	585068	88	88	A	319	0	N	0	18	F	2004	88
+32	21	Miloš	Veselý	Ing.		55	CZ	místostarosta městské části	Brno	3	88	88	A	108	0	N	0	19	M	2004	88
+32	22	Tomáš	Krtek	Ing.		35	CZ	technik	Frýdek-Místek	598003	88	88	A	260	0	N	0	20	M	2004	88
+32	23	Václav	Vlasatý			45	CZ	podnikatel	Karlovy Vary	554961	88	88	A	122	0	N	0	21	M	2004	88
+32	24	Ivana	Břízová	Ing.		41	CZ	referent obrany	Havlíčkův Brod	568414	99	88	A	194	0	N	0	22	F	2004	88
+32	25	Robert	Baťa	Ing.		29	CZ	VŠ pedagog	Pardubice	555134	99	88	A	492	0	N	0	23	M	2004	88
+32	26	Zbigniew	Chodura	Ing.		38	CZ	podnikatel	Třinec	598810	88	88	A	108	0	N	0	24	M	2004	88
+32	27	Martin	Bezouška			40	CZ	podnikatel	Jáchymov	555215	88	88	A	37	0	N	0	25	M	2004	88
+32	28	Rostislav	Koníček	Ing.		26	CZ	výpravčí	Znojmo	593711	88	88	A	275	0	N	0	26	M	2004	88
+32	29	Karel	Košař			29	CZ	komerční pracovník	Moravské Budějovice	591181	99	88	A	90	0	N	0	27	M	2004	88
+32	30	Petr	Sobol	Mgr.		43	CZ	učitel	Orlová	599069	88	88	A	264	0	N	0	28	M	2004	88

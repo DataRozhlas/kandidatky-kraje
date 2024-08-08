@@ -1,0 +1,675 @@
+ESTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	STATOBCAN	POVOLANI	BYDLISTEN	BYDLISTEK	PSTRANA	NSTRANA	PLATNOST	POCHLASU	POCPROC	MANDAT	PORADIMAND	PORADINAHR	POHLAVI	ROK	VSTRANA
+1	1	Stanislav	Pochman			60	CZ	výrobní dispečer	Oloví	560588	40	40	A	113	2.47	N	0	0	M	2024	40
+1	2	František	Laudát	Ing.		64	CZ	manager staveb, předseda KAN	Praha	554782	40	40	A	210	4.6	N	0	0	M	2024	40
+1	3	Marie	Gottfriedová	Mgr.		49	CZ	ředitelka základní školy	Trmice	553697	99	40	A	195	4.27	N	0	0	F	2024	40
+1	4	Jiří	Schmidt	Mgr. et Mgr.		68	CZ	pedagog	Příbram	539911	99	40	A	73	1.6	N	0	0	M	2024	40
+1	5	Romana	Šimková	Ing.		36	CZ	Pricing & Merchandising Coordinator	Praha	554782	40	40	A	115	2.52	N	0	0	F	2024	40
+1	6	Hana	Matějková	Mgr.		54	CZ	učitelka	Plzeň	554791	99	40	A	96	2.1	N	0	0	F (Hana je ženské jméno, Matějková je ženské příjmení, učitelka je povolání často spojované s ženami)	2024	40
+1	7	David	Navara	Mgr.		47	CZ	programátor	Jindřichův Hradec	545881	99	40	A	115	2.52	N	0	0	M	2024	40
+1	8	Milan	Tausch	Ing.		57	CZ	ekonom	Plzeň	554791	40	40	A	63	1.38	N	0	0	M	2024	40
+1	9	Jan	Šefranka	Mgr.	M.A.	66	CZ	advokát	Hostivice	539244	40	40	A	31	.67	N	0	0	M	2024	40
+1	10	Radek	Hruška			48	CZ	programátor	Vinařice	533050	40	40	A	63	1.38	N	0	0	M	2024	40
+1	11	Marcel	Miška	Bc.		53	CZ	OSVČ - poradce pro finanční plánování	Pchery	532720	40	40	A	35	.76	N	0	0	M	2024	40
+1	12	Filip	Kruncl	Bc.		45	CZ	sociální pracovník	Slaný	532819	40	40	A	42	.92	N	0	0	M	2024	40
+1	13	Jana	Vařeková			47	CZ	přechodná pěstounka	Praha	554782	40	40	A	37	.81	N	0	0	F	2024	40
+1	14	Pavel	Bartoníček	Ing. Bc.		59	CZ	OSVČ - ekonom a historik	Slaný	532819	99	40	A	77	1.68	N	0	0	M	2024	40
+1	15	Jiří	Kraus			49	CZ	postproduction superviser	Praha	554782	40	40	A	16	.35	N	0	0	M	2024	40
+1	16	Jan	Brhlík			51	CZ	manager autodopravy	Mělník	534676	40	40	A	20	.43	N	0	0	M	2024	40
+1	17	Jiří	Domlátil	Ing.		78	CZ	stavební inženýr, předseda KAN 2014 - 2019	Praha	554782	40	40	A	24	.52	N	0	0	M	2024	40
+1	18	Luboš	Sedláček			60	CZ	geodet	Kostelec nad Labem	534935	40	40	A	15	.32	N	0	0	M	2024	40
+1	19	Tomáš	Surin	Ing.		61	CZ	podnikatel v oboru IT	Praha	554782	40	40	A	18	.39	N	0	0	M	2024	40
+1	20	Karel	Protiva	MUDr.		72	CZ	zubní lékař, člen České společnosti přátel Izraele, z.s.	Kladno	532053	40	40	A	37	.81	N	0	0	M	2024	40
+1	21	Bohuslav	Hamáček			74	CZ	OSVČ - požární technik	Praha	554782	40	40	A	27	.59	N	0	0	M	2024	40
+1	22	Pavel	Stulík	Ing.		81	CZ	strojní inženýr	Praha	554782	99	40	A	16	.35	N	0	0	M	2024	40
+1	23	Klára	Glancová		DiS.	68	CZ	účetní	Liberec	563889	40	40	A	31	.67	N	0	0	F	2024	40
+2	1	Šimon	Hlinovský	Mgr.		34	CZ	"politolog, autor knihy ""Očima mladého aktivisty"", publicista, procesní specialista, trojnásobný vítěz AZ-kvízu a vedoucí kroužku pro děti"	Praha	554782	1286	1286	A	525	8.02	N	0	0	M	2024	1286
+2	2	Anetta	Maytnerová			23	CZ	studentka právnické fakulty	Praha	554782	99	1286	A	270	4.12	N	0	0	F	2024	1286
+2	3	Vanda	Šišperová			24	CZ	studentka, svatební vizážistka a dobrovolnice v kočičím útulku	Uherský Brod	592731	99	1286	A	133	2.03	N	0	0	F	2024	1286
+2	4	Dita	Jarošová		DiS.	47	CZ	"učitelka, matka čtyř dětí, samoživitelka, aktivistka, bloggerka a autorka knihy ""Opravdickej mafián"""	Dvůr Králové nad Labem	579203	1286	1286	A	152	2.32	N	0	0	F	2024	1286
+2	5	Lenka	Kořínková			36	CZ	cestovatelka, obchodní a marketingová konzultantka	Praha	554782	99	1286	A	59	.9	N	0	0	F	2024	1286
+2	6	Beno	Ge	mjr. Bc. Ing.	MPA	42	CZ	podnikatel, voják v záloze	Praha	554782	99	1286	A	113	1.72	N	0	0	M	2024	1286
+2	7	Lucie	Machová		DiS.	32	CZ	zdravotní sestra	Praha	554782	99	1286	A	55	.84	N	0	0	F	2024	1286
+2	8	David	Vejchoda	Mgr.		32	CZ	výkonný správce IT, manažer pro strategický rozvoj, bývalý místopředseda European Free Alliance Youth, sociální pedagog	Zlín	585068	99	1286	A	142	2.17	N	0	0	M	2024	1286
+2	9	Lenka	Kochová			28	CZ	redaktorka, studentka, cestovatelka a podnikatelka	Praha	554782	99	1286	A	58	.88	N	0	0	F	2024	1286
+2	10	Lukáš	Jedlan			22	CZ	aktivista Illumicati	Praha	554782	99	1286	A	29	.44	N	0	0	M	2024	1286
+2	11	Jakub	Kocáb			23	CZ	student	Svémyslice	598305	99	1286	A	27	.41	N	0	0	M	2024	1286
+2	12	Martin	Prchal			21	CZ	student, vedoucí kroužku pro děti a pečovatel v domově seniorů	Praha	554782	1286	1286	A	76	1.16	N	0	0	M	2024	1286
+2	13	Josef	Šimek			23	CZ	student	Panenské Břežany	538604	99	1286	A	16	.24	N	0	0	M	2024	1286
+2	14	Lukáš	Pokorný	Ing.		52	CZ	ekonom, podnikatel v cestovním ruchu, zastupitel MČ Praha 6	Praha	554782	99	1286	A	43	.65	N	0	0	M	2024	1286
+2	15	Aneta	Lazarová			23	CZ	obsluha v kavárně	Ústí nad Labem	554804	99	1286	A	36	.55	N	0	0	F	2024	1286
+2	16	Josef	Posel			21	CZ	projektový manažer	Praha	554782	99	1286	A	22	.33	N	0	0	M	2024	1286
+2	17	Petra	Kokošková			31	CZ	pracovnice zákaznického servisu a aktivistka NAFO	Modřice	583391	99	1286	A	24	.36	N	0	0	F	2024	1286
+2	18	Jana	Kožnarová	Mgr.		49	CZ	zastupitelka MČ Praha-Satalice, kontrolorka projektů financovaných z EU	Praha	554782	99	1286	A	64	.97	N	0	0	F	2024	1286
+2	19	Roman	Skřivánek	Ing. et Ing.		45	CZ	programátor	Rousínov	593559	99	1286	A	38	.58	N	0	0	M	2024	1286
+2	20	Josef	Král	Mgr. Ing.	Ph.D.	57	CZ	psycholog	Praha	554782	99	1286	A	51	.77	N	0	0	M	2024	1286
+2	21	Věra	Tupá			66	CZ	kadeřnice v důchodu	Praha	554782	99	1286	A	19	.29	N	0	0	F	2024	1286
+2	22	Daniela	Podešvová			52	CZ	finanční referentka	Praha	554782	99	1286	A	12	.18	N	0	0	F	2024	1286
+2	23	Václav	Vojíř			65	CZ	ekologický aktivista, důchodce	Praha	554782	99	1286	A	9	.13	N	0	0	M	2024	1286
+2	24	Zuzana	Pípová			31	CZ	aktivistka	Praha	554782	99	1286	A	11	.16	N	0	0	F	2024	1286
+2	25	Kateřina	Prchalová			46	CZ	osoba pečující o osobu blízkou	Praha	554782	99	1286	A	19	.29	N	0	0	F	2024	1286
+2	26	Václav	Lupač			27	CZ	lesník	Telč	588024	99	1286	A	51	.77	N	0	0	M	2024	1286
+3	1	Petr	Mach	Ing.	Ph.D.	49	CZ	ekonom, vysokoškolský pedagog	Praha	554782	1114	1114	A	24819	14.58	N	0	1	M	2024	1487
+3	2	Ivan	David	MUDr.	CSc.	71	CZ	europoslanec, lékař	Praha	554782	1114	1114	A	30892	18.15	A	1	0	M	2024	1487
+3	3	Zuzana	Majerová			51	CZ	pedagog, překladatel, předsedkyně strany Trikolora	Bukovany	532924	1227	1227	A	20077	11.79	N	0	2	F	2024	1487
+3	4	Milan	Urban	Dr.-Ing.		64	CZ	architekt, urbanista, zastupitel hl. města Prahy	Praha	554782	1114	1114	A	2543	1.49	N	0	3	M	2024	1487
+3	5	Boris	Latýn	Ing. Mgr.		44	CZ	IT specialista, zastupitel MČ Brno-Kohoutovice	Brno	582786	1114	1114	A	1396	.82	N	0	4	M	2024	1487
+3	6	Dominik	Hanko	Ing. Bc.		45	CZ	preventista městské policie, včelař, trenér, krajský zastupitel, zastupitel města Litoměřice	Litoměřice	564567	1114	1114	A	1111	.65	N	0	5	M	2024	1487
+3	7	Václav	Bošek	Mgr.	MBA	47	CZ	živnostník, zastupitel města Kladna	Kladno	532053	1114	1114	A	567	.33	N	0	6	M	2024	1487
+3	8	Markéta	Nyčová			46	CZ	projektová manažerka	Rokytnice v Orlických horách	576701	1114	1114	A	522	.3	N	0	7	F	2024	1487
+3	9	Jan	Kůrka			81	CZ	trenér, olympijský vítěz, zastupitel města Plzně	Plzeň	554791	99	1114	A	337	.19	N	0	8	M	2024	1487
+3	10	Marie	Zlínská	Ing.		29	CZ	strojní inženýr	Zlín	585068	1114	1114	A	980	.57	N	0	9	F	2024	1487
+3	11	Jan	Tkaczik	PhDr. Mgr.	Ph.D., mjr.v.v.	48	CZ	bezpečnostní pracovník JE Temelín	Týn nad Vltavou	545201	1114	1114	A	776	.45	N	0	10	M	2024	1487
+3	12	Marcel	Dlask	Ing.		50	CZ	správní ředitel elektrárny, zastupitel města Chvaletice	Chvaletice	575071	1114	1114	A	431	.25	N	0	11	M	2024	1487
+3	13	Lucie	Pavlů Řádová	Mgr.		41	CZ	obchodní ředitelka	Želiv	549215	1114	1114	A	281	.16	N	0	12	F	2024	1487
+3	14	Antonín	Dušek	Ing.		68	CZ	ministerský rada	Malešov	534188	1114	1114	A	185	.1	N	0	13	M	2024	1487
+3	15	David	Bohbot			56	CZ	bezpečnostní expert, podnikatel v oblasti nemovitostí	Praha	554782	1227	1227	A	1175	.69	N	0	14	M	2024	1487
+3	16	Jarmila	Fuchsová	Ing.		45	CZ	výzkumný a vývojový pracovník, zastupitelka města Most	Most	567027	1114	1114	A	514	.3	N	0	15	F	2024	1487
+3	17	Petr	Levíček		MBA	60	CZ	ředitel společnosti, zastupitel města Brna	Brno	582786	1227	1227	A	297	.17	N	0	16	M	2024	1487
+3	18	Martin	Malášek		MSc.	29	CZ	pracovník v sociálních službách, zastupitel města Hranice	Hranice	513750	1114	1114	A	606	.35	N	0	17	M	2024	1487
+3	19	Adam	Synek	Mgr.	MBA, mjr.v.v.	38	CZ	regionální ředitel lůžkové péče	Měník	570397	1114	1114	A	248	.14	N	0	18	M	2024	1487
+3	20	Vítězslav	Krabička	JUDr.		64	CZ	advokát, zastupitel města Hodonína	Hodonín	547794	1114	1114	A	328	.19	N	0	19	M	2024	1487
+3	21	Nikola	Zbořilová	Ing.		31	CZ	poradkyně frakce Identita a demokracie v Evropském parlamentu	Praha	554782	1114	1114	A	688	.4	N	0	20	F	2024	1487
+3	22	Michal	Švarc	Mgr. Bc.		51	CZ	ředitel městské policie, krajský zastupitel, zastupitel města Jablonec nad Nisou	Jablonec nad Nisou	563510	1114	1114	A	369	.21	N	0	21	M	2024	1487
+3	23	Vladimír	Muchl	MUDr.		67	CZ	lékař	Blatná	550850	1114	1114	A	174	.1	N	0	22	M	2024	1487
+3	24	Naděžda	Franková	MUDr.		70	CZ	lékařka	Ostrava	554821	1114	1114	A	206	.12	N	0	23	F	2024	1487
+3	25	Jaroslav	Holík	Ing.		70	CZ	poradce	Březůvky	585149	1114	1114	A	105	.06	N	0	24	M	2024	1487
+3	26	Iveta	Krynesová	Ing. Bc.		52	CZ	ekonomický a sociální poradce, pedagog	Žihle	559695	1114	1114	A	175	.1	N	0	25	F	2024	1487
+3	27	Michal	Galbavý	Ing.		42	CZ	majitel realitní kanceláře	Třebíč	590266	1114	1114	A	129	.07	N	0	26	M	2024	1487
+3	28	Marcela	Sedláčková	Mgr. Bc.		58	CZ	pedagog	Chotíkov	558940	1114	1114	A	262	.15	N	0	27	F	2024	1487
+4	1	Jan	Červenka	JUDr.		58	CZ	právník, trenér mládeže	Praha	554782	1260	1260	A	352	5.2	N	0	0	M	2024	1260
+4	2	Ondřej	Havlena	Ing.	Ph.D.	40	CZ	dopravní inženýr	Praha	554782	1260	1260	A	158	2.33	N	0	0	M	2024	1260
+4	3	Karin	Luftmanová	JUDr. Ing.		55	CZ	advokátka	Praha	554782	1260	1260	A	144	2.13	N	0	0	F	2024	1260
+4	4	Petr	Špringr	Bc.	DiS.	39	CZ	UX expert	Praha	554782	1260	1260	A	77	1.13	N	0	0	M	2024	1260
+4	5	Jan	Wagner	Ing.		68	CZ	digitální kurátor	Praha	554782	1260	1260	A	32	.47	N	0	0	M	2024	1260
+4	6	Brigita	Bilíková	JUDr.		55	CZ	advokátka	Markvartovice	508128	99	1260	A	173	2.55	N	0	0	F	2024	1260
+4	7	Kristina	Špringr	Mgr.		37	CZ	UX researcher	Praha	554782	1260	1260	A	68	1	N	0	0	F	2024	1260
+4	8	Václav	Strnad	Ing.		35	CZ	pivovarník	Praha	554782	99	1260	A	81	1.19	N	0	0	M	2024	1260
+4	9	Anna	Křenková	Mgr.		43	CZ	středoškolská učitelka	Praha	554782	1260	1260	A	57	.84	N	0	0	F	2024	1260
+4	10	Jan	Nedvěd	Mgr.		44	CZ	manažer ve farmaceutické firmě	Praha	554782	1260	1260	A	38	.56	N	0	0	M	2024	1260
+4	11	Pavel	Fischer	Ing.		56	CZ	auditor	Praha	554782	1260	1260	A	61	.9	N	0	0	M	2024	1260
+4	12	Lukáš	Ryant			31	CZ	projektant pozemních staveb	Praha	554782	1260	1260	A	26	.38	N	0	0	M	2024	1260
+4	13	Martin	Liška			46	CZ	trenér a jezdec dostihových koní	Vápenný Podol	572454	99	1260	A	89	1.31	N	0	0	M	2024	1260
+4	14	Jitka	Bartáková Honsnejmanová		DiS.	32	CZ	zdravotnická záchranářka	Praha	554782	1260	1260	A	53	.78	N	0	0	F	2024	1260
+4	15	Antonín	Teplý	Bc.		41	CZ	radiologický asistent	Praha	554782	1260	1260	A	32	.47	N	0	0	M	2024	1260
+4	16	Aleš	Martínek	Mgr. Ing.		43	CZ	advokát	Rousínov	593559	99	1260	A	36	.53	N	0	0	M	2024	1260
+4	17	Marie	Kuchařová			22	CZ	studentka	Tábor	552046	99	1260	A	61	.9	N	0	0	F	2024	1260
+4	18	Radovan	Mačák			43	CZ	designer	Praha	554782	99	1260	A	12	.17	N	0	0	M	2024	1260
+4	19	Blanka	Šímová			54	CZ	účetní	Praha	554782	99	1260	A	7	.1	N	0	0	F	2024	1260
+4	20	Matěj	Sucharda			26	CZ	student	Nová Paka	573248	99	1260	A	51	.75	N	0	0	M	2024	1260
+4	21	Dagmar	Střelcová			61	CZ	invalidní důchodkyně	Praha	554782	1260	1260	A	15	.22	N	0	0	F	2024	1260
+4	22	Sylvie	Pavloková	Mgr.	Ph.D.	34	CZ	odborná asistentka na univerzitě	Tišnov	584002	99	1260	A	28	.41	N	0	0	F	2024	1260
+4	23	Patrik	Michek	Ing.		31	CZ	majitel restaurace	Praha	554782	99	1260	A	12	.17	N	0	0	M	2024	1260
+4	24	Lucie	Toulcová			49	CZ	majitelka cestovní agentury	Praha	554782	99	1260	A	7	.1	N	0	0	F	2024	1260
+4	25	Tereza	Špringlová	Ing.		33	CZ	projektantka	Děčín	562335	99	1260	A	34	.5	N	0	0	F	2024	1260
+4	26	Jiří	Kazil			70	CZ	pracující důchodce	Praha	554782	99	1260	A	15	.22	N	0	0	M	2024	1260
+4	27	Zdenka	Duževičová	Mgr.		67	CZ	důchodkyně	Praha	554782	99	1260	A	16	.23	N	0	0	F	2024	1260
+4	28	Matěj	Stojanović			38	CZ	IT manažer	Praha	554782	1260	1260	A	50	.73	N	0	0	M	2024	1260
+5	1	Pavel	Opl			53	CZ	odborník na bezpečnost, emeritní policejní rada Policejního prezídia ČR	Praha	554782	99	121	A	810	7.52	N	0	0	M	2024	121
+5	2	Pavel	Kratěna	RNDr.		65	CZ	geolog	Praha	554782	99	121	A	212	1.96	N	0	0	M	2024	121
+5	3	Dana	Němcová	Ing.		54	CZ	hlavní účetní	Praha	554782	99	121	A	446	4.14	N	0	0	F	2024	121
+5	4	Vladimír Štěpán	Kremsa	prof. Ing.	Ph.D.	67	CZ	universitní profesor, vědecký pracovník	České Budějovice	544256	99	121	A	319	2.96	N	0	0	M	2024	121
+5	5	Helena	Jakešová	Ing.		56	CZ	krajinná inženýrka a finanční poradkyně	Havlíčkův Brod	568414	99	121	A	393	3.65	N	0	0	F	2024	121
+5	6	Pavel	May			61	CZ	elektrikář	Praha	554782	121	121	A	134	1.24	N	0	0	M	2024	121
+5	7	Lenka	Závůrková			58	CZ	operátorka skladu	Ústí nad Labem	554804	99	121	A	184	1.7	N	0	0	F	2024	121
+5	8	Alexandr	Gegalčij	Ing.		75	CZ	podnikatel	Praha	554782	99	121	A	41	.38	N	0	0	M	2024	121
+5	9	Ladislav	Ších			46	CZ	pracovník v logistice	Praha	554782	99	121	A	283	2.62	N	0	0	M	2024	121
+6	1	Jindřich	Rajchl	JUDr.		47	CZ	advokát	Hradec Králové	569810	1265	1265	A	19376	30.29	N	0	0	M	2024	1636
+6	2	Ivana	Turková	Ing.	Ph.D., MBA	57	CZ	ekonom, lektor	Litvínov	567256	1265	1265	A	8355	13.06	N	0	0	F	2024	1636
+6	3	Michal	Hašek	JUDr.	LL.M., MBA	48	CZ	advokát, emeritní hejtman	Brno	582786	1265	1265	A	1451	2.26	N	0	0	M	2024	1636
+6	4	Marek	Zeman	MUDr.	MBA	60	CZ	lékař	Praha	554782	1265	1265	A	248	.38	N	0	0	M	2024	1636
+6	5	Ivo	Budil	prof. RNDr.	Ph.D., DSc.	58	CZ	vysokoškolský pedagog	Praha	554782	1265	1265	A	719	1.12	N	0	0	M	2024	1636
+6	6	Václav	Török			51	CZ	ředitel chráněné dílny, lyžařský instruktor	Trutnov	579025	1265	1265	A	137	.21	N	0	0	M	2024	1636
+6	7	Jozef	Regec			59	CZ	OSVČ	Černá Hora	581496	1265	1265	A	159	.24	N	0	0	M	2024	1636
+6	8	Tereza	Hyťhová	Mgr.		29	CZ	učitelka na základní škole	Krupka	567639	1265	1265	A	431	.67	N	0	0	F	2024	1636
+6	9	Martina	Jiříková	Ing.	plk. v. v.	55	CZ	úředník radnice	Ostrava	554821	1265	1265	A	268	.41	N	0	0	F	2024	1636
+6	10	Petr	Šimek	RNDr.	CSc.	64	CZ	vědecký pracovník	České Budějovice	544256	99	1265	A	86	.13	N	0	0	M	2024	1636
+6	11	Denis	Mitrović	JUDr.		44	CZ	advokát	Hradec Králové	569810	1265	1265	A	117	.18	N	0	0	M	2024	1636
+6	12	Milan	Loprais			48	CZ	OSVČ	Frenštát pod Radhoštěm	599344	1265	1265	A	376	.58	N	0	0	M	2024	1636
+6	13	Petr	Zuska	MgA.		55	CZ	choreograf	Praha	554782	1265	1265	A	263	.41	N	0	0	M	2024	1636
+6	14	Barbora	Fojtáchová	Ing. Bc.		51	CZ	vedoucí Odboru stavebního úřadu	Zlín	585068	1265	1265	A	68	.1	N	0	0	F	2024	1636
+6	15	Michal	Riško	PhDr.		55	CZ	manažer	Karlovy Vary	554961	1265	1265	A	60	.09	N	0	0	M	2024	1636
+6	16	Libor	Hlavsa	Mgr.		48	CZ	advokát	Plzeň	554791	1265	1265	A	74	.11	N	0	0	M	2024	1636
+6	17	Jana	Frková	doc. Ing.	Ph.D.	67	CZ	pedagog	Praha	554782	1265	1265	A	18	.02	N	0	0	F	2024	1636
+6	18	Roberto	Mattiello	Ing.		50	CZ	OSVČ	Tursko	539775	1265	1265	A	22	.03	N	0	0	M	2024	1636
+6	19	Libor	Hřivnáč			64	CZ	OSVČ	Opava	505927	1265	1265	A	46	.07	N	0	0	M	2024	1636
+6	20	Klára	Liptáková	Ing.		54	CZ	ekonom	Brno	582786	1265	1265	A	93	.14	N	0	0	F	2024	1636
+6	21	Miroslav	Svoboda	Ing.		62	CZ	manažer	Praha	554782	1265	1265	A	17	.02	N	0	0	M	2024	1636
+6	22	Andrea	Peňáz	Ing.		33	CZ	specialista na historickou zeleň	Sedletín	548421	1265	1265	A	82	.12	N	0	0	F	2024	1636
+6	23	Pavel	Křivka	RNDr.	CSc., plk. v. v.	75	CZ	důchodce, plukovník PČR v.v.	Náchod	573868	1265	1265	A	35	.05	N	0	0	M	2024	1636
+6	24	Nicola	Derré	Mgr.		30	CZ	OSVČ	Brno	582786	1265	1265	A	27	.04	N	0	0	F	2024	1636
+6	25	Lenka	Masná	Ing. Bc.		49	CZ	ředitelka firmy	Kroměříž	588296	1265	1265	A	44	.06	N	0	0	F	2024	1636
+6	26	Jiří	Urbánek	MVDr.	MBA, M.Ed.	51	CZ	OSVČ, konzultant	Valašské Meziříčí	545058	1265	1265	A	47	.07	N	0	0	M	2024	1636
+6	27	Jiří	Mravec			32	CZ	OSVČ	Jirkov	563099	1265	1265	A	35	.05	N	0	0	M	2024	1636
+6	28	Vladimír	Růžička			61	CZ	profesionální trenér	Litvínov	567256	99	1269	A	397	.62	N	0	0	M	2024	1636
+7	1	Martin	Urza			37	CZ	anarchokapitalista	Praha	554782	1250	1250	A	246	10.14	N	0	0	M	2024	1250
+8	1	Tomáš	Raždík	Ing.		42	CZ	středoškolský pedagog	Ostrava	554821	752	752	A	196	7.65	N	0	0	M	2024	1631
+8	2	Pynelopi	Cimprichová	Ing. Mgr.		65	CZ	lékárnice, ekonomka, podnikatelka	Ostrava	554821	752	752	A	121	4.72	N	0	0	F	2024	1631
+8	3	Jiří	Fojtík			39	CZ	automechanik	Tichá	599956	752	752	A	44	1.71	N	0	0	M	2024	1631
+8	4	Radoslav	Štědroň	RNDr.		69	CZ	geograf, OSVČ	Ostrava	554821	159	159	A	28	1.09	N	0	0	M	2024	1631
+8	5	Tomáš	Dräxler	Ing.		30	CZ	ekonom, nákupčí	Most	567027	752	752	A	47	1.83	N	0	0	M	2024	1631
+8	6	Tomáš	Cuhra			77	CZ	zahradník, důchodce	Karlovy Vary	554961	752	752	A	8	.31	N	0	0	M	2024	1631
+8	7	Dagmar	Klásková	Mgr.		42	CZ	středoškolská pedagožka	Vřesina	500291	752	752	A	65	2.54	N	0	0	F	2024	1631
+8	8	Miroslav	Chvojka			38	CZ	technický ředitel, elektro	Skřipel	533963	99	752	A	25	.97	N	0	0	M	2024	1631
+8	9	Monika	Hloušková			37	CZ	OSVČ	Ostrava	554821	752	752	A	23	.89	N	0	0	F	2024	1631
+8	10	Ivan	Cimprich	PharmDr.		58	CZ	lékárník, zemědělec, podnikatel	Karlovy Vary	554961	99	752	A	45	1.75	N	0	0	M	2024	1631
+8	11	Eva	Appeltová	Ing.		67	CZ	geoložka	Herálec	568678	99	752	A	15	.58	N	0	0	F	2024	1631
+8	12	Eva	Chýlová	MUDr.		64	CZ	lékařka	Ostrava	554821	99	752	A	16	.62	N	0	0	F	2024	1631
+8	13	Josef	Kronych	Bc.		52	CZ	technik elektro	Horní Jiřetín	567175	99	752	A	13	.5	N	0	0	M	2024	1631
+8	14	Drahoslava	Marková			49	CZ	specialistka pojištění	Most	567027	99	752	A	12	.46	N	0	0	F	2024	1631
+8	15	Silvie	Malušková			39	CZ	obchodní specialistka pro zahraničí	Veselí nad Moravou	586722	99	752	A	66	2.57	N	0	0	F	2024	1631
+9	1	Filip	Turek			38	CZ	bývalý formulový pilot, politický komentátor a mezinárodně uznávaný automobilový expert, prezident Jaguar klub ČR, cestovatel	Praha	554782	99	1245	A	152196	49.96	A	1	0	M	2024	1633
+9	2	Nikola	Bartůšek	MSSc. et MSSc., BSc.		39	CZ	expertka na migrační a azylovou politiku, socioložka, vysokoškolská a středoškolská pedagožka, lektorka dětských jazykových kurzů	České Budějovice	544256	1245	1245	A	21162	6.94	A	2	0	F	2024	1633
+9	3	Antonín	Staněk	doc. Mgr.	Ph.D.	58	CZ	vysokoškolský pedagog, politik, bývalý ministr kultury a primátor Olomouce	Olomouc	500496	1245	1245	A	2662	.87	N	0	2	M	2024	1633
+9	4	Petr	Macinka	Mgr.		45	CZ	předseda politické strany Motoristé sobě, politolog, komentátor	Praha	554782	1178	1178	A	14657	4.81	N	0	3	M	2024	1633
+9	5	Tomáš	Pokstefel			22	CZ	student, publicista a moderátor TV Noe	Praha	554782	1245	1245	A	633	.2	N	0	4	M	2024	1633
+9	6	Vladimír	Pikora	Ing.	Ph.D.	46	CZ	ekonom, publicista, vysokoškolský pedagog	Praha	554782	99	1178	A	7604	2.49	N	0	5	M	2024	1633
+9	7	Lukáš	Komenda	Ing.		35	CZ	projektový manažer	Brno	582786	1245	1245	A	435	.14	N	0	6	M	2024	1633
+9	8	Jiří	Barták	Mgr.		56	CZ	zástupce ředitele ZŠ, bývalý vedoucí komunikace Generálního ředitelství cel a člen sítě komunikátorů evropského úřadu OLAF	Praha	554782	1178	1178	A	470	.15	N	0	7	M	2024	1633
+9	9	Lucie	Hymplová			39	CZ	finanční účetní v zahraniční firmě	Praha	554782	1245	1245	A	377	.12	N	0	8	F	2024	1633
+9	10	Petr	Smolka	Ing.		54	CZ	manažer, bývalý generální ředitel TSK Praha a.s.	Praha	554782	99	1178	A	224	.07	N	0	9	M	2024	1633
+9	11	David	Ruman			21	CZ	klientský pracovník v servisu telefonů	Luhačovice	585459	1245	1245	A	292	.09	N	0	10	M	2024	1633
+9	12	Renata	Maršíková	Bc.		41	CZ	podnikatelka v oblasti Real Estate	Praha	554782	1178	1178	A	134	.04	N	0	11	F	2024	1633
+9	13	Ivo	Stibůrek			22	CZ	student právnické fakulty	Znojmo	593711	99	1245	A	193	.06	N	0	12	M	2024	1633
+9	14	Jana	Kociánová	BcA.		29	CZ	pracovnice v kultuře	Jablonec nad Nisou	563510	99	1178	A	247	.08	N	0	13	F	2024	1633
+9	15	Miroslav	Šrejl			41	CZ	obchodní zástupce	Plzeň	554791	1245	1245	A	62	.02	N	0	14	M	2024	1633
+9	16	Lynn	Tourkiová		M.A.	41	CZ	marketingová manažerka mezinárodní vysoké školy	Praha	554782	99	1178	A	73	.02	N	0	15	F	2024	1633
+9	17	Frank Thomas	Podstatzky-Lichtenstein	Mgr. Ing.		57	CZ	stavitel a advokát, sběratel, cestovatel a degustátor	Ohrobec	539503	99	1245	A	858	.28	N	0	16	M	2024	1633
+9	18	Helena	Mitwallyová	Mgr. Bc.	Ph.D.	53	CZ	ředitelka divize úklidu a komunálních služeb, vědecká pracovnice	Praha	554782	99	1178	A	101	.03	N	0	17	F	2024	1633
+9	19	Pavel	Černý			49	CZ	podnikatel v oblasti zdraví a krásy, předseda jihomoravské krajské organizace hnutí Přísaha	Loděnice	531464	1245	1245	A	129	.04	N	0	18	M	2024	1633
+9	20	Barbora	Šestáková	Bc.	DiS.	41	CZ	porodní asistentka	Praha	554782	1178	1178	A	353	.11	N	0	19	F	2024	1633
+9	21	Róbert	Šlachta	Mgr.		52	CZ	předseda hnutí Přísaha, opoziční zastupitel Pohořelic, bývalý elitní policista a šéf ÚOOZ	Pohořelice	549461	1245	1245	A	15680	5.14	N	0	1	M	2024	1633
+9	22	Jakub	Svoboda	Ing.		37	CZ	inženýr bezpečnostních technologií a systémů	Praha	554782	1178	1178	A	193	.06	N	0	20	M	2024	1633
+9	23	Petr	Denk	Mgr.		32	CZ	středoškolský učitel, místopředseda hnutí Přísaha	Plzeň	554791	1245	1245	A	179	.05	N	0	21	M	2024	1633
+9	24	Sabina	Harnachová			54	CZ	konzultantka v oblasti realit	Praha	554782	99	1178	A	32	.01	N	0	22	F	2024	1633
+9	25	Lukáš	Dvorský	MgA.		33	CZ	učitel, předseda moravskoslezské krajské organizace hnutí Přísaha	Ostrava	554821	1245	1245	A	179	.05	N	0	23	M	2024	1633
+9	26	Ladislava	Šimánková			58	CZ	podnikatelka, realitní makléřka	Praha	554782	1178	1178	A	37	.01	N	0	24	F	2024	1633
+9	27	Radek	Macháč			53	CZ	bezpečnostní poradce v oblasti IT, místopředseda moravskoslezské krajské organizace hnutí Přísaha	Frýdlant nad Ostravicí	598143	1245	1245	A	231	.07	N	0	25	M	2024	1633
+9	28	Jakub	Šesták	Ing.		30	CZ	chemický inženýr	Praha	554782	1178	1178	A	512	.16	N	0	26	M	2024	1633
+10	1	Lenka Helena	Koenigsmark	Ing.		49	CZ	lektorka a zakladatelka Dobrodějny	Praha	554782	99	1187	A	1827	18.35	N	0	0	F	2024	1635
+10	2	Lukáš	Kostínek	Mgr.		32	CZ	legislativec a místopředseda SEN 21	Praha	554782	1187	1187	A	359	3.6	N	0	0	M	2024	1635
+10	3	Adam	Hanka		MSc.	35	CZ	expert na umělou inteligenci a předseda Volt Česko	Praha	554782	1272	1272	A	506	5.08	N	0	0	M	2024	1635
+10	4	Veronika	Fajmonová	PhDr. Ing.	Ph.D.	39	CZ	psycholožka, výzkumnice a expertka na genderovou rovnost	Valašské Meziříčí	545058	1187	1187	A	360	3.61	N	0	0	F	2024	1635
+10	5	Vít	Korselt	Ing.		62	CZ	bývalý velvyslanec a diplomat	Praha	554782	1187	1187	A	286	2.87	N	0	0	M	2024	1635
+10	7	Václav	Hampl	prof. RNDr.	DrSc.	61	CZ	bývalý rektor Univerzity Karlovy, lékař, vědec, vysokoškolský pedagog	Praha	554782	99	1187	A	515	5.17	N	0	0	M	2024	1635
+10	8	Barbora	Hrubá			34	CZ	komunikační manažerka	Praha	554782	1272	1272	A	72	.72	N	0	0	F	2024	1635
+10	9	Kamila	Navrátilová	Mgr. Bc.		50	CZ	starostka obce Cholina	Cholina	502839	99	1187	A	31	.31	N	0	0	F	2024	1635
+10	10	Adam	Hruška	Ing. Mgr.		27	CZ	bezpečnostní analytik, výzkumník v oboru umělé inteligence a potravinové bezpečnosti	Hradčany	513733	1272	1272	A	207	2.07	N	0	0	M	2024	1635
+10	11	Janis	Sidovský			56	CZ	manažer, hudební producent	Karlštejn	531316	99	1187	A	178	1.78	N	0	0	M	2024	1635
+10	12	Lucie	Michel Lekešová	PhDr.	Ph.D.	43	CZ	kulturoložka a diplomatka	Praha	554782	1272	1272	A	90	.9	N	0	0	F	2024	1635
+10	13	Michaela	Sokolová	Ing.		32	CZ	vedoucí recepce	Praha	554782	1187	1187	A	14	.14	N	0	0	F	2024	1635
+10	14	Slavomír	Maňásek			27	CZ	státní zaměstnanec	Praha	554782	1272	1272	A	98	.98	N	0	0	M	2024	1635
+10	15	Hanuš	Velebný	MVDr.		53	CZ	veterinář	Dubá	561533	1187	1187	A	35	.35	N	0	0	M	2024	1635
+10	16	Kateřina	Halászová	Bc.		43	CZ	pracovnice v neziskovém sektoru, spisovatelka	Praha	554782	1272	1272	A	46	.46	N	0	0	F	2024	1635
+10	17	Vojtěch	Nitra	Mgr.		35	CZ	IT specialista	Praha	554782	1187	1187	A	17	.17	N	0	0	M	2024	1635
+10	18	Jan	Klátil	Bc.		34	CZ	software developer	Praha	554782	1272	1272	A	33	.33	N	0	0	M	2024	1635
+10	19	Martina	Hepnerová	Ing.		42	CZ	stavební projektantka	Hradec Králové	569810	99	1187	A	29	.29	N	0	0	F	2024	1635
+10	20	Daniela	Dolejší		LL.M.	26	CZ	zaměstnankyně Evropské centrální banky	Klatovy	555771	1272	1272	A	33	.33	N	0	0	F	2024	1635
+10	21	Tereza	Koranda Dvořáková	Mgr.		41	CZ	analytička a výzkumnice	Praha	554782	99	1187	A	37	.37	N	0	0	F	2024	1635
+10	22	Vincent	Míča		LL.M.	25	CZ	specialista na evropskou legislativu	Praha	554782	1272	1272	A	55	.55	N	0	0	M	2024	1635
+10	23	Ema	Cibík Stašová	Mgr.		37	CZ	lektorka finštiny a překladatelka	Praha	554782	1187	1187	A	30	.3	N	0	0	F	2024	1635
+10	24	Nikola	Hrnčír	Ing.		52	CZ	software developer	Praha	554782	1272	1272	A	11	.11	N	0	0	M	2024	1635
+10	25	Marek	Novotný	Mgr.		54	CZ	podnikatel	Olomouc	500496	99	1187	A	16	.16	N	0	0	M	2024	1635
+10	26	Anežka	Lásková			22	CZ	sekretářka	Praha	554782	1187	1187	A	116	1.16	N	0	0	F	2024	1635
+11	1	Ladislav	Vrabel			46	CZ	předseda politického hnutí Česká republika na 1. místě!	České Budějovice	544256	1283	1283	A	1737	25.18	N	0	0	M	2024	1283
+11	2	Petr	Růžička			47	CZ	OSVČ - stavitel	Hostivice	539244	1283	1283	A	230	3.33	N	0	0	M	2024	1283
+11	3	Břetislav	Vonšovský	Ing.		60	CZ	jaderný fyzik	Tábor	552046	1283	1283	A	191	2.76	N	0	0	M	2024	1283
+11	4	Anna	Brídziková	Bc.		71	CZ	andragožka	Praha	554782	1283	1283	A	25	.36	N	0	0	F	2024	1283
+11	5	Pavel	Fíla			54	CZ	podnikatel - autodoprava	Jistebnice	552534	1283	1283	A	52	.75	N	0	0	M	2024	1283
+11	6	Ľuboš	Schnürer			48	SK	OSVČ - kovovýroba	Chýnov	552496	99	1283	A	36	.52	N	0	0	M	2024	1283
+11	7	Jitka	Šťastná	Ing.		50	CZ	metrolog, inspektorka kvality	Tábor	552046	1283	1283	A	91	1.31	N	0	0	F	2024	1283
+11	8	Jindřich	Kočí			50	CZ	elektrotechnik	České Budějovice	544256	1283	1283	A	38	.55	N	0	0	M	2024	1283
+11	9	Dušan	Kvetovský			68	CZ	hudební skladatel, zpěvák	Olomouc	500496	1283	1283	A	11	.15	N	0	0	M	2024	1283
+11	10	Helena	Šindelářová			63	CZ	obchodník v pojišťovnictví a finančnictví	Tábor	552046	1283	1283	A	22	.31	N	0	0	F	2024	1283
+11	11	Emanuel	Vohnout			63	CZ	hudebník, zpěvák	Mrzky	513288	1283	1283	A	58	.84	N	0	0	M	2024	1283
+11	12	Petr	Kočí			55	CZ	technolog výroby	Žďár	529761	1283	1283	A	26	.37	N	0	0	M	2024	1283
+11	13	Zdeňka	Kočová			54	CZ	operátor výroby	Žďár	529761	1283	1283	A	25	.36	N	0	0	F	2024	1283
+11	14	Aleš	Svoboda			44	CZ	obchodní zástupce	Mělník	534676	1283	1283	A	119	1.72	N	0	0	M	2024	1283
+11	15	Marie	Berková	MUDr.		67	CZ	lékařka - stomatoložka	Hlučín	507016	1283	1283	A	40	.57	N	0	0	F	2024	1283
+11	16	Hana	Bolehovská			66	CZ	agronom	Holice	574988	1283	1283	A	19	.27	N	0	0	F	2024	1283
+11	17	Jan	Vrabec	Bc.		65	CZ	policejní důstojník	Mokrovousy	570419	1283	1283	A	25	.36	N	0	0	M	2024	1283
+11	18	Viktor	Rylko	RNDr.		70	CZ	biochemik, překladatel, tlumočník	Praha	554782	1283	1283	A	25	.36	N	0	0	M	2024	1283
+11	19	Ivan	Hejduk			58	CZ	operátor logistiky	Mnichovo Hradiště	536326	1283	1283	A	15	.21	N	0	0	M	2024	1283
+11	20	Věra	Bártová			61	CZ	operátor výroby	Mnichovo Hradiště	536326	1283	1283	A	9	.13	N	0	0	F	2024	1283
+11	21	Ilona	Prousková			72	CZ	důchodce	Tanvald	563820	1283	1283	A	21	.3	N	0	0	F	2024	1283
+11	22	Magdalena	Pouzarová		DiS.	50	CZ	účetní	České Budějovice	544256	1283	1283	A	27	.39	N	0	0	F	2024	1283
+11	23	Marie	Šimůnková			75	CZ	chemička, technoložka	Bělá	512974	1283	1283	A	10	.14	N	0	0	F	2024	1283
+11	24	Jana	Pešková			61	CZ	laborantka	Hodonín	547794	1283	1283	A	22	.31	N	0	0	F	2024	1283
+12	1	Johanna	Nejedlová			33	CZ	ředitelka organizace Konsent	Praha	554782	99	5	A	13863	30.05	N	0	0	F	2024	5
+12	2	Petr	Doubravský			22	CZ	iniciátor stávek za klima, student environmentálních studií a ekonomie	Nové Strašecí	542164	99	5	A	2515	5.45	N	0	0	M	2024	5
+12	3	Zuzana	Pavelková		LL.M., M.A.	33	CZ	právnička, odbornice na lidská práva	Ústí nad Labem	554804	5	5	A	3818	8.27	N	0	0	F	2024	5
+12	4	Michal	Berg	Bc.A		43	CZ	spolupředseda Strany zelených, energetický konzultant	Vsetín	541630	5	5	A	1144	2.48	N	0	0	M	2024	5
+12	5	Gabriela	Svárovská	Mgr.	PhD.	51	CZ	bývalá diplomatka, expertka na zahraniční a bezpečnostní politiku	Praha	554782	5	5	A	1267	2.74	N	0	0	F	2024	5
+12	6	Osamu	Okamura	Ing. arch. MgA.		50	CZ	architekt a urbanista	Praha	554782	99	5	A	2848	6.17	N	0	0	M	2024	5
+12	7	Petra	Pintera	Mgr.	LL.M.	33	CZ	právnička se specializací na životní prostředí	Praha	554782	5	5	A	427	.92	N	0	0	F	2024	5
+12	8	Jaromír	Baxa	PhDr.	PhD.	42	CZ	ekonom, vědec a učitel na Univerzitě Karlově, zastupitel v Liberci	Liberec	563889	5	5	A	558	1.2	N	0	0	M	2024	5
+12	9	Irena	Ferčíková Konečná	Mgr.	PhD.	46	CZ	politická konzultantka, expertka Evropské komise, evaluátorka	Valtice	584975	5	5	A	292	.63	N	0	0	F	2024	5
+12	10	Petr	Štěpánek	Mgr.	CSc.	58	CZ	přírodovědec a zastupitel, bývalý starosta Prahy 4	Praha	554782	5	5	A	302	.65	N	0	0	M	2024	5
+12	11	Karolína	Brabcová	Mgr.		49	CZ	odbornice na toxické látky v ekologickém spolku Arnika	Praha	554782	5	5	A	253	.54	N	0	0	F	2024	5
+12	12	Daniel	Rufer			30	CZ	manažer výzkumu a vývoje, poradce v oblasti ochrany životního prostředí	Náchod	573868	5	5	A	151	.32	N	0	0	M	2024	5
+12	13	Hana	Korvasová	Mgr.		64	CZ	ředitelka školského zařízení ekologické výchovy Lipka	Brno	582786	99	5	A	281	.6	N	0	0	F	2024	5
+12	14	Vít	Masare	Mgr.		37	CZ	expert evropské hospodářské a sociální politiky	Praha	554782	5	5	A	224	.48	N	0	0	M	2024	5
+12	15	Josefína	Kubínová	Bc.		28	CZ	pracovnice v sociálních službách, studentka	Praha	554782	5	5	A	225	.48	N	0	0	F	2024	5
+12	16	Vladimír	Buřt	Ing.		60	CZ	starosta, stavební technik	Horní Jiřetín	567175	5	5	A	228	.49	N	0	0	M	2024	5
+12	17	Jana	Krumpholcová	Ing.	M.Sc.	44	CZ	lektorka jazyků, krajská zastupitelka	Mladá Boleslav	535419	5	5	A	107	.23	N	0	0	F	2024	5
+12	18	Radek	Ocelák			36	CZ	genealog, nakladatel	Šumperk	523704	5	5	A	102	.22	N	0	0	M	2024	5
+12	19	Lenka	Opočenská	RNDr.		45	CZ	náměstkyně primátora pro životní prostředí a strategii	Jablonec nad Nisou	563510	5	5	A	142	.3	N	0	0	F	2024	5
+12	20	Matěj	Frouz	Bc.		24	CZ	asistent předsedy Senátu, autor slam poetry, student	Bor	560758	5	5	A	261	.56	N	0	0	M	2024	5
+12	21	Zdeňka	Brožová	Ing.		37	CZ	zástupkyně ředitelky lesní mateřské školy	Cheb	554481	5	5	A	109	.23	N	0	0	F	2024	5
+12	22	Martin	Rozumek	JUDr.		49	CZ	právník a ředitel neziskové organizace	Praha	554782	5	5	A	107	.23	N	0	0	M	2024	5
+12	23	Olga	Ulrichová	JUDr.		47	CZ	právnička	Praha	554782	5	5	A	47	.1	N	0	0	F	2024	5
+12	24	Petr	Brož	Mgr.	PhD.	40	CZ	vědec, mimozemský vulkanolog, popularizátor vědy	Jesenice	539325	5	5	A	283	.61	N	0	0	M	2024	5
+12	25	Tereza	Hýblová	Bc.		28	CZ	nákupčí, zastupitelka	Česká Třebová	580031	5	5	A	90	.19	N	0	0	F	2024	5
+12	26	Martin	Abel	JUDr.	PhD., Mjur.	30	CZ	odborník na klimatické politiky	Mníšek pod Brdy	540765	99	5	A	128	.27	N	0	0	M	2024	5
+12	27	Eva	Pavlíková	Ing.		43	CZ	manažerka, expertka na digitalizaci	Praha	554782	5	5	A	121	.26	N	0	0	F	2024	5
+12	28	Petr	Orel			64	CZ	vedoucí záchranné stanice pro divoká zvířata v Bartošovicích, emeritní senátor	Nový Jičín	599191	5	5	A	364	.78	N	0	0	M	2024	5
+13	1	Jiří	Paroubek	Ing.		71	CZ	bývalý premiér, předseda ČSSD, ekonom, publicista	Praha	554782	759	759	A	1089	14.36	N	0	0	M	2024	1634
+13	2	Petr	Gawlas			62	CZ	senátor (2010-2016), místopředseda ČSSD, ředitel společnosti	Jablunkov	598259	759	759	A	282	3.72	N	0	0	M	2024	1634
+13	3	Stanislav	Eichler	Mgr.		64	CZ	bývalý hejtman, manažer	Český Dub	563960	759	759	A	139	1.83	N	0	0	M	2024	1634
+13	4	Elvíra	Hahnová	Bc.		46	CZ	krajská zastupitelka, sociální pracovnice	Chomutov	562971	759	759	A	162	2.13	N	0	0	F	2024	1634
+13	5	Michaela	Teyrovská	Ing.		55	CZ	ekonomka, místopředsedkyně strany DOMOV	Praha	554782	1221	1221	A	111	1.46	N	0	0	F	2024	1634
+13	6	Dana	Smejkalová			59	CZ	účetní, zastupitelka města Kralupy, předsedkyně finančního výboru	Kralupy nad Vltavou	534951	759	759	A	101	1.33	N	0	0	F	2024	1634
+13	7	Daniel	Januj	Ing.		52	CZ	předseda strany Směr Česká republika, živnostník	Praha	554782	1248	1248	A	22	.29	N	0	0	M	2024	1634
+13	8	Vladimír	Dryml	MUDr.		72	CZ	lékař - chirurg, bývalý senátor, viceprezident svazu pacientů ČR	Přelouč	575500	759	759	A	144	1.89	N	0	0	M	2024	1634
+13	9	Jana	Borkovcová	Mgr.		43	CZ	mateřská dovolená, podnikatelka	Osová Bítýška	596345	759	759	A	90	1.18	N	0	0	F	2024	1634
+13	10	Jaroslav	Vodička	Ing.		76	CZ	předseda svazu bojovníků za svobodu	Krásný Dvůr	566306	99	759	A	37	.48	N	0	0	M	2024	1634
+13	11	Miroslav	Timura	Mgr.		65	CZ	právník	Mnichov	536563	759	759	A	12	.15	N	0	0	M	2024	1634
+13	12	Monika	Gaszczyková			54	CZ	podnikatelka, předsedkyně petičního výboru proti migrační smlouvě	Znojmo	593711	1221	1221	A	116	1.53	N	0	0	F	2024	1634
+13	13	Leoš	Valigurský			53	CZ	koordinátor Ne Základnám	Praha	554782	99	1248	A	18	.23	N	0	0	M	2024	1634
+13	14	Petr	Sojka			40	CZ	krajský zastupitel	Buzice	529966	759	759	A	54	.71	N	0	0	M	2024	1634
+13	15	Michal	Sajdl	Ing.	MBA	48	CZ	majitel kliniky estetické chirurgie	Praha	554782	759	759	A	20	.26	N	0	0	M (Michal)	2024	1634
+13	16	Karel	Nedbálek	doc. JUDr. Ing.	Ph.D., MBA	67	CZ	vysokoškolský učitel, právník, ekonom	Zlín	585068	759	759	A	96	1.26	N	0	0	M	2024	1634
+13	17	Vladimír	Vlk	Ing.		70	CZ	odborník na energetiku	Roudnice nad Labem	565555	759	759	A	46	.6	N	0	0	M	2024	1634
+13	18	David	Dudzik	Ing. et Ing.		53	CZ	ekonom, energetik, předseda klubu krajských zastupitelů	Vratimov	598879	759	759	A	77	1.01	N	0	0	M	2024	1634
+13	19	Luboš	Olejár			63	CZ	prezident svazu pacientů ČR	Praha	554782	759	759	A	43	.56	N	0	0	M	2024	1634
+13	20	Yvona	Legierská	Ing.	Ph.D.	68	CZ	vysokoškolská učitelka, bývalá náměstkyně ministra financí	Praha	554782	759	759	A	31	.4	N	0	0	F	2024	1634
+13	21	Luďka	Tomešová			55	CZ	majitelka tiskárny	Trutnov	579025	759	759	A	29	.38	N	0	0	F	2024	1634
+13	22	Ludmila	Večerková	Mgr.	MBA	58	CZ	pedagog, lektor	Ostrava	554821	759	759	A	37	.48	N	0	0	F	2024	1634
+13	23	Jan	Obst	JUDr.		72	CZ	právník	Praha	554782	2	759	A	7	.09	N	0	0	M	2024	1634
+13	24	Vlastibor	Čermák	Ing.	CSc.	68	CZ	zastupitel obce	Vohančice	584134	759	759	A	5	.06	N	0	0	M	2024	1634
+13	25	Olga	Havlová			70	CZ	bývalá poslankyně, zastupitelka obce, kynoložka	Jindřichov	513873	759	759	A	26	.34	N	0	0	F	2024	1634
+13	26	Petr	Jakubec	Ing. Bc.	MBA	66	CZ	konzultant	Varnsdorf	562882	759	759	A	12	.15	N	0	0	M	2024	1634
+13	27	Miloslav	Chládek			46	CZ	podnikatel	Roudnice nad Labem	565555	1221	1221	A	23	.3	N	0	0	M	2024	1634
+13	28	Vít	Kvasnička	Mgr.		47	CZ	učitel	Plesná	554723	759	759	A	66	.87	N	0	0	M	2024	1634
+14	1	Klára	Dostálová	Ing.		53	CZ	místopředsedkyně a poslankyně Poslanecké sněmovny Parlamentu ČR	Hořice	547956	99	768	A	171142	22.04	A	1	0	F	2024	768
+14	2	Jaroslav	Bžoch	Mgr.		40	CZ	poslanec Poslanecké sněmovny Parlamentu ČR	Teplice	567442	768	768	A	31989	4.12	A	3	0	M	2024	768
+14	3	Ondřej	Knotek	Ing.		39	CZ	poslanec Evropského parlamentu	Mariánské Lázně	554642	768	768	A	8565	1.1	A	4	0	M	2024	768
+14	4	Martin	Hlaváček	Ing.		44	CZ	poslanec Evropského parlamentu, ekonom	Praha	554782	99	768	A	10662	1.37	A	5	0	M	2024	768
+14	5	Jana	Nagyová	Ing.	Ph.D.	53	CZ	ekonomka	Jihlava	586846	768	768	A	14448	1.86	A	6	0	F	2024	768
+14	6	Jaroslava	Pokorná Jermanová	Ing.		53	CZ	poslankyně Poslanecké sněmovny Parlamentu ČR, ekonomka	Benešov	529303	768	768	A	49683	6.4	A	2	0	F	2024	768
+14	7	Ondřej	Kovařík	Ing.		43	CZ	poslanec Evropského parlamentu	Velké Karlovice	545163	99	768	A	4863	.62	A	7	0	M	2024	768
+14	8	Tomáš	Kubín			61	CZ	koordinátor výroby	České Budějovice	544256	768	768	A	1949	.25	N	0	1	M	2024	768
+14	9	Jaroslav	Knot	JUDr.	Ph.D.	46	CZ	diplomat, bývalý velvyslanec v Norsku a na Islandu, právník	Uherské Hradiště	592005	99	768	A	12407	1.59	N	0	2	M	2024	768
+14	10	Jitka	Urbánková	Ing.		45	CZ	radní Městské části Praha 2	Praha	554782	99	768	A	1587	.2	N	0	3	F	2024	768
+14	11	Nikolas	Mayer	M.A. HSG BSc.		34	CZ	ekonom	Moravany	575399	768	768	A	1606	.2	N	0	4	M	2024	768
+14	12	Tomáš	Sýkora	Ing. Mgr. Bc.		56	CZ	ekonom, specialista na evropské právo	Olomouc	500496	768	768	A	6766	.87	N	0	5	M	2024	768
+14	13	Richard	Vereš	Mgr.		28	CZ	starosta Slezské Ostravy, právník	Ostrava	554821	768	768	A	3773	.48	N	0	6	M	2024	768
+14	14	Karel	Filipčík	Mgr.		48	CZ	manažer IT	Vejprnice	559580	768	768	A	1090	.14	N	0	7	M	2024	768
+14	15	Petr	Rozmajzl	Ing.		36	CZ	projektový manažer	Chrastava	564117	768	768	A	1073	.13	N	0	8	M	2024	768
+14	16	Roman	Škrabánek	Ing.		57	CZ	prezident profesní asociace, zástupce v Bruselu, zastupitel města, ekonom	Kolín	533165	768	768	A	2187	.28	N	0	9	M	2024	768
+14	17	David	Beňák	PhDr.	Ph.D., DiS.	45	CZ	bývalý náměstek ministra, sociální pracovník	Lysá nad Labem	537454	99	768	A	1814	.23	N	0	10	M	2024	768
+14	18	Andrea	Pfeffer Ferklová	Ing.	MBA	49	CZ	primátorka Karlových Varů	Karlovy Vary	554961	768	768	A	2142	.27	N	0	11	F	2024	768
+14	19	Milan	Kouřil	Ing.		55	CZ	obchodní zástupce fotovoltaických systémů	Jablonec nad Nisou	563510	768	768	A	745	.09	N	0	12	M	2024	768
+14	20	Kamila	Bláhová	Mgr.		48	CZ	starostka Litvínova, místopředsedkyně SMO ČR pro evropské záležitosti	Litvínov	567256	768	768	A	1752	.22	N	0	13	F	2024	768
+14	21	Tomáš	Soukup			37	CZ	starosta Plzně 4	Plzeň	554791	768	768	A	2093	.26	N	0	14	M	2024	768
+14	22	Šárka	Šimoňáková	Ing.		41	CZ	náměstkyně hejtmana Moravskoslezského kraje pro regionální rozvoj	Raškovice	549665	768	768	A	2259	.29	N	0	15	F	2024	768
+14	23	Vladislav	Musil	prof. Ing.	CSc.	71	CZ	vysokoškolský učitel, nyní v důchodu	Brno	582786	768	768	A	816	.1	N	0	16	M	2024	768
+14	24	Julius	Špičák	prof. MUDr.	CSc.	71	CZ	poslanec Poslanecké sněmovny Parlamentu ČR, lékař	Ptice	532789	768	768	A	1826	.23	N	0	17	M	2024	768
+14	25	Marek	Kocánek	Ing.		39	CZ	vedoucí oddělení specialit a podpory prodeje	Litoměřice	564567	768	768	A	707	.09	N	0	18	M	2024	768
+14	26	Martin	Hurajčík			46	CZ	starosta Mariánských Lázní	Mariánské Lázně	554642	768	768	A	721	.09	N	0	19	M	2024	768
+14	27	Yvona	Wojaczková	PaedDr.		60	CZ	místostarostka Valašského Meziříčí	Valašské Meziříčí	545058	768	768	A	1228	.15	N	0	20	F	2024	768
+14	28	Radek	Hloušek			46	CZ	obchodní manažer, prokurista společnosti	Suchdol nad Lužnicí	547280	768	768	A	896	.11	N	0	21	M	2024	768
+15	1	Hynek	Blaško	Ing.	generálmajor v. v.	68	CZ	poslanec Evropského parlamentu	Veltruby	533858	99	761	A	2886	19.35	N	0	0	M	2024	1630
+15	2	Jan	Sedláček	RNDr.		29	CZ	biolog, odborný poradce	Rokycany	559717	79	79	A	690	4.62	N	0	0	M	2024	1630
+15	3	Vladimíra	Vítová	PhDr.	Ph.D.	61	CZ	předsedkyně Českého mírového fóra a ALIANCE NÁRODNÍCH SIL	Praha	554782	762	762	A	1446	9.69	N	0	0	F	2024	1630
+15	4	Petr	Hannig	Mgr.		78	CZ	předseda strany, bývalý prezidentský kandidát	Praha	554782	137	137	A	223	1.49	N	0	0	M	2024	1630
+15	5	Tomáš	Vandas	Mgr.		55	CZ	zastupitel města Bílina, předseda strany	Bílina	567451	156	156	A	626	4.19	N	0	0	M	2024	1630
+15	6	Adam Benjamin	Bartoš			44	CZ	vydavatel, předseda strany	Praha	554782	79	79	A	874	5.86	N	0	0	M	2024	1630
+15	7	Miroslav	Pindeš	JUDr.	Ph.D.	63	CZ	advokát, odborník na mezinárodní právo	Bučovice	592943	1125	762	A	146	.97	N	0	0	M	2024	1630
+15	8	Jiří	Janeček			50	CZ	provozní pivovaru Malý Janek z Jinec, 1. místopředseda Hnutí PES	Jince	540404	1244	156	A	103	.69	N	0	0	M	2024	1630
+15	9	Vladimír	Kotek	MUDr.	Ph.D., MBA	63	CZ	primář urologie a klinické onkologie	Brno	582786	79	79	A	181	1.21	N	0	0	M	2024	1630
+15	10	Svatava	Cekotová	PhDr. et Mgr. et Bc.		60	CZ	sociální pedagog	Zlín	585068	99	137	A	81	.54	N	0	0	F	2024	1630
+15	11	Vladimír	Vaculík	Ing.		57	CZ	stavební inženýr, znalec	Uherský Brod	592731	137	137	A	60	.4	N	0	0	M	2024	1630
+15	12	Pavel	Černocký			79	CZ	nezávislý publicista	Předboj	538655	99	1021	A	27	.18	N	0	0	M	2024	1630
+15	13	Marek	Vysocký	Ing.		62	CZ	programátor vývojového softwaru, zastupitel Moravskoslezského kraje	Ostrava	554821	99	762	A	41	.27	N	0	0	M	2024	1630
+15	14	Ivan	Cícha	Ing.		62	CZ	autorizovaný stavební inženýr	Tábor	552046	79	79	A	35	.23	N	0	0	M	2024	1630
+15	15	Petr	Rabas			71	CZ	trenér juda	Karviná	598917	137	137	A	29	.19	N	0	0	M	2024	1630
+15	16	Miroslav	Kelnar	Ing.		70	CZ	ekonom	Praha	554782	79	79	A	18	.12	N	0	0	M	2024	1630
+15	17	Jiří	Štěpánek	Mgr.		52	CZ	obchodní referent, místopředseda strany	Plzeň	554791	156	156	A	67	.44	N	0	0	M	2024	1630
+15	18	Václav	Kupilík			51	CZ	obchodní zástupce, místopředseda ALIANCE NÁRODNÍCH SIL	České Budějovice	544256	762	762	A	34	.22	N	0	0	M	2024	1630
+15	19	Helena	Ryšavá	Ing.		64	CZ	ekonomka, jednatelka knihovny Miloslava Ransdorfa	Planá	535176	99	762	A	78	.52	N	0	0	F	2024	1630
+15	20	Jiří	Froněk	Mgr.		39	CZ	projektant, místopředseda strany	Nová Role	555398	156	156	A	88	.59	N	0	0	M	2024	1630
+15	21	Kamil	Papežík			54	CZ	stavební technik	Frýdek-Místek	598003	762	762	A	44	.29	N	0	0	M	2024	1630
+15	22	Blanka	Čejková			56	CZ	OSVČ, kadeřnice, manikérka	Čáslav	534005	762	762	A	58	.38	N	0	0	F	2024	1630
+15	23	Karel	Světnička	Mgr. et Bc.		63	CZ	právník, nezávislý publicista, předseda Moravských a Slezských pirátů	Havířov	555088	99	762	A	87	.58	N	0	0	M	2024	1630
+15	24	Jiřina Niké	Hájek		DiS.	43	CZ	ekonomka, státní správa	Praha	554782	156	156	A	30	.2	N	0	0	F	2024	1630
+15	25	Zdeněk	Kocman			52	CZ	trenér řecko-římského zápasu pro mládež	Česká Třebová	580031	762	762	A	17	.11	N	0	0	M	2024	1630
+15	26	Pavel	Kostka			50	CZ	předseda včelařů Kutná Hora, strojník	Křesetice	534161	762	762	A	41	.27	N	0	0	M	2024	1630
+15	27	Michal	Biegl			49	CZ	truhlář	Hradec Králové	569810	762	762	A	45	.3	N	0	0	M	2024	1630
+15	28	Miroslav	Sládek	PhDr.		73	CZ	předseda Sdružení pro republiku - Republikánské strany Československa Miroslava Sládka, poslanec parlamentu 1992 - 1998	Brno	582786	1125	762	A	657	4.4	N	0	0	M	2024	1630
+16	1	Tomáš	Franěk			37	CZ	předseda strany, místostarosta obce, poradce pro evropské záležitosti, manager	Milý	565466	1288	1288	A	347	5.35	N	0	0	M	2024	1288
+16	2	Sandra	Dubská			32	CZ	administrativní pracovnice	Milý	565466	1288	1288	A	159	2.45	N	0	0	F	2024	1288
+16	3	Jaroslav	Čipka			51	CZ	IT specialista	Praha	554782	1288	1288	A	34	.52	N	0	0	M	2024	1288
+16	4	Josef	Sýkora			55	CZ	technik	Benešov	529303	1288	1288	A	41	.63	N	0	0	M	2024	1288
+16	5	Patrik	Doležal			52	CZ	metodik, člen Rady vlády pro národnostní menšiny 2021 - 2023	Brno	582786	720	1288	A	34	.52	N	0	0	M	2024	1288
+16	6	Natálie	Skoupá			21	CZ	operátor výroby	Hradečno	532355	1288	1288	A	96	1.48	N	0	0	F	2024	1288
+16	7	Marie	Oláhová			34	CZ	barmanka, aktivistka pro ochranu přírody	Smečno	532835	99	1288	A	64	.98	N	0	0	F	2024	1288
+16	8	Kamil	Sedláček			53	CZ	podnikatel	Bohumín	599051	1288	1288	A	38	.58	N	0	0	M	2024	1288
+16	9	Martin	Kubík			47	CZ	podnikatel	Kladno	532053	99	1288	A	28	.43	N	0	0	M	2024	1288
+16	10	Martin	Jirát			47	CZ	podnikatel	Nové Sedlo	560570	99	1288	A	32	.49	N	0	0	M	2024	1288
+16	11	Robert	Málek			58	CZ	podnikatel	Libeř	539422	1288	1288	A	27	.41	N	0	0	M	2024	1288
+16	12	Petr	Švamberg			34	CZ	podnikatel – údržba a správa nemovitostí	Milý	565466	99	1288	A	21	.32	N	0	0	M	2024	1288
+16	13	Miroslava	Kronková			54	CZ	kuchařka	Smečno	532835	99	1288	A	53	.81	N	0	0	F	2024	1288
+16	14	Radek	Rozsypal			52	CZ	prodavač	Pardubice	555134	1288	1288	A	40	.61	N	0	0	M	2024	1288
+16	15	Hana	Skočíková			62	CZ	pracovnice ostrahy	Veselí nad Moravou	586722	1288	1288	A	18	.27	N	0	0	F	2024	1288
+16	16	Martin	Hyhlík			40	CZ	umělec	Oleško	542440	1288	1288	A	46	.7	N	0	0	M	2024	1288
+16	17	Jiří	Hurych			45	CZ	mechanik	Litomyšl	578347	99	1288	A	35	.54	N	0	0	M	2024	1288
+16	18	Jiří	Koloušek			79	CZ	předseda výrobního družstva, emeritní letecký instruktor	Praha	554782	1288	1288	A	60	.92	N	0	0	M	2024	1288
+16	19	Jiří	Gerhardt			22	CZ	kontrolor kvality, technik	Milý	565466	1288	1288	A	34	.52	N	0	0	M	2024	1288
+16	20	Iveta	Heimová			59	CZ	učitelka, výtvarnice, velvyslankyně míru	Opava	505927	99	1288	A	56	.86	N	0	0	F	2024	1288
+16	21	Michal	Pavlík			27	CZ	mechanik	Benátky nad Jizerou	535451	1288	1288	A	34	.52	N	0	0	M	2024	1288
+16	22	Michaela	Čipková			27	CZ	grafička	Praha	554782	99	1288	A	59	.91	N	0	0	F	2024	1288
+16	23	Veronika	Reková			28	CZ	ekonom	Praha	554782	1288	1288	A	77	1.18	N	0	0	F	2024	1288
+17	1	Alexandr	Vondra	RNDr.		62	CZ	poslanec Evropského parlamentu, bývalý disident, diplomat a ministr	Litoměřice	564567	53	53	A	118492	17.91	A	1	0	M	2024	1327
+17	2	Veronika	Vrecionová	Ing.		58	CZ	poslankyně Evropského parlamentu, předsedkyně Spolku pro obnovu venkova	Přezletice	538671	53	53	A	35310	5.33	A	4	0	F	2024	1327
+17	3	Luděk	Niedermayer	RNDr.		58	CZ	poslanec Evropského parlamentu	Měchenice	539490	721	721	A	88631	13.4	A	2	0	M	2024	1327
+17	4	Tomáš	Zdechovský	Mgr.	MBA	44	CZ	poslanec Evropského parlamentu	Hradec Králové	569810	1	1	A	66948	10.12	A	3	0	M	2024	1327
+17	5	Ondřej	Krutílek	Mgr.		43	CZ	analytik legislativy EU, šéf kanceláře europoslance	Brno	582786	53	53	A	20504	3.1	A	5	0	M	2024	1327
+17	6	Ondřej	Kolář	Mgr.		40	CZ	poslanec PČR	Praha	554782	721	721	A	31623	4.78	A	6	0	M	2024	1327
+17	7	František	Talíř	Mgr.		30	CZ	vicehejtman Jihočeského kraje	Zubčice	545872	1	1	A	30969	4.68	N	0	1	M	2024	1327
+17	8	Filip	Benda	Mgr.		47	CZ	ředitel kabinetu ministra financí	Praha	554782	53	53	A	9687	1.46	N	0	2	M	2024	1327
+17	9	Michaela	Šojdrová	Ing.		60	CZ	poslankyně Evropského parlamentu	Kroměříž	588296	1	1	A	32447	4.9	N	0	3	F	2024	1327
+17	10	Lukáš	Řádek	Ing.	MBA	46	CZ	náměstek primátorky	Hradec Králové	569810	721	721	A	2190	.33	N	0	4	M	2024	1327
+17	11	Michaela	Roubíčková	Ing.	Ph.D.	53	CZ	vysokoškolská pedagožka	Ostrava	554821	53	53	A	3668	.55	N	0	5	F	2024	1327
+17	12	Šárka	Slavíková Klímová	Mgr.		43	CZ	PR manažerka	Mníšek pod Brdy	540765	721	721	A	1897	.28	N	0	6	F	2024	1327
+17	13	Ondřej	Mikmek	Bc.		36	CZ	starosta	Slatinice	505111	1	1	A	3565	.53	N	0	7	M	2024	1327
+17	14	Michal	Sedláček	Mgr.	MFA	57	CZ	diplomat	Klatovy	555771	53	53	A	3081	.46	N	0	8	M	2024	1327
+17	15	Václav	Pláteník		MA, LL.M.	34	CZ	náměstek ministra zdravotnictví	Valašské Meziříčí	545058	1	1	A	2663	.4	N	0	9	M	2024	1327
+17	16	Pavel	Havlíček	Int. M. MA		32	CZ	analytik v oblasti zahraniční politiky a bezpečnosti	Chrášťany	532037	721	721	A	2239	.33	N	0	10	M	2024	1327
+17	17	Petr	Sokol	PhDr.	Ph.D.	50	CZ	vysokoškolský učitel, politický geograf	Prostějov	589250	53	53	A	4119	.62	N	0	11	M	2024	1327
+17	18	Jan	Tichánek			21	CZ	student, zastupitel	Ostrava	554821	721	721	A	841	.12	N	0	12	M	2024	1327
+17	19	Adéla	Šilar	Mgr.		29	CZ	projektová manažerka	Praha	554782	1	1	A	1668	.25	N	0	13	F	2024	1327
+17	20	Daniela	Finkousová	Bc.		24	CZ	studentka, koordinátorka MOD pro Liberecký kraj	Turnov	577626	53	53	A	1521	.23	N	0	14	F	2024	1327
+17	21	Vojtěch	Dobeš	Mgr.		27	CZ	PR poradce	Brno	582786	1	1	A	1096	.16	N	0	15	M	2024	1327
+17	22	Diana	Bangoura			34	CZ	zubní instrumentářka	Orlová	599069	721	721	A	624	.09	N	0	16	F	2024	1327
+17	23	Jan	Železný	Mgr.		34	CZ	doktorand mezinárodních vztahů, politický analytik, žurnalista	Ostrov	548359	53	53	A	3210	.48	N	0	17	M	2024	1327
+17	24	Miloš	Ulrich	Bc.		25	CZ	místostarosta města Úvaly	Úvaly	538957	721	721	A	707	.1	N	0	18	M	2024	1327
+17	25	Vlastimil	Stříbrný			23	CZ	student	Plzeň	554791	1	1	A	578	.08	N	0	19	M	2024	1327
+17	26	Robert	Samsonek			22	CZ	obchodní ředitel	Napajedla	585513	53	53	A	894	.13	N	0	20	M	2024	1327
+17	27	Inga	Petryčka	Ing.	MBA	46	CZ	ekonomka	Praha	554782	1	1	A	802	.12	N	0	21	F	2024	1327
+17	28	David	Slavíček			29	CZ	pracovník v IT	Brno	582786	721	721	A	1191	.18	N	0	22	M	2024	1327
+18	1	Václav	Sogel			36	CZ	řidič	Kopřivnice	599565	1284	1284	A	231	11.34	N	0	0	M	2024	1284
+18	2	Petr	Bílý			36	CZ	řidič	Havířov	555088	1284	1284	A	364	17.87	N	0	0	M	2024	1284
+18	3	Julius	Gergö			49	CZ	zámečník	Dlouhoňovice	548031	1284	1284	A	43	2.11	N	0	0	M	2024	1284
+18	4	Jaroslav	Mizera			48	CZ	řidič	Rychnov nad Kněžnou	576069	99	1284	A	31	1.52	N	0	0	M	2024	1284
+18	5	Ilona	Dusílková			51	CZ	pracovník v sociálních službách	Skuhrov nad Bělou	576778	99	1284	A	29	1.42	N	0	0	F	2024	1284
+18	6	Veronika	Khol			40	CZ	rodičovská dovolená	Litovel	503444	1284	1284	A	20	.98	N	0	0	F	2024	1284
+18	7	Andrzej	Wacławik	Ing.		69	CZ	důchodce	Havířov	555088	99	1284	A	16	.78	N	0	0	M	2024	1284
+18	8	Ladislav	Spišák			40	CZ	dělník	Týn nad Vltavou	545201	1284	1284	A	21	1.03	N	0	0	M	2024	1284
+18	9	Dagmar	Kornaková			51	CZ	řidič	Rychnov nad Kněžnou	576069	99	1284	A	36	1.76	N	0	0	F	2024	1284
+18	10	Rostislav	Neckář			42	CZ	OSVČ	Ostrava	554821	1284	1284	A	17	.83	N	0	0	M	2024	1284
+18	11	Petra	Křenková			46	CZ	dělník	Vítkov	511021	99	1284	A	25	1.22	N	0	0	F	2024	1284
+19	1	Libor	Vondráček	Mgr.		29	CZ	právník zaměřující se na ústavní a evropské právo a předseda strany Svobodní	Jindřichův Hradec	545881	714	714	A	9303	17.75	N	0	0	M	2024	714
+19	2	Matěj	Gregor			22	CZ	zastupitel Ostrava-Vítkovice, soukromý učitel českého jazyka, literatury a historie, expert strany v oblasti Evropské unie	Ostrava	554821	714	714	A	11352	21.66	N	0	0	M	2024	714
+19	3	Karel	Diviš	PhDr. et Mgr.		48	CZ	bývalý prezidentský kandidát, podnikatel v IT, ekonom, matematik a expert strany pro digitalizaci, obchod a průmysl	Praha	554782	714	714	A	4643	8.85	N	0	0	M	2024	714
+19	4	Veronika	Blažková	MgA.	MBA	43	CZ	podnikatelka v public relations, iniciátorka projektu Pražské pasáže a pražská předsedkyně strany Svobodní	Praha	554782	714	714	A	564	1.07	N	0	0	F	2024	714
+19	5	Pavel	Šrámek	Ing.		59	CZ	farmář, zemědělec a expert strany pro zemědělství	Plzeň	554791	1014	714	A	517	.98	N	0	0	M	2024	714
+19	6	Martin	Sklář	Ing.		47	CZ	OSVČ ve službách, zastupitel městyse Doubravice nad Svitavou a předseda Moravského rybářského svazu - pobočný spolek Blansko	Doubravice nad Svitavou	581542	716	714	A	235	.44	N	0	0	M	2024	714
+19	7	Luboš	Zálom	Mgr.		43	CZ	programátor, zastupitel města Beroun a místopředseda strany Svobodní	Beroun	531057	714	714	A	339	.64	N	0	0	M	2024	714
+19	8	Van Sang	Tran	Ing.		38	CZ	ředitel integračního centra a předseda Zdraví Sport Vzdělání 2012	Most	567027	714	714	A	248	.47	N	0	0	M	2024	714
+19	9	Ivana	Burešová Marková			48	CZ	OSVČ v oblasti služeb	Mladá Boleslav	535419	714	714	A	90	.17	N	0	0	F	2024	714
+19	10	Jiří	Hynek	RNDr.		63	CZ	prezident Asociace obranného a bezpečnostního průmyslu, expert strany na obranu a bezpečnostní poradce TEA PARTY CZ	Jesenice	539325	99	714	A	1140	2.17	N	0	0	M	2024	714
+19	11	Kateřina	Bočková	doc. Ing.	Ph.D., MBA	47	CZ	projektová manažerka a vysokoškolská pedagožka	Uherské Hradiště	592005	716	714	A	293	.55	N	0	0	F	2024	714
+19	12	Robert	Vlášek	Bc.	MBA	54	CZ	zakladatel a spolumajitel firmy FireGold, expert strany na vnitro a ex-policejní vyšetřovatel	Praha	554782	714	714	A	407	.77	N	0	0	M	2024	714
+19	13	Irena	Steinhauserová	Ing. Mgr.		63	CZ	konzultantka vzdělávání se zaměřením na domácí a individuální vzdělávání a provozovatelka rekreačního ubytování	Strmilov	547239	714	714	A	122	.23	N	0	0	F	2024	714
+19	14	Jan	Dočekal			60	CZ	manager v autoprůmyslu	Praha	554782	714	714	A	33	.06	N	0	0	M	2024	714
+19	15	Michal	Janda			42	CZ	realitní makléř, lektor obchodních dovedností a obchodní psychologie, expert strany na vinařství a stavebnictví	Brno	582786	714	714	A	77	.14	N	0	0	M	2024	714
+19	16	Petr	Lichtenberg			65	CZ	místostarosta města Chrudim	Chrudim	571164	714	714	A	128	.24	N	0	0	M	2024	714
+19	17	Miroslav	Havrda	MUDr.		60	CZ	lékař, zakladatel podiatrie v ČR a Svazu soukromých lékařů, mluvčí Paralelní lékařské komory a místopředseda strany Svobodní	Hradec Králové	569810	714	714	A	301	.57	N	0	0	M	2024	714
+19	18	Hana	Zelená	MUDr.	Ph.D.	54	CZ	mikrobioložka a viroložka, předsedkyně Sdružení mikrobiologů, imunologů a statistiků (SMIS)	Ostrava	554821	99	714	A	635	1.21	N	0	0	F	2024	714
+19	19	Jiří	Strachota	Mgr.	CSc.	77	CZ	expert strany na energetiku a Green Deal, jaderný fyzik z předvoje ČR v CERNu a důchodce	Praha	554782	714	714	A	226	.43	N	0	0	M	2024	714
+19	20	Radek	Svoboda	Ing.	Ph.D.	57	CZ	reaktorový fyzik	České Budějovice	544256	714	714	A	139	.26	N	0	0	M	2024	714
+19	21	Varhan	Bauer			55	CZ	dirigent, symfonický skladatel, varhaník a jazzman	Praha	554782	99	714	A	189	.36	N	0	0	M	2024	714
+19	22	Ondřej	Urban			24	CZ	OSVČ, redaktor a student	Praha	554782	714	714	A	52	.09	N	0	0	M	2024	714
+19	23	David	Lavička			21	CZ	student a sportovec	Zlín	585068	714	714	A	208	.39	N	0	0	M	2024	714
+19	24	Bohuslav	Coufal	Mgr.		55	CZ	ředitel společnosti ONYX engineering a expert strany pro kryptoměny	Olomouc	500496	714	714	A	72	.13	N	0	0	M	2024	714
+19	25	Vladimír	Urban			37	CZ	starosta města Lom u Mostu a živnostník	Lom	536822	714	714	A	34	.06	N	0	0	M	2024	714
+19	26	Jan	Tóth			51	CZ	učitel, živnostník - provozovatel penzionu s kavárnou, zastupitel města Nejdek	Nejdek	555380	716	714	A	64	.12	N	0	0	M	2024	714
+19	27	Pavel	Pešan	Bc.		49	CZ	podnikatel	Praha	554782	714	714	A	33	.06	N	0	0	M	2024	714
+19	28	Robert	Kotzian	Mgr. Ing.	Ph.D.	49	CZ	právník, zastupitel městské části v Brně a autor knihy o politických neziskovkách	Brno	582786	99	714	A	282	.53	N	0	0	M	2024	714
+20	1	Lubomír	Zaorálek	PhDr.		67	CZ	vysokoškolský učitel	Praha	554782	7	7	A	15236	27.57	N	0	0	M	2024	7
+20	2	Daniela	Ostrá	Mgr.	Ph.D.	34	CZ	vysokoškolská učitelka a vědkyně	Olomouc	500496	7	7	A	2106	3.81	N	0	0	F	2024	7
+20	3	Lenka	Desatová	Ing.		53	CZ	předsedkyně Rady seniorů ČR	Praha	554782	99	7	A	740	1.33	N	0	0	F	2024	7
+20	4	Kvetoslava	Kotrbová	doc. MUDr.	Ph.D.	64	CZ	epidemioložka, ředitelka Krajské hygienické stanice Jihočeského kraje	Staré Hodějovice	545074	99	7	A	679	1.22	N	0	0	F	2024	7
+20	5	Klára	Školníková		M.A.	29	CZ	analytička v oblasti energetiky	Praha	554782	1232	7	A	473	.85	N	0	0	F	2024	7
+20	6	Luděk	Svoboda			22	CZ	student VŠ	Kladno	532053	7	7	A	223	.4	N	0	0	M	2024	7
+20	7	Lukáš	Ulrych	Mgr.		31	CZ	pedagog SŠ	Praha	554782	7	7	A	290	.52	N	0	0	M	2024	7
+20	8	Zuzana	Brzobohatá	Ing. Bc.		61	CZ	poradce Evropského hospodářského a sociálního výboru	Tišnov	584002	7	7	A	424	.76	N	0	0	F	2024	7
+20	9	Filip	Hrůza	Ing.	Ph.D.	40	CZ	vysokoškolský učitel, místostarosta MČ Brno-Řečkovice a Mokrá Hora	Brno	582786	7	7	A	381	.68	N	0	0	M	2024	7
+20	10	Monika	Kaucká Hermannová	JUDr. Ing.		37	CZ	právnička a ekonomka	Starý Plzenec	558371	7	7	A	343	.62	N	0	0	F	2024	7
+20	11	Mirka	Wildmannová	Ing.	Ph.D., MBA	54	CZ	místostarostka MČ Brno-Černovice	Brno	582786	7	7	A	211	.38	N	0	0	F	2024	7
+20	12	Michael	Cardal			22	CZ	student VŠ	Jičín	572659	7	7	A	319	.57	N	0	0	M	2024	7
+20	13	Jakub	Kovařík			31	CZ	zaměstnanec asistenční služby	Praha	554782	1232	7	A	121	.21	N	0	0	M	2024	7
+20	14	Ján	Chlebo	Ing.		66	CZ	viceprezident Komory velitelů dobrovolných hasičů	Zálezlice	535354	99	7	A	76	.13	N	0	0	M	2024	7
+20	15	Petr	Pavlík	Ing.		59	CZ	pedagog VŠ	Praha	554782	7	7	A	84	.15	N	0	0	M	2024	7
+20	16	Manuela	Haug		MSc.	28	DE	psycholožka	České Budějovice	544256	1232	7	A	105	.19	N	0	0	F	2024	7
+20	17	Věra	Nenutilová	JUDr.		65	CZ	advokátka	Stříbro	561215	7	7	A	107	.19	N	0	0	F	2024	7
+20	18	Jan	Košák	Bc.		38	CZ	projektový manažer	Sviadnov	569631	7	7	A	70	.12	N	0	0	M	2024	7
+20	19	Radek	Scherfer	Mgr. Bc.		49	CZ	projektový manažer	Kadaň	563102	7	7	A	68	.12	N	0	0	M	2024	7
+20	20	David	Kaszper			21	CZ	pedagog volného času	Vratimov	598879	7	7	A	130	.23	N	0	0	M	2024	7
+20	21	Bohumil	Čáp			42	CZ	odborář, specialista mezinárodních vztahů	Praha	554782	1232	7	A	131	.23	N	0	0	M	2024	7
+20	22	David	Rouček			23	CZ	student mezinárodního práva na Pařížské univerzitě, konzultant OECD	Praha	554782	99	7	A	156	.28	N	0	0	M	2024	7
+20	23	Ondřej	Veselý	JUDr.		48	CZ	advokát	Písek	512028	7	7	A	220	.39	N	0	0	M	2024	7
+20	24	Alžběta	Kálalová	Bc.		32	CZ	referentka ve státní správě	Praha	554782	7	7	A	76	.13	N	0	0	F	2024	7
+20	25	Michaela	Marksová	Mgr.		55	CZ	ředitelka organizace SOLVO	Praha	554782	7	7	A	243	.43	N	0	0	F	2024	7
+20	26	Jiří	Dienstbier	Mgr.		55	CZ	právník	Praha	554782	7	7	A	2536	4.58	N	0	0	M	2024	7
+20	27	Vladimír	Špidla	PhDr.		73	CZ	pedagog, bývalý premiér a evropský komisař pro zaměstnanost, sociální věci a rovné příležitosti	Praha	554782	7	7	A	2888	5.22	N	0	0	M	2024	7
+20	28	Libor	Rouček	Dr.		69	CZ	bývalý místopředseda Evropského parlamentu, mluvčí vlády ČR, redaktor Hlasu Ameriky	Praha	554782	7	7	A	727	1.31	N	0	0	M	2024	7
+21	1	Danuše	Nerudová	prof. Ing.	Ph.D.	45	CZ	ekonomka, vysokoškolská pedagožka, bývalá rektorka Mendelovy univerzity	Kuřim	583251	99	166	A	59577	23.05	A	1	0	F	2024	1164
+21	2	Jan	Farský	Mgr.		44	CZ	právník, bývalý starosta Semil	Semily	576964	166	166	A	44503	17.22	A	2	0	M	2024	1164
+21	3	Petra	Korlaar	Mgr.		41	CZ	místostarostka města Mikulov	Mikulov	567701	166	166	A	7211	2.79	N	0	2	F	2024	1164
+21	4	Radim	Sršeň	Ing.	Ph.D.	44	CZ	náměstek ministra pro místní rozvoj, starosta obce, zástupce ČR v Evropském výboru regionů, vysokoškolský učitel EU a diplomacie	Dolní Studénky	553379	166	166	A	8783	3.39	N	0	3	M	2024	1164
+21	5	Lucie	Potůčková	Mgr.		48	CZ	právnička, poslankyně a starostka obce	Mladé Buky	579548	166	166	A	4793	1.85	N	0	4	F	2024	1164
+21	6	Martin	Exner			60	CZ	poslanec, obchodník v zahraničním obchodu	Nová Ves	535117	166	166	A	2208	.85	N	0	5	M	2024	1164
+21	7	Adam	Trunečka	Bc.		24	CZ	student, poradce ministra pro evropské záležitosti	Praha	554782	166	166	A	12144	4.69	N	0	6	M	2024	1164
+21	8	Andrej	Poleščuk	Mgr.		30	CZ	právník	Teplice nad Metují	574538	166	166	A	20514	7.93	N	0	1	M	2024	1164
+21	9	Nikola	Turková	Mgr.		29	CZ	advokátka, cyklistka	Praha	554782	166	166	A	2068	.8	N	0	7	F	2024	1164
+21	10	Jaroslav	Miko			48	CZ	řidič kamionu a občanský aktivista	Praha	554782	99	166	A	692	.26	N	0	8	M	2024	1164
+21	11	Eva	Volfová	Mgr.		45	CZ	odborná konzultantka v ochraně životního prostředí	Nebílovy	540340	166	166	A	1375	.53	N	0	9	F	2024	1164
+21	12	Adam	Holub		LL.M., MA	30	CZ	zástupce environmentální nadace v Bruselu, politický analytik	Praha	554782	795	166	A	6752	2.61	N	0	10	M	2024	1164
+21	13	David	Šeda	Mgr.		37	CZ	energetik, manažer udržitelnosti	České Budějovice	544256	166	166	A	691	.26	N	0	11	M	2024	1164
+21	14	David	Nejedlo	MVDr.		52	CZ	ředitel ZOO Liberec	Liberec	563889	703	703	A	1895	.73	N	0	12	M	2024	1164
+21	15	Pavel	Linzer			25	CZ	student práv, projektový manažer a lektor, delegát do Evropského fóra mládeže	Ostrava	554821	166	166	A	951	.36	N	0	13	M	2024	1164
+21	16	Jakub	Matuška	Bc.		38	CZ	1. místostarosta Břeclavi, hospodský	Břeclav	584291	166	166	A	436	.16	N	0	14	M	2024	1164
+21	17	Erich	Kříž	Mgr. Bc.		36	CZ	konzultant, příslušník Aktivní zálohy AČR	Krásno	538337	166	166	A	428	.16	N	0	15	M	2024	1164
+21	18	Adriana	Chochelová	Mgr.		26	CZ	právnička iniciativy Pod Svícnem	Zlatníky-Hodkovice	539881	166	166	A	2012	.77	N	0	16	F	2024	1164
+21	19	Adam	Čejka			28	CZ	legislativní analytik	Praha	554782	166	166	A	480	.18	N	0	17	M	2024	1164
+21	20	Josef	Flek	Mgr.		36	CZ	poslanec, zdravotník	Tišnov	584002	166	166	A	352	.13	N	0	18	M	2024	1164
+21	21	Lada	Rejšková	Ing.		39	CZ	starostka, ekonomická poradkyně	Libotenice	565172	166	166	A	330	.12	N	0	19	F	2024	1164
+21	22	David	Šafránek	Mgr. Bc.		37	CZ	projektový manažer, zastupitel města Chotěboř	Chotěboř	568759	166	166	A	341	.13	N	0	20	M	2024	1164
+21	23	Zdeněk	Mlynář	Ing.		31	CZ	vývojový konstruktér jistících zařízení pro energetiku	Kunvald	580503	166	166	A	293	.11	N	0	21	M	2024	1164
+21	24	Jan	Marek	Mgr.		45	CZ	projektový manažer	Liberec	563889	99	703	A	278	.1	N	0	22	M	2024	1164
+21	25	Andrea	Lorková	Ing.	MBA	47	CZ	starostka	Závada	553492	166	166	A	321	.12	N	0	23	F	2024	1164
+21	26	Jakub	Krainer	Bc.		36	CZ	soukromý zemědělec, tajemník	Znojmo	593711	166	166	A	466	.18	N	0	24	M	2024	1164
+21	27	Jan	Ksiazkiewicz			22	CZ	student práv a politologie	Uherské Hradiště	592005	166	166	A	340	.13	N	0	25	M	2024	1164
+21	28	Jan	Papajanovský	Mgr.		29	CZ	starosta, právník	Česká Kamenice	562394	166	166	A	1075	.41	N	0	26	M	2024	1164
+22	1	Milan	Hamerský	Mgr. et Mgr.		51	CZ	právník, předseda Spolku pro uzákonění eutanázie	Kladno	532053	99	1220	A	459	7.25	N	0	0	M	2024	1220
+22	2	Daniel	Chlad			51	CZ	ředitel logistiky, 1. místostarosta	Tři Sekery	554880	1220	1220	A	121	1.91	N	0	0	M	2024	1220
+22	3	Petra	Šrámková Harantová	Mgr. et Mgr.		48	CZ	advokátka	Plzeň	554791	99	1220	A	250	3.95	N	0	0	F	2024	1220
+22	4	Zora	Sládková			44	CZ	lektorka kreslení, invalidní důchodkyně, členka Spolku pro uzákonění eutanázie	Praha	554782	99	1220	A	146	2.3	N	0	0	F	2024	1220
+22	5	Simona	Burešová			35	CZ	specialistka prodeje	Pokřikov	572063	1220	1220	A	93	1.46	N	0	0	F	2024	1220
+22	6	Veronika	Saracino			48	CZ	projektová logistička	Mariánské Lázně	554642	1220	1220	A	47	.74	N	0	0	F	2024	1220
+22	7	Alexandra	Müllerová		dipl. um.	41	CZ	učitelka hudby	Kraslice	560472	1220	1220	A	85	1.34	N	0	0	F	2024	1220
+22	8	Drahomíra	Vokounová			56	CZ	invalidní důchodkyně	Tři Sekery	554880	99	1220	A	29	.45	N	0	0	F	2024	1220
+22	9	Michal	Truhlář			39	CZ	fyzik, freelancer, projekt manager, koordinátor akcí	Pohořelice	549461	1220	1220	A	73	1.15	N	0	0	M	2024	1220
+22	10	Michal	Ruman			41	CZ	softwarový inženýr	Karviná	598917	1220	1220	A	40	.63	N	0	0	M	2024	1220
+22	11	René	Hladiš	Mgr.		47	CZ	podnikatel	Praha	554782	1220	1220	A	59	.93	N	0	0	M	2024	1220
+22	12	Lukáš	Kalenský	Ing.		45	CZ	IT manažer, člen Spolku pro uzákonění eutanázie	Praha	554782	99	1220	A	125	1.97	N	0	0	M	2024	1220
+22	13	Tomáš	Hlinka			54	CZ	jednatel, podnikatel ve stavebnictví	Praha	554782	1220	1220	A	42	.66	N	0	0	M	2024	1220
+23	1	Marcel	Kolaja	Bc.		43	CZ	poslanec a kvestor Evropského parlamentu, odborník na IT	Český Brod	533271	720	720	A	17975	9.76	N	0	1	M	2024	720
+23	2	Markéta	Gregorová	Mgr.		31	CZ	poslankyně Evropského parlamentu, marketingová specialistka	Brno	582786	720	720	A	23388	12.7	A	1	0	F	2024	720
+23	3	Zuzana	Klusová	Mgr.		38	CZ	krajská zastupitelka, sociální pracovnice a mediální konzultantka	Karviná	598917	720	720	A	13214	7.17	N	0	2	F	2024	720
+23	4	Mikuláš	Peksa	Mgr.	Ph.D.	37	CZ	poslanec Evropského parlamentu, fyzik	Praha	554782	720	720	A	11708	6.35	N	0	3	M	2024	720
+23	5	David František	Wagner	Mgr.		35	CZ	vedoucí kanceláře europoslance, autor vzdělávacích her	Terezín	565717	720	720	A	2256	1.22	N	0	5	M	2024	720
+23	6	Andrea	Hoffmannová	Mgr.	Ph.D.	41	CZ	náměstkyně primátora Ostravy pro vzdělávání, digitalizaci a inovace	Ostrava	554821	720	720	A	2791	1.51	N	0	6	F	2024	720
+23	7	Albert	Štěrba	MUDr.	MBA	30	CZ	neurochirurg, vysokoškolský učitel, příslušník aktivních záloh Armády ČR	Praha	554782	720	720	A	3379	1.83	N	0	7	M	2024	720
+23	8	Jana	Skopalíková	Mgr.		31	CZ	radní Středočeského kraje pro životní prostředí a zemědělství, bioložka	Kladno	532053	720	720	A	2147	1.16	N	0	8	F	2024	720
+23	9	František	Kopřiva			28	CZ	konzultant	Mladá Boleslav	535419	720	720	A	959	.52	N	0	9	M	2024	720
+23	10	Tomáš	Guth Jarkovský	Bc.		27	CZ	projektový manažer v IT	Borovany	544281	720	720	A	2095	1.13	N	0	10	M	2024	720
+23	11	Eva	Tichá	Ing.		62	CZ	ekonomka, zastupitelka v Praze 6	Praha	554782	720	720	A	471	.25	N	0	11	F	2024	720
+23	12	Mikuláš	Ferjenčík	Bc.		37	CZ	poradce předsedy Poslaneckého klubu, odborník na veřejné rozpočty	Praha	554782	720	720	A	11678	6.34	N	0	4	M	2024	720
+23	13	Ivana	Böhmová	Bc. et Bc.		37	CZ	koordinátorka pro oblast umělé inteligence ve vzdělávání pro Národní pedagogický institut	Pardubice	555134	720	720	A	1310	.71	N	0	12	F	2024	720
+23	14	Jana	Holomčík Leitnerová	Bc.		36	CZ	radní Jihomoravského kraje pro sociální a rodinnou politiku	Újezd u Rosic	584053	720	720	A	707	.38	N	0	13	F	2024	720
+23	15	Tereza	Nislerová	Ing.	M.A., MIM	40	CZ	ekonomka se zaměřením na EU	Praha	554782	720	720	A	984	.53	N	0	14	F	2024	720
+23	16	Veronika	Hažlinská	Bc.		27	CZ	porodní asistentka, viceprezidentka Unie porodních asistentek	Kladno	532053	720	720	A	1003	.54	N	0	15	F	2024	720
+23	17	Michal	Gill	Bc.		37	CZ	odborný asistent radních	Praha	554782	720	720	A	126	.06	N	0	16	M	2024	720
+23	18	Zuzana	Kudláčková			40	CZ	náměstkyně primátorky Českých Budějovic pro kulturu, životní prostředí a koordinaci územních skupin	České Budějovice	544256	720	720	A	403	.21	N	0	17	F	2024	720
+23	19	Jan	Hora	Ing.		40	CZ	zastupitel v Praze 4 a IT analytik	Praha	554782	720	720	A	303	.16	N	0	18	M	2024	720
+23	20	Marta	Martinová	Mgr. Bc.		43	CZ	ředitelka obecně prospěšné společnosti	Kostomlaty nad Labem	537331	99	720	A	338	.18	N	0	19	F	2024	720
+23	21	Andrea	Linhartová			48	CZ	metodička agendy EU u zdravotního pojištění	Chrast	571539	720	720	A	212	.11	N	0	20	F	2024	720
+23	22	Filip	Jiroušek	PhDr. Mgr.		29	CZ	učitel, historik	Studnice	572322	720	720	A	526	.28	N	0	21	M	2024	720
+23	23	Jan	Břížďala	RNDr.		30	CZ	radní Kraje Vysočina pro školství, mládež, sport a IT	Třebíč	590266	720	720	A	383	.2	N	0	22	M	2024	720
+23	24	Viktor	Tichák	Mgr.	Ph.D.	34	CZ	univerzitní pedagog, lingvista, náměstek primátora města Olomouce pro kulturu, cestovní ruch a školství	Olomouc	500496	720	720	A	586	.31	N	0	23	M	2024	720
+23	25	Olga	Sejrková	Mgr.		43	CZ	radní městského obvodu Plzeň - Slovany, koordinátorka obchodního týmu	Plzeň	554791	720	720	A	268	.14	N	0	24	F	2024	720
+23	26	Jiří	Knotek	Bc.		25	CZ	krajský zastupitel Zlínského kraje, předseda výboru pro kulturu a památky	Strání	592617	720	720	A	462	.25	N	0	25	M	2024	720
+23	27	Petr	Slanina	Mgr.	Ph.D., LL.M., MBA	50	CZ	pracovník v onkologickém výzkumu, bioetik, zastupitel Liberce	Liberec	563889	720	720	A	817	.44	N	0	26	M	2024	720
+23	28	Vítězslav	Adamec	Mgr.	DiS.	33	CZ	památkář, hudebník, zastupitel Lokte	Loket	530093	720	720	A	760	.41	N	0	27	M	2024	720
+24	1	Ctirad	Musil	MUDr. Mgr.		46	CZ	lékař, předseda strany Moravané	Dolní Nětčice	569259	83	83	A	408	10.42	N	0	0	M	2024	1629
+24	2	Pavel	Mužný	Ing.		72	CZ	informatik, předseda strany SPR-RSČMS	Olomouc	500496	736	736	A	44	1.12	N	0	0	M	2024	1629
+24	3	Marek	Obrtel	MUDr.		57	CZ	lékař	Rokytnice	517607	99	83	A	250	6.39	N	0	0	M	2024	1629
+24	4	Jiří	Novotný			46	CZ	zemědělec, svobodný spisovatel	Bohdalice-Pavlovice	592901	99	83	A	79	2.01	N	0	0	M	2024	1629
+24	5	Pavel	Dohnal	Ing.		63	CZ	jednatel společnosti	Hluk	592170	83	83	A	64	1.63	N	0	0	M	2024	1629
+24	6	Luděk	Toman	Ing.		55	CZ	ekonom	Praha	554782	99	736	A	27	.69	N	0	0	M	2024	1629
+24	7	Josef	Válka	Mgr.		57	CZ	asistent podnikatele	Brno	582786	83	83	A	14	.35	N	0	0	M	2024	1629
+24	8	Michal	Hozák			34	CZ	OSVČ, zaměstnanec v průmyslu	Olomouc	500496	83	83	A	50	1.27	N	0	0	M	2024	1629
+24	9	Nikola	Šedinová Slabáková	Mgr.	Ph.D.	44	CZ	středoškolská a vysokoškolská učitelka	Brno	582786	99	83	A	53	1.35	N	0	0	F	2024	1629
+24	10	Jiří	Dufek			72	CZ	důchodce, podnikatel, 1. místopředseda strany SPR-RSČMS	Olomouc	500496	736	736	A	19	.48	N	0	0	M	2024	1629
+24	11	Hanuš	Keclík			45	CZ	přípravář materiálu	Dolní Újezd	513199	83	83	A	19	.48	N	0	0	M	2024	1629
+24	12	Zdeněk	Hájek	JUDr.		68	CZ	právník	Krnov	597520	99	83	A	26	.66	N	0	0	M	2024	1629
+24	13	Radka	Březíková	Mgr.		43	CZ	učitelka II. stupně ZŠ	Hranice	513750	83	83	A	48	1.22	N	0	0	F	2024	1629
+24	14	Pavel	Volf			35	CZ	aktivní důchodce, místopředseda výboru veřejného blaha	Jičín	572659	99	736	A	22	.56	N	0	0	M	2024	1629
+24	15	Ondřej	Hetmánek	Ing. Mgr.		45	CZ	stavební projektant	Ostrava	554821	83	83	A	27	.69	N	0	0	M	2024	1629
+24	16	Tomáš	Skoumal	PhDr.		51	CZ	učitel	Bludov	525588	83	83	A	25	.63	N	0	0	M	2024	1629
+24	17	Michael	Vrbka	Bc.		53	CZ	učitel odborných předmětů	Starý Jičín	599905	83	83	A	18	.46	N	0	0	M	2024	1629
+24	18	Olga	Schwarzerová			65	CZ	důchodkyně, ekonomka	Olomouc	500496	99	736	A	12	.3	N	0	0	F	2024	1629
+24	19	Tereza	Heczková			21	CZ	stewardka	Písek	512028	83	83	A	33	.84	N	0	0	F	2024	1629
+24	20	Josef	Bartošek			63	CZ	revizní technik elektro	Hranice	513750	99	83	A	14	.35	N	0	0	M	2024	1629
+24	21	Radúz	Kublín	Mgr.		73	CZ	důchodce, OSVČ	Ostrava	554821	99	83	A	4	.1	N	0	0	M	2024	1629
+24	22	Viktor	Novotný			66	CZ	důchodce, obchodník se zvířaty v zájmovém chovu	Olomouc	500496	736	736	A	5	.12	N	0	0	M	2024	1629
+24	23	Monika	Vymazalová			44	CZ	vedoucí prodejny	Odry	599701	83	83	A	23	.58	N	0	0	F	2024	1629
+24	24	Milan	Matouš			59	CZ	reklamní grafik	Nový Jičín	599191	99	83	A	8	.2	N	0	0	M	2024	1629
+24	25	Václav	Šlancar			36	CZ	lesník	Litovel	503444	83	83	A	27	.69	N	0	0	M	2024	1629
+24	26	Dalibor	Kuba	Ing.		79	CZ	důchodce, výzkumný pracovník	Olomouc	500496	736	736	A	9	.23	N	0	0	M	2024	1629
+24	27	Zdeněk	Pírek			44	CZ	skladník	Uničov	505587	99	83	A	27	.69	N	0	0	M	2024	1629
+24	28	Antonín	Venzl	Ing.		44	CZ	IT specialista	Ostrava	554821	99	83	A	19	.48	N	0	0	M	2024	1629
+25	1	Zbyněk	Hromek			57	CZ	právník	Lužice	537322	793	793	A	103	9.65	N	0	0	M	2024	793
+25	2	Lucie	Červená Turzíková			36	CZ	vychovatelka ve školní družině	Dolní Bojanovice	586137	99	793	A	48	4.49	N	0	0	F	2024	793
+25	3	Štěpán	Prokop			39	CZ	OSVČ	Hodonín	547794	793	793	A	18	1.68	N	0	0	M	2024	793
+25	4	Naděžda	Holešová			50	CZ	zdravotní sestra	Lužice	537322	793	793	A	33	3.09	N	0	0	F	2024	793
+25	5	Lukáš	Dora			43	CZ	OSVČ	Lednice	584631	793	793	A	11	1.03	N	0	0	M	2024	793
+25	6	Dita	Frantová			30	CZ	administrativní pracovnice	Mratín	538515	99	793	A	18	1.68	N	0	0	F	2024	793
+25	7	Kamil	Franta			31	CZ	OSVČ	Mratín	538515	99	793	A	12	1.12	N	0	0	M	2024	793
+25	8	Martina	Doxanská			40	CZ	referentka	Hodonín	547794	99	793	A	9	.84	N	0	0	F	2024	793
+25	9	Marie	Havránková			60	CZ	učitelka hudby	Lužice	537322	99	793	A	17	1.59	N	0	0	F	2024	793
+25	10	Matěj	Grosspitsch			35	CZ	vedoucí obrobny	Hořičky	574074	99	793	A	11	1.03	N	0	0	M	2024	793
+25	11	Jana	Doležalová			59	CZ	strážní služba	Brno	582786	99	793	A	15	1.4	N	0	0	F	2024	793
+25	12	Jiří	Jaitner			61	CZ	důchodce	Brno	582786	99	793	A	3	.28	N	0	0	M	2024	793
+25	13	Richard	Plas			49	CZ	OSVČ	Plzeň	554791	99	793	A	8	.74	N	0	0	M	2024	793
+25	14	Václav	Trykar			34	CZ	operátor logistiky	Plzeň	554791	99	793	A	18	1.68	N	0	0	M	2024	793
+25	15	Renata	Borecká			49	CZ	OSVČ	Brno	582786	99	793	A	12	1.12	N	0	0	F	2024	793
+26	1	Kateřina	Konečná	Ing. Bc.		43	CZ	poslankyně Evropského parlamentu	Nový Jičín	599191	47	47	A	115386	40.63	A	1	0	F	2024	1632
+26	2	Ondřej	Dostál	JUDr.	Ph.D.	45	CZ	právník, vysokoškolský učitel	Mirošov	559997	99	143	A	24403	8.59	A	2	0	M	2024	1632
+26	3	Jana	Turoňová	JUDr.		40	CZ	právnička, mediátorka	Bednárec	562548	99	143	A	3418	1.2	N	0	1	F	2024	1632
+26	4	Milan	Krajča			40	CZ	místopředseda Komunistické strany Čech a Moravy	Praha	554782	47	47	A	8364	2.94	N	0	2	M	2024	1632
+26	5	Petra	Rédová Fajmonová		BSc.	48	CZ	vedoucí sestra specialistka	Brno	582786	99	143	A	11248	3.96	N	0	3	F	2024	1632
+26	6	Jarmila	Dubravská	Ing. Mgr.	Ph.D.	52	SK	ředitelka zpracovatelského podniku, zemědělská expertka	Praha	554782	99	143	A	1919	.67	N	0	4	F	2024	1632
+26	7	Kateřina	Jirousová	MUDr.	DiS.	36	CZ	všeobecná praktická lékařka	Soběslav	553131	99	47	A	2847	1	N	0	5	F	2024	1632
+26	8	Jan	Skalický	Ing.		59	CZ	dopravní expert a vodohospodář	Děčín	562335	99	143	A	1409	.49	N	0	6	M	2024	1632
+26	9	Petr	Bureš			47	CZ	provozovatel YouTube kanálu a vydavatel knížek	Štětí	565709	47	47	A	1868	.65	N	0	7	M	2024	1632
+26	10	Ivan	Strachoň	Ing.		51	CZ	manažer	Ostrava	554821	47	47	A	1274	.44	N	0	8	M	2024	1632
+26	11	Michal	Klusáček	Dr.-Ing.		44	CZ	letecký konstruktér, předseda České strany národně sociální	Sloup v Čechách	562050	2	2	A	805	.28	N	0	9	M	2024	1632
+26	12	Petra	Prokšanová	Mgr.		39	CZ	socioložka, marketingová specialistka	Praha	554782	47	47	A	692	.24	N	0	10	F	2024	1632
+26	13	Jiří	Valenta	PhDr. Ing. Mgr. et Mgr.	DBA	58	CZ	pedagogický pracovník	Plzeň	554791	47	47	A	1379	.48	N	0	11	M	2024	1632
+26	14	Petr	Ježek	Ing.	Ph.D.	62	CZ	úředník, pedagog	Praha	554782	2	2	A	99	.03	N	0	12	M	2024	1632
+26	15	Jiří	Svoboda		DiS.	31	CZ	pedagogický pracovník	Praha	554782	93	47	A	252	.08	N	0	13	M	2024	1632
+26	16	Tereza	Čechová Humpolcová	Mgr. Ing.	Ph.D.	37	CZ	učitelka gymnázia	Tišice	535222	47	47	A	388	.13	N	0	14	F	2024	1632
+26	17	Zdeněk	Štefek	Ing.		49	CZ	vedoucí oddělení informačních technologií	Buštěhrad	532169	47	47	A	308	.1	N	0	15	M	2024	1632
+26	18	Jaroslava	Kamarytová Vršitá	Bc.	MBA	36	CZ	finanční účetní	Děčín	562335	47	47	A	171	.06	N	0	16	F	2024	1632
+26	19	Lukáš	Pařízek	Ing. Bc.	MBA	40	CZ	vodohospodář, ekolog, předseda Společenství vlastníků jednotek, táta od rodiny	Litoměřice	564567	47	47	A	429	.15	N	0	17	M	2024	1632
+26	20	Ondřej	Vašata			24	CZ	učitel gymnázia, fotbalový rozhodčí	Teplice	567442	47	47	A	391	.13	N	0	18	M	2024	1632
+26	21	Zdeněk	Jandejsek	Ing.	CSc.	69	CZ	zemědělský expert, exprezident Agrární komory České republiky	Loket	560537	99	143	A	5359	1.88	N	0	19	M	2024	1632
+26	22	Anna	Grabowská			65	CZ	soudní znalkyně, specializace grafologie	Praha	554782	2	2	A	142	.05	N	0	20	F	2024	1632
+26	23	David	Moos	Bc.		41	CZ	specialista informačních technologií	Brno	582786	99	143	A	144	.05	N	0	21	M	2024	1632
+26	24	Jan	Klán	Mgr.		41	CZ	sociolog, analytik, publicista	Kutná Hora	533955	47	47	A	444	.15	N	0	22	M	2024	1632
+26	25	Petr	Vlček	Ing.		45	CZ	vědeckovýzkumný pracovník	Praha	554782	47	47	A	127	.04	N	0	23	M	2024	1632
+26	26	Vojtěch	Straka	Mgr. Bc.		43	CZ	manažer řízení podnikových zdrojů	Slavičín	585751	47	47	A	179	.06	N	0	24	M	2024	1632
+26	27	David	Kváč	Ing.		43	CZ	autotronik	Lysá nad Labem	537454	47	47	A	136	.04	N	0	25	M	2024	1632
+26	28	Adam	Rokos	Bc.		24	CZ	student vysoké školy, marketingový specialista	Vrbno pod Pradědem	597961	47	47	A	632	.22	N	0	26	M	2024	1632
+27	1	Hana	Janišová	Mgr.		62	CZ	předsedkyně Pražského spolku ochránců zvířat, vedoucí kočičího útulku Kocour Felix	Praha	554782	99	715	A	546	4.38	N	0	0	F	2024	715
+27	2	Vendula	Wolfová	Mgr.		37	CZ	předsedkyně spolku Psí senioři v nouzi	Praha	554782	99	715	A	646	5.18	N	0	0	F	2024	715
+27	3	Larisa	Zankerová			44	CZ	vedoucí a kynolog psího domova Pod křídly anděla, předsedkyně spolku Zastavme utrpení, ochránce práv zvířat	Frýdlant nad Ostravicí	598143	99	715	A	352	2.82	N	0	0	F	2024	715
+27	4	Oľga	Bruncková	Ing.		66	CZ	aktivní dočaskářka, ochránce zvířat	Rpety	531715	99	715	A	46	.36	N	0	0	F	2024	715
+27	5	Petra	Bártová	Mgr.		60	CZ	právník, člen České ornitologické společnosti, přispěvatel World of Dogs-Bosna a OBRAZ-Obránci zvířat	Praha	554782	99	715	A	139	1.11	N	0	0	F	2024	715
+27	6	Blanka	Filipová			47	CZ	vedoucí záchranné stanice S.O.S. Život pro koně	Mířkov	553956	715	715	A	172	1.38	N	0	0	F	2024	715
+27	7	Jana	Johanidesová			45	CZ	ochránkyně zvířat, členka Animal Rescue, Help Animals, Tlapky v nouzi, Pomáhej zvířatům, Adoptuj psa	Lanškroun	580511	99	715	A	375	3.01	N	0	0	F	2024	715
+27	8	Jaroslav	Sepp			51	CZ	šéfkuchař, zakládající člen spolku HeRo Pomoc bez hranic, ochránce zvířat	Litoměřice	564567	99	715	A	91	.73	N	0	0	M	2024	715
+27	9	Lucie	Vavříková	Ing.		49	CZ	úřednice, podporovatel spolku Prales dětem, Oceán dětem, OBRAZ-Obránci zvířat, Jezevčíci v nouzi a dalších záchranných stanic zvířat	Nová Role	555398	99	715	A	170	1.36	N	0	0	F	2024	715
+27	10	Nikola	Vavřincová	Mgr. et Mgr.		30	CZ	učitelka cizích jazyků, ochránce zvířat	Kaznějov	559008	99	715	A	127	1.02	N	0	0	F	2024	715
+27	11	Jiří	Anderle			54	CZ	zastupitel městysu, předseda spolků DO a VRMKO, předseda DSZ - ZA PRÁVA ZVÍŘAT	Klenčí pod Čerchovem	553794	715	715	A	126	1.01	N	0	0	M	2024	715
+27	12	Kateřina	Křížová			43	CZ	majitelka psího hotelu KUKY, zachránce koní, ochránce zvířat	Kozolupy	559059	99	715	A	130	1.04	N	0	0	F	2024	715
+27	13	Adéla	Cíchová			49	CZ	obchodní referent, ochránce zvířat	Tábor	552046	99	715	A	36	.28	N	0	0	F	2024	715
+27	14	Romana	Cerhová			58	CZ	ošetřovatelka koní, obchodní zástupce, ochránce zvířat	Plzeň	554791	99	715	A	40	.32	N	0	0	F	2024	715
+27	15	Dana	Doškářová			59	CZ	OSVČ, dobrovolník v útulku a dočaskář	Jičín	572659	99	715	A	54	.43	N	0	0	F	2024	715
+27	16	Renata	Vikartová			71	CZ	ochránce zvířat, dříve zaměstnankyně ČIŽP	Praha	554782	99	715	A	17	.13	N	0	0	F	2024	715
+27	17	Jana	Labudíková			53	CZ	invalidní důchodce, ochránce zvířat	Cheb	554481	99	715	A	24	.19	N	0	0	F	2024	715
+27	18	Renata	Vybíralová			51	CZ	sanitářka, ochránce zvířat	Týnec nad Sázavou	530841	99	715	A	24	.19	N	0	0	F	2024	715
+27	19	Jana	Slováková			64	CZ	OSVČ, ochránce zvířat	Brodek u Prostějova	589322	99	715	A	25	.2	N	0	0	F	2024	715
+27	20	Jan	Sladký			70	CZ	OSVČ, místopředseda DSZ - ZA PRÁVA ZVÍŘAT	Domažlice	553425	715	715	A	35	.28	N	0	0	M	2024	715
+27	21	Lenka	Němcová			53	CZ	dispečer mezinárodní kamionové dopravy, ochránce zvířat	Boskovice	581372	99	715	A	25	.2	N	0	0	F	2024	715
+27	22	Karolína	Lukavská			54	CZ	zlatnice, ochránce zvířat	Mělník	534676	99	715	A	28	.22	N	0	0	F	2024	715
+27	23	Dana	Hlouchová			44	CZ	OSVČ - kosmetička, ochránce zvířat	Valeč	555690	99	715	A	21	.16	N	0	0	F	2024	715
+27	24	Marcela	Taubenhanslová			50	CZ	úřednice, konstruktérka	Hlohová	553620	715	715	A	17	.13	N	0	0	F	2024	715
+27	25	Radmila	Švejdová			54	CZ	ekonomka, ochránce zvířat	Kroměříž	588296	99	715	A	32	.25	N	0	0	F	2024	715
+27	26	Jitka	Kůtová			47	CZ	dělnice - obsluha CNC, členka spolku Klatovské kočky z.s.	Kdyně	553786	99	715	A	31	.24	N	0	0	F	2024	715
+27	27	Oldřiška	Brandtlová			41	CZ	OSVČ, ochránce zvířat	Trnová	559504	99	715	A	45	.36	N	0	0	F	2024	715
+27	28	Jaroslava	Součková	Ing.		58	CZ	ekonomka, místostarostka Pařezova	Pařezov	599182	715	715	A	35	.28	N	0	0	F	2024	715
+28	1	Petr	Cibulka			73	CZ	pětinásobný politický vězeň, vydavatel seznamů StB, nezávislý novinář, politický analytik, šéfredaktor NECENZUROVANÝCH NOVIN, serveru WWW.CIBULKA.NET a několika video stránek tisíců polit. dokumentů	Praha	554782	98	98	A	555	16.36	N	0	0	M	2024	98
+28	2	Zbyhněv	Zientek	MUDr.		64	CZ	zubní lékař	Třinec	598810	99	98	A	126	3.71	N	0	0	M	2024	98
+28	3	Milan	Mikeš	Mgr.		53	CZ	počítačový specialista	České Budějovice	544256	99	98	A	88	2.59	N	0	0	M	2024	98
+28	4	Zdeněk	Macíček			41	CZ	specialista informačních technologií	Praha	554782	99	98	A	96	2.83	N	0	0	M	2024	98
+28	5	František	Kazilovský			67	CZ	angažovaný důchodce	Lázně Bohdaneč	574767	99	98	A	29	.85	N	0	0	M	2024	98
+28	6	Jan	Bečka			46	CZ	vedoucí mycí linky	Ohrazenice	540960	99	98	A	54	1.59	N	0	0	M	2024	98
+28	7	Milan	Kočík			68	CZ	angažovaný občan - pracující důchodce	Žďár nad Sázavou	595209	99	98	A	24	.7	N	0	0	M	2024	98
+28	8	Miroslav	Viška			56	CZ	pojišťovací makléř	Letovice	581917	99	98	A	14	.41	N	0	0	M	2024	98
+28	9	Marek	Kořínek			67	CZ	volný novinář, politický analytik, signatář Charty77 a účastník III. Odboje	Želeč	553417	99	98	A	129	3.8	N	0	0	M	2024	98
+28	10	Miroslav	Durdil			75	CZ	volný novinář	Praha	554782	99	98	A	21	.61	N	0	0	M	2024	98
+29	1	Jaroslav	Pollák			73	CZ	úředník MČ Praha 18	Kaplice	545562	1240	1240	A	99	6.33	N	0	0	M	2024	1240
+29	2	Miroslav	Kabát			74	CZ	důchodce	Praha	554782	1240	1240	A	82	5.24	N	0	0	M	2024	1240
+29	3	Božena	Jiříková			59	CZ	finanční specialista	Frýdek-Místek	598003	1240	1240	A	191	12.22	N	0	0	F	2024	1240
+30	1	Jan	Májíček	Mgr.		39	CZ	projektový koordinátor	Praha	554782	74	74	A	135	5.87	N	0	0	M	2024	74
+30	2	Markéta	Juřicová			23	CZ	vedoucí prodejny	Praha	554782	74	74	A	100	4.35	N	0	0	F	2024	74
+30	3	Vítek	Prokop	Bc.		24	CZ	student	Loket	530093	74	74	A	65	2.83	N	0	0	M	2024	74
+30	4	Anežka	Michnová			34	CZ	feministická aktivistka	Brno	582786	99	74	A	59	2.56	N	0	0	F	2024	74
+30	5	Jiří	Šteg	Ing.		68	CZ	ekonom	Kladno	532053	99	74	A	20	.87	N	0	0	M	2024	74
+30	6	Antonín	Hořčica	Ing. et Ing.		67	CZ	důchodce	České Budějovice	544256	74	74	A	16	.69	N	0	0	M	2024	74
+30	7	Ivana	Batthyany			39	CZ	pečovatelka	Praha	554782	74	74	A	23	1	N	0	0	F	2024	74
+30	8	Jan	Macháček	Mgr.	Ph.D.	52	CZ	chemik	Pelhřimov	547492	99	74	A	29	1.26	N	0	0	M	2024	74
+30	9	Prokop	Hapala	Ing.	Ph.D.	39	CZ	chemik	Ústí	520306	99	74	A	24	1.04	N	0	0	M	2024	74
+30	10	Lenka	Goldšmídová	Ing.		41	CZ	nakladatel	Úvaly	538957	99	74	A	18	.78	N	0	0	F	2024	74
+30	11	Petr	Vokatý	Bc.		43	CZ	OSVČ	Bedřichov	563536	99	74	A	4	.17	N	0	0	M	2024	74
+30	12	Viera	Hudečková	Ing.		72	CZ	důchodce	Praha	554782	74	74	A	3	.13	N	0	0	F	2024	74
+30	13	Martin	Churaň	Mgr.		43	CZ	knihovník	Praha	554782	74	74	A	12	.52	N	0	0	M	2024	74
+30	14	Zdeněk	Jehlička	Mgr.		52	CZ	publicista	Praha	554782	99	74	A	51	2.22	N	0	0	M	2024	74
+30	15	Radka	Miškovičová	Mgr. Bc. et Bc.		47	CZ	ekonom	Orlová	599069	99	74	A	23	1	N	0	0	F	2024	74
+30	16	Mariana	Catwall	Mgr.		38	CZ	provázení obnovou přirozené společenské schopnosti sebeorganizace	Praha	554782	99	74	A	7	.3	N	0	0	F	2024	74
+30	17	David	Němeček			32	CZ	výtvarník a nápojář	Vyškov	592889	99	74	A	11	.47	N	0	0	M	2024	74
+30	18	Anna	Mikulenková	Mgr.		41	CZ	pečovatelka	Brno	582786	74	74	A	34	1.48	N	0	0	F	2024	74
+30	19	Adam	Ročárek	Bc.		26	CZ	učitel	Praha	554782	74	74	A	17	.74	N	0	0	M	2024	74
+30	20	Ivo	Chmel			50	CZ	dělník	Luhačovice	585459	99	74	A	8	.34	N	0	0	M	2024	74
+30	21	Petr	Pávek			35	CZ	prodavač	Praha	554782	74	74	A	7	.3	N	0	0	M	2024	74
+30	22	Karel	Hanauer	RNDr.		58	CZ	programátor	Praha	554782	74	74	A	8	.34	N	0	0	M	2024	74
+30	23	Adam	Heinrich	Ing.		32	CZ	vývojář elektroniky a programátor	Praha	554782	74	74	A	11	.47	N	0	0	M	2024	74
+30	24	Jan	Široký			47	CZ	jednatel	Liberec	563889	74	74	A	5	.21	N	0	0	M	2024	74
+30	25	Alexandr	Gluhov			21	CZ	student	Dobříš	540111	74	74	A	8	.34	N	0	0	M	2024	74
+30	26	Martin	Biskup	Mgr.		50	CZ	právník	Nový Jičín	599191	74	74	A	22	.95	N	0	0	M	2024	74
+30	27	Petr	Rohel	PhDr.		76	CZ	důchodce	Ostrava	554821	74	74	A	8	.34	N	0	0	M	2024	74
+30	28	Vojtěch	Juřica			34	CZ	technik	Praha	554782	74	74	A	6	.26	N	0	0	M	2024	74
