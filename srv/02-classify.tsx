@@ -9,23 +9,29 @@ const openai = new OpenAI({
 });
 
 async function askAI(input: string) {
-    const chatCompletion = await openai.chat.completions.create({
-        messages: [{ role: 'system', content: 'Jsi pedantická češtinářka. Nesnášíš chyby. Dám ti jméno, příjmení a povolání člověka. Odhadni jeho pohlaví. Odpovídej jenom M nebo F. Ale opravdu se snaž, ať se nespleteš.' },
-        { role: 'user', content: input }
-        ],
-        model: 'gpt-3.5-turbo',
-    });
-    return chatCompletion.choices[0].message.content;
+    try {
+        const chatCompletion = await openai.chat.completions.create({
+            messages: [
+                { role: 'system', content: 'Jsi pedantická češtinářka. Nesnášíš chyby. Dám ti jméno, příjmení a povolání člověka. Odhadni jeho pohlaví. Odpovídej jenom M nebo F. Ale opravdu se snaž, ať se nespleteš.' },
+                { role: 'user', content: input }
+            ],
+            model: 'gpt-4o-mini',
+        });
+        return chatCompletion.choices[0].message.content;
+    } catch (error) {
+        console.error('Error in askAI:', error);
+        return null;
+    }
 }
 
 
-const years = ["2004", "2009", "2014", "2019", "2024"]
+const years = ["2000", "2004", "2008", "2012", "2016", "2020", "2024"]
 
 
 for (const year of years) {
     let results: Array<{ JMENO: string; PRIJMENI: string; POVOLANI: string; POHLAVI: string }> = [];
-    const file = await Bun.file(`srv/data/${year}/eprk.csv`).text();
-    const data = await year === "2019" ? parser.parse(file) : csvParse(file);
+    const file = await Bun.file(`srv/data/${year}/kzrk.csv`).text();
+    const data = await year === "2020" ? parser.parse(file) : csvParse(file);
 
 
     for (const row of data) {
