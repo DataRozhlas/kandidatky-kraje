@@ -294,7 +294,6 @@ VSTRANA	NAZEVCELK	NAZEV_STRV	ZKRATKAV30	ZKRATKAV8	POCSTR_SLO	SLOZENI	ZKRATKA_OF	
 309	Koalice KDU-ČSL, Moravané	Koalice KDU-ČSL, Moravané	Koalice KDU-ČSL, Moravané	KDU-ČSL+Morav.	2	001,083		K	
 310	Národní koalice	Národní koalice	Národní koalice	NARKOAL	2	002,152		K	
 311	Koalice SNK ED a SD-SN	Koalice SNK ED a SD-SN	Koalice SNK ED, SD-SN	SNK ED+SD-SN	2	129,143		K	
-312	Za zájmy Moravy ve sjednocené Evropě	Za zájmy Moravy ve sjednocené Evropě	Za zájmy Moravy ve sjedn.Evr.	HSMSMoDS	2	082,083		K	
 313	Unie liberálních demokratů	Unie liberálních demokratů	Unie liberálních demokratů	ULD	4	013,102,133,138		K	
 314	Unie Prahy 4	Unie Prahy 4	Unie Prahy 4	Unie-P4	3	001,102,143		K	
 315	Koalice Zelení a LIB	Koalice Zelení a LIB	Koalice Zelení, LIB	Zelení+LIB	2	005,138		K	
@@ -536,7 +535,6 @@ VSTRANA	NAZEVCELK	NAZEV_STRV	ZKRATKAV30	ZKRATKAV8	POCSTR_SLO	SLOZENI	ZKRATKA_OF	
 572	Sdružení KDU-ČSL, ZVUK 12, NK	Sdružení KDU-ČSL, ZVUK 12, NK	Sdružení KDU-ČSL, ZVUK 12, NK	KDU+ZVUK 12+NK	3	001,080,775		D	
 573	Sdružení SOCDEM, SPOZ, NK	Sdružení SOCDEM, SPOZ, NK	Sdružení SOCDEM, SPOZ, NK	SOCDEM+SPOZ+NK	3	007,080,724		D	
 574	Sdružení Zelení, SNK ED, Piráti, NK	Sdružení Zelení, SNK ED, Piráti, NK	Sdr. Zelení,SNK ED,Piráti,NK	Ze+SNKED+Pir+NK	4	005,080,129,720		D	
-575	Dělnická strana sociální spravedlnosti - NE diktátu Bruselu!	Koalice DSSS a SPE	Koalice DSSS a SPE	Koal.DSSS a SPE	2	156,761	Koalice DSSS a SPE	K	
 576	Koalice SSPD-SP a NO!	Koalice SSPD-SP a NO!	Koalice SSPD-SP, NO!	SSPD-SP+NO!	2	159,197		K	
 577	Koalice STAN, SLK, TOP 09	Koalice STAN, SLK, TOP 09	Koalice STAN, SLK, TOP 09	STSLKTOP	3	166,703,721		K	
 578	Koalice KDU-ČSL, Zelení a OCJJ	Koalice KDU-ČSL, Zelení a OCJJ	Koalice KDU-ČSL, Zelení, OCJJ	KDUČSL+Zel+OCJJ	3	001,005,743		K	
@@ -601,7 +599,6 @@ VSTRANA	NAZEVCELK	NAZEV_STRV	ZKRATKAV30	ZKRATKAV8	POCSTR_SLO	SLOZENI	ZKRATKA_OF	
 644	Koalice US-DEU, SOS a VPM	Koalice US-DEU, SOS a VPM	Koalice US-DEU, SOS a VPM	USSOSVPM	3	102,103,113		K	
 649	Koalice US-DEU a KAN	Koalice US-DEU a KAN	Koalice US-DEU a KAN	USDEUKAN	2	040,102		K	
 654	Koalice Rozumní a HLAVU VZHŮRU	Koalice Rozumní a HLAVU VZHŮRU	Koalice Rozumní, HLAVU VZHŮRU	Rozum+HLAVU VZH	2	137,192		K	
-655	Nejen hasiči a živnostníci s učiteli do Evropy - www.hnpd.cz, www.sdzp.cz	Nejen hasiči a živnostníci s učiteli do Evropy	Nejen has. a živn. s uč. do E.	HNDPSDZP	2	165,167		K	
 656	Koalice STAN a ALTERNATIVA	Koalice STAN a ALTERNATIVA	Koalice STAN, ALTERNATIVA	STAN+ALTERNAT.	2	166,702		K	
 657	Koalice Rozumní a NEZ/DEM	Koalice Rozumní a NEZ/DEM	Koalice Rozumní a NEZ/DEM	Rozumní+NEZ/DEM	2	137,172		K	
 659	Koalice STAN, TOP 09	Koalice STAN, TOP 09	Koalice STAN, TOP 09	TOP+STAN	2	166,721		K	
@@ -1000,7 +997,7 @@ VSTRANA	NAZEVCELK	NAZEV_STRV	ZKRATKAV30	ZKRATKAV8	POCSTR_SLO	SLOZENI	ZKRATKA_OF	
 1257	JISTOTA A BUDOUCNOST	JISTOTA A BUDOUCNOST	JISTOTA A BUDOUCNOST	JAB	1	1257	JAB	S	
 1258	KRÁSNÁ KOPŘIVNICE	KRÁSNÁ KOPŘIVNICE	KRÁSNÁ KOPŘIVNICE	KK	1	1258	KK	S	
 1259	LEPŠÍ SEVER	LEPŠÍ SEVER	LEPŠÍ SEVER	LS	1	1259	LS	S	
-1260	Mourek – politická strana	Mourek –  politická strana	Mourek – politická strana	Mourek	1	1260	Mourek	S	
+1260	Mourek – politická strana	Mourek – politická strana	Mourek – politická strana	Mourek	1	1260	Mourek	S	
 1261	Občané SPOLU	Občané SPOLU	Občané SPOLU	O. SPOLU	1	1261	O. SPOLU	S	
 1262	Občanské fórum Beskydy	Občanské fórum Beskydy	Občanské fórum Beskydy	OFB	1	1262	OFB	S	
 1263	Osmička žije	Osmička žije	Osmička žije	8žije	1	1263	8žije	S	
@@ -1009,7 +1006,7 @@ VSTRANA	NAZEVCELK	NAZEV_STRV	ZKRATKAV30	ZKRATKAV8	POCSTR_SLO	SLOZENI	ZKRATKA_OF	
 1266	ProPce21	ProPce21	ProPce21	PP21	1	1266	PP21	S	
 1267	ROZVÍJÍME HRADEC	ROZVÍJÍME HRADEC	ROZVÍJÍME HRADEC	RH	1	1267	RH	S	
 1268	SPOLEK ZA ZDRAVOU JIHLAVU	SPOLEK ZA ZDRAVOU JIHLAVU	SPOLEK ZA ZDRAVOU JIHLAVU	SZZJ	1	1268	SZZJ	S	
-1269	Správná volba PRO Zdraví a Sport	Správná volba PRO Zdraví a Sport	Spr. volba PRO Zdraví a Sport	SV PRO ZS	1	1269	SV PRO ZS	S	
+1269	Správná Volba	Správná Volba	Správná Volba	SpV	1	1269	SpV	S	
 1270	SRDCEM PRO ...	SRDCEM PRO ...	SRDCEM PRO ...	SRDCEM PRO ...	1	1270	SRDCEM PRO ...	S	
 1271	VOLNÝ blok	VOLNÝ blok	VOLNÝ blok	VOLNÝ blok	1	1271	VOLNÝ blok	S	
 1272	Volt Česko	Volt Česko	Volt Česko	Volt	1	1272	Volt	S	
@@ -1028,7 +1025,13 @@ VSTRANA	NAZEVCELK	NAZEV_STRV	ZKRATKAV30	ZKRATKAV8	POCSTR_SLO	SLOZENI	ZKRATKA_OF	
 1285	Vize pro Karlovarský kraj	Vize pro Karlovarský kraj	Vize pro Karlovarský kraj	Vize KVK	1	1285	Vize KVK	S	
 1286	Liberální aliance nezávislých občanů	Liberální aliance nezávislých občanů	Liberální aliance nez. občanů	LANO	1	1286	LANO	S	
 1287	Osobnosti pro kraj	Osobnosti pro kraj	Osobnosti pro kraj	OK	1	1287	OK	S	
-1288	ANO LEPŠÍ EU S MIMOZEMŠŤANY (zastavíme drahotu a válku)	ANO LEPŠÍ EU S MIMOZEMŠŤANY (zast.drahotu a válku)	ANO LEPŠÍ EU S MIMOZEMŠŤANY	mimozemstani.eu	1	1288	mimozemstani.eu	S	
+1288	ANO LEPŠÍ ČESKO S MIMOZEMŠŤANY A OBČANY MOTORISTY - (dostupnější bydlení, jízdné zdarma školákům a studentům, …)	ANO LEPŠÍ ČESKO S MIMOZEMŠŤANY A OBČANY MOTORISTY	ANO LEPŠÍ ČESKO S MIMOZEMŠŤANY	mimozemstani.eu	1	1288	mimozemstani.eu	S	
+1289	„Tomáš Magnusek do Senátu“	„Tomáš Magnusek do Senátu“	„Tomáš Magnusek do Senátu“	TMS	1	1289	TMS	S	
+1290	HLAS SAMOSPRÁV	HLAS SAMOSPRÁV	HLAS SAMOSPRÁV	HS	1	1290	HS	S	
+1291	Hnutí Generace	Hnutí Generace	Hnutí Generace	Generace	1	1291	Generace	S	
+1292	MÁ VLAST ČECHY MORAVA SLEZSKO	MÁ VLAST ČECHY MORAVA SLEZSKO	MÁ VLAST ČECHY MORAVA SLEZSKO	MÁ VLAST ČMS	1	1292	MÁ VLAST ČMS	S	
+1293	Nadační občansko-politické hnutí ReMeK	Nadační občansko-politické hnutí ReMeK	Nadační obč.-pol. hnutí ReMeK	ReMeK	1	1293	ReMeK	S	
+1294	Nestraníci pro jižní Moravu - www.nestranici2024.cz	Nestraníci pro jižní Moravu-www.nestranici2024.cz	Nestraníci pro jižní Moravu	Nestranici2024	1	1294	Nestranici2024.cz	S	
 1300	Koalice STAN a ProTR	Koalice STAN a ProTR	Koalice STAN a ProTR	STAN+ProTR	2	166,728		K	
 1301	Sdružení SPDV, NK	Sdružení SPDV, NK	Sdružení SPDV, NK	SPDV+NK	2	080,1041		D	
 1302	Koalice Zelení, ODS, STAN, Soukromníci a TOP 09	Koalice Zelení, ODS, STAN, Soukromníci a TOP 09	Zel.,ODS,STAN,Soukrom.,TOP 09	1302	5	005,053,166,716,721		K	
@@ -1365,6 +1368,50 @@ VSTRANA	NAZEVCELK	NAZEV_STRV	ZKRATKAV30	ZKRATKAV8	POCSTR_SLO	SLOZENI	ZKRATKA_OF	
 1633	Koalice AUTO a PŘÍSAHA	Koalice AUTO a PŘÍSAHA	Koalice AUTO, PŘÍSAHA	AUTO+PŘÍSAHA	2	1178,1245		K	
 1634	Koalice ČSSD, DOMOV a Směr	Koalice ČSSD, DOMOV a Směr	Koalice ČSSD, DOMOV, Směr	ČSSD+DOMOV+Směr	3	759,1221,1248		K	
 1635	Koalice SEN 21 a Volt	Koalice SEN 21 a Volt	Koalice SEN 21, Volt	SEN 21+Volt	2	1187,1272		K	
-1636	Koalice PRO 2022 a SV PRO ZS	Koalice PRO 2022 a SV PRO ZS	Koalice PRO 2022, SV PRO ZS	PRO2022+SVPROZS	2	1265,1269		K	
+1636	Koalice PRO 2022 a SpV	Koalice PRO 2022 a SpV	Koalice PRO 2022, SpV	PRO2022+SpV	2	1265,1269		K	
+1637	Koalice ODS, TOP 09 a STO	Koalice ODS, TOP 09 a STO	Koalice ODS, TOP 09, STO	ODS+TOP 09+STO	3	053,721,779		K	
+1638	Koalice KDU-ČSL, T2020 a TOP 09	Koalice KDU-ČSL, T2020 a TOP 09	Koalice KDU-ČSL, T2020, TOP09	KDU+T2020+TOP	3	001,136,721		K	
+1639	Koalice SPD, Trikolora a PRO 2022	Koalice SPD, Trikolora a PRO 2022	Koalice SPD,Trikolora,PRO2022	SPD+Trikol+PRO	3	1114,1227,1265		K	
+1640	Koalice Zelení, ODS, Piráti a TOP 09	Koalice Zelení, ODS, Piráti a TOP 09	Zelení, ODS, Piráti, TOP 09	Zel+ODS+Pir+TOP	4	005,053,720,721		K	
+1641	Koalice ND a LŽPL	Koalice ND a LŽPL	Koalice ND, LŽPL	ND+LŽPL	2	079,121		K	
+1642	Koalice ČSNS a KSČM	Koalice ČSNS a KSČM	Koalice ČSNS, KSČM	ČSNS+KSČM	2	002,047		K	
+1643	Koalice KDU-ČSL a SNK 1 - SNK	Koalice KDU-ČSL a SNK 1 - SNK	Koalice KDU-ČSL, SNK 1 - SNK	KDU-ČSL+SNK 1	2	001,1129		K	
+1644	Koalice ČSNS, KSČM a ČSSD	Koalice ČSNS, KSČM a ČSSD	Koalice ČSNS, KSČM, ČSSD	ČSNS+KSČM+ČSSD	3	002,047,759		K	
+1645	Koalice USZ, SD-SN, SpV a HS	Koalice USZ, SD-SN, SpV a HS	Koalice USZ, SD-SN, SpV, HS	USZ+SDSN+SpV+HS	4	119,143,1269,1290		K	
+1646	Koalice ČSNS, KSČM, SD-SN a ČSSD	Koalice ČSNS, KSČM, SD-SN a ČSSD	Koal. ČSNS, KSČM, SD-SN, ČSSD	ČSNSKSČMSDČSSD	4	002,047,143,759		K	
+1647	Koalice Svobodní, SPD, Trikolora a PRO 2022	Koalice Svobodní, SPD, Trikolora a PRO 2022	Svobodní, SPD, Trikolora, PRO	Svo+SPD+Tri+PRO	4	714,1114,1227,1265		K	
+1648	Koalice KDU-ČSL, ODS, STAN, TOP 09 a STO	Koalice KDU-ČSL, ODS, STAN, TOP 09 a STO	KDU-ČSL,ODS,STAN,TOP 09,STO	KDUODSSTANTOPST	5	001,053,166,721,779		K	
+1649	Koalice Svobodní a Švýcarská demokracie	Koalice Svobodní a Švýcarská demokracie	Svobodní,Švýcarská demokracie	Svob+Švýc.dem.	2	714,752		K	
+1650	Koalice Zelení a Levice	Koalice Zelení a Levice	Koalice Zelení, Levice	Zelení+Levice	2	005,074		K	
+1651	Koalice ČSNS, SOCDEM a KSČM	Koalice ČSNS, SOCDEM a KSČM	Koalice ČSNS, SOCDEM, KSČM	ČSNS+SOCDE+KSČM	3	002,007,047		K	
+1652	Koalice STAN, TOP 09, LES a HDK	Koalice STAN, TOP 09, LES a HDK	Koalice STAN, TOP09, LES, HDK	STAN+TOP+LES+HD	4	166,721,795,1049		K	
+1653	Koalice STAN, TOP 09 a ZVUK 12	Koalice STAN, TOP 09 a ZVUK 12	Koalice STAN, TOP 09, ZVUK 12	STAN+TOP+ZVUK	3	166,721,775		K	
+1654	Koalice SOCDEM, VČ a SproK	Koalice SOCDEM, VČ a SproK	Koalice SOCDEM, VČ, SproK	SOCDEM+VČ+SproK	3	007,770,1228		K	
+1655	Koalice KDU-ČSL, ODS, STAN, Piráti a TOP 09	Koalice KDU-ČSL, ODS, STAN, Piráti a TOP 09	KDU, ODS, STAN, Piráti, TOP 09	KDUODSSTANPiTOP	5	001,053,166,720,721		K	
+1656	Koalice ANO a AUTO	Koalice ANO a AUTO	Koalice ANO, AUTO	ANO+AUTO	2	768,1178		K	
+1657	Koalice KDU-ČSL, ODS a Patrioti ČR	Koalice KDU-ČSL, ODS a Patrioti ČR	KDU-ČSL, ODS a Patrioti ČR	KDU+ODS+PatriČR	3	001,053,1004		K	
+1658	Koalice NEZ, Svobodní a Soukromníci	Koalice NEZ, Svobodní a Soukromníci	NEZ, Svobodní, Soukromníci	NEZ+Svobo+Soukr	3	088,714,716		K	
+1659	Koalice ČSNS, KSČM, SD-SN, ČSSD a DOMOV	Koalice ČSNS, KSČM, SD-SN, ČSSD a DOMOV	ČSNS, KSČM, SD-SN, ČSSD, DOMOV	NSKSČMSDČSSDDOM	5	002,047,143,759,1221		K	
+1660	Koalice SOM a Nestranici2024.cz	Koalice SOM a Nestranici2024.cz	SOM, Nestranici2024.cz	SOM+Nestran2024	2	158,1294		K	
+1661	Koalice KDU-ČSL a PRO PLZEŇ	Koalice KDU-ČSL a PRO PLZEŇ	Koalice KDU-ČSL, PRO PLZEŇ	KDUČSL+PROPLZEŇ	2	001,1014		K	
+1662	Koalice ND, DSSS, BEZ-UL a ANS	Koalice ND, DSSS, BEZ-UL a ANS	Koalice ND, DSSS, BEZ-UL, ANS	NDDSSSBEZULANS	4	079,156,761,762		K	
+1663	Koalice ČSSD a ČiKR	Koalice ČSSD a ČiKR	Koalice ČSSD, ČiKR	ČSSD+ČiKR	2	759,1021		K	
+1664	Koalice Zelení, SNK ED, TOP 09 a JsmePRO!	Koalice Zelení, SNK ED, TOP 09 a JsmePRO!	Zelení,SNK ED,TOP 09,JsmePRO!	Zel+ED+TOP+JP	4	005,129,721,1126		K	
+1665	Koalice Zelení, LES, SEN 21 a Idealisté	Koalice Zelení, LES, SEN 21 a Idealisté	Zelení, LES, SEN21, Idealisté	Zel+LES+SEN+Ide	4	005,795,1187,1233		K	
+1666	Koalice KDU-ČSL, PRO PLZEŇ a ADS	Koalice KDU-ČSL, PRO PLZEŇ a ADS	KDU-ČSL, PRO PLZEŇ, ADS	KDU+PROPLZ+ADS	3	001,1014,1119		K	
+1667	Koalice KONS, ODS, Monarchiste.cz a Svobodní	Koalice KONS, ODS, Monarchiste.cz a Svobodní	KONS,ODS,Monarchiste,Svobodní	KONS+ODS+Mon+Sv	4	024,053,055,714		K	
+1668	Koalice KDU-ČSL, ODS a VČ	Koalice KDU-ČSL, ODS a VČ	Koalice KDU-ČSL, ODS, VČ	KDU-ČSL+ODS+VČ	3	001,053,770		K	
+1669	Koalice SOCDEM, SproK a RH	Koalice SOCDEM, SproK a RH	Koalice SOCDEM, SproK, RH	SOCDEM+SproK+RH	3	007,1228,1267		K	
+1670	Koalice KDU-ČSL, Zelení, Nestraníci a TOP 09	Koalice KDU-ČSL, Zelení, Nestraníci a TOP 09	KDU-ČSL,Zelení,Nestran.,TOP09	KDU+Zel+Nes+TOP	4	001,005,181,721		K	
+1671	Koalice SPDV a mimozemstani.eu	Koalice SPDV a mimozemstani.eu	Koalice SPDV, mimozemstani.eu	SPDV+mimozemst.	2	1041,1288		K	
+1672	Koalice NEZ a DV 2016	Koalice NEZ a DV 2016	Koalice NEZ, DV 2016	NEZ+DV 2016	2	088,1127		K	
+1673	Koalice Zelení, STAN a SEN 21	Koalice Zelení, STAN a SEN 21	Koalice Zelení, STAN, SEN 21	Zelení+STAN+SEN	3	005,166,1187		K	
+1674	Koalice ODS a OPAT	Koalice ODS a OPAT	Koalice ODS, OPAT	ODS+OPAT	2	053,1022		K	
+1675	Koalice ODS, Monarchiste.cz, TOP 09 a OPAT	Koalice ODS, Monarchiste.cz, TOP 09 a OPAT	ODS, Monarchiste, TOP 09, OPAT	ODSMonarTOPOPAT	4	053,055,721,1022		K	
+1676	Koalice STAN a OK	Koalice STAN a OK	Koalice STAN, OK	STAN+OK	2	166,1287		K	
+1677	Koalice SD-SN, SproK a HS	Koalice SD-SN, SproK a HS	Koalice SD-SN, SproK, HS	SD-SN+SproK+HS	3	143,1228,1290		K	
+1678	Koalice Piráti a MHS	Koalice Piráti a MHS	Koalice Piráti, MHS	Piráti+MHS	2	720,1194		K	
+1679	Sdružení Vize KVK, NK	Sdružení Vize KVK, NK	Sdružení Vize KVK, NK	Vize KVK+NK	2	080,1285		D	
+1680	Koalice SD-SN a SproK	Koalice SD-SN a SproK	Koalice SD-SN, SproK	SD-SN+SproK	2	143,1228		K	
 9995	Koalice	Koalice	Koalice	Koalice	1	9995	koalice	S	
 9999	Neregistrováno u MV	Neregistrováno u MV	Neregistrováno u MV	Neregistr. u MV	1	9999	Neregistrováno u MV	S	

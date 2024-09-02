@@ -13,7 +13,7 @@ import { View, Candidate, Party } from "@/types"
 
 import { usePostMessageWithHeight } from './hooks/usePostHeightMessage'
 
-const yearsAvailable = ["2004", "2009", "2014", "2019", "2024"]
+const yearsAvailable = ["2000", "2004", "2008", "2012", "2016", "2020", "2024"]
 
 const countFemaleRatio = (data: any[]) => {
   if (data.length === 0) return "-- %";
