@@ -1,5 +1,6 @@
 export type View = {
     years: string[]
+    regions: string[],
     rank: [number, number],
     age: [number, number],
     sex: string[],

@@ -4,6 +4,7 @@ import { DSVRowString, tsvParse } from "d3"
 
 import Stat from "@/components/Stat"
 import SelectYears from "@/components/SelectYears"
+import SelectRegions from "@/components/SelectRegions"
 import Filters from "@/components/Filters"
 import MobileFilters from "@/components/MobileFilters"
 import { DataTable } from "@/components/DataTable"
@@ -14,6 +15,8 @@ import { View, Candidate, Party } from "@/types"
 import { usePostMessageWithHeight } from './hooks/usePostHeightMessage'
 
 const yearsAvailable = ["2000", "2004", "2008", "2012", "2016", "2020", "2024"]
+
+const regionsAvailable = ["Středočeský", "Jihočeský", "Plzeňský", "Karlovarský", "Ústecký", "Liberecký", "Královéhradecký", "Pardubický", "Vysočina", "Jihomoravský", "Olomoucký", "Zlínský", "Moravskoslezský"]
 
 const countFemaleRatio = (data: any[]) => {
   if (data.length === 0) return "-- %";
@@ -37,7 +40,7 @@ const countUnique = (data: any[], key: string) => {
 
 function App({ pref }: { pref: string }) {
 
-  const [view, setView] = useState<View>({ years: ["2024"], rank: [1, 28], age: [18, 100], sex: ["M", "F"], search: { value: "", fields: [true, true, true] }, mandate: pref === "1" ? "P" : "X", parties: [] })
+  const [view, setView] = useState<View>({ years: ["2024"], regions: regionsAvailable, rank: [1, 28], age: [18, 100], sex: ["M", "F"], search: { value: "", fields: [true, true, true] }, mandate: pref === "1" ? "P" : "X", parties: [] })
   const [data, setData] = useState<{ [key: string]: Candidate[] }>({})
   const [selected, setSelected] = useState<Candidate[]>([])
   const [filtered, setFiltered] = useState<Candidate[]>([])
@@ -191,6 +194,7 @@ function App({ pref }: { pref: string }) {
   return (
     <div ref={containerRef} className="max-w-[1070px] mx-auto flex flex-col gap-5 mb-8">
       <SelectYears years={view.years} setView={setView} yearsAvailable={yearsAvailable} />
+      <SelectRegions regions={view.regions} setView={setView} regionsAvailable={regionsAvailable} />
       <Filters data={selected} view={view} setView={setView} />
       <div className="flex flex-row flex-wrap lg:flex-nowrap justify-center gap-1">
         <Stat title="Celkem" number={selected.length.toLocaleString("cs-CZ")} subtitle="kandidujících" icon="user" />

@@ -15,17 +15,23 @@ export default function SelectYears({ years, setView, yearsAvailable }: { years:
                 {years.length < yearsAvailable.length / 2 && <Button variant={"link"} size={"sm"} onClick={() => { setView((prev: any) => { return { ...prev, years: yearsAvailable } }) }}>vybrat vše</Button>}
                 {years.length > yearsAvailable.length / 2 && <Button variant={"link"} size={"sm"} onClick={() => { setView((prev: any) => { return { ...prev, years: [] } }) }}>zrušit vše</Button>}</div>
 
-            <ToggleGroup id={"select-rok"} type={"multiple"} variant={"outline"} value={years} onValueChange={
-                (years) => {
-                    setView((prev: any) => { return { ...prev, years } })
+            <ToggleGroup
+                id={"select-rok"}
+                type={"multiple"}
+                variant={"outline"}
+                value={years}
+                onValueChange={
+                    (years) => {
+                        setView((prev: any) => { return { ...prev, years } })
+                    }
                 }
-            }
+                className="flex flex-wrap gap-1"
             >
                 {yearsAvailable.map((year, index) => (
                     <ToggleGroupItem
                         key={`${index}-${year}`}
                         value={year}
-                        className={"w-1/5"}
+                        className={"lg:flex-grow"}
                     >
                         {years.includes(year) ? <CircleCheck className="h-4 w-4 pr-1" /> : <Circle className="h-4 w-4 pr-1" />}
                         {year}
