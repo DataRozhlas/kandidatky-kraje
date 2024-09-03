@@ -18,6 +18,16 @@ export const columns: ColumnDef<Candidate>[] = [
         header: "Rok",
     },
     {
+        accessorKey: "KRZAST",
+        header: "Kraj",
+        cell: ({ row }: { row: any }) => {
+            const kraje = ["Středočeský", "Jihočeský", "Plzeňský", "Karlovarský", "Ústecký", "Liberecký", "Královéhradecký", "Pardubický", "Vysočina", "Jihomoravský", "Olomoucký", "Zlínský", "Moravskoslezský"]
+
+            return (<div className="text-center">{kraje[Number(row.getValue("KRZAST")) - 1]}</div>)
+        },
+
+    },
+    {
         accessorKey: "PORCISLO",
         header: ({ column }) => {
             return (

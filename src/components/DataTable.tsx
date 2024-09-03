@@ -33,6 +33,7 @@ interface DataTableProps<TData, TValue> {
   columns: ColumnDef<TData, TValue>[]
   data: TData[]
   years: string[]
+  regions: string[]
 }
 
 
@@ -40,6 +41,7 @@ export function DataTable<TData, TValue>({
   columns,
   data,
   years,
+  regions
 }: DataTableProps<TData, TValue>) {
   //  const [sorting, setSorting] = React.useState<SortingState>([])
   const [columnVisibility, setColumnVisibility] = React.useState({
@@ -48,6 +50,7 @@ export function DataTable<TData, TValue>({
     TITULZA: false,
     POHLAVI: false,
     ROK: years.length > 1,
+    KRZAST: regions.length > 1,
     STATOBCAN: false,
     MANDAT: false,
     ESTRANA: false,
@@ -94,6 +97,22 @@ export function DataTable<TData, TValue>({
       })
     }
   }, [years])
+
+  React.useEffect(() => {
+    if (regions.length > 1) {
+      setColumnVisibility((prev) => {
+        return { ...prev, KRZAST: true }
+      })
+    }
+    if (regions.length < 2) {
+      setColumnVisibility((prev) => {
+        return { ...prev, KRZAST: false }
+      })
+    }
+  }, [regions])
+
+
+  console.log(data)
 
   return (
     <div>

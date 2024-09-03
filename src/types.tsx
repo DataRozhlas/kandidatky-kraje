@@ -31,6 +31,7 @@ export type Party = {
 }
 
 export type Candidate = {
+    KRZAST: string,
     ESTRANA: string,
     PORCISLO: string,
     JMENO: string,

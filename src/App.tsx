@@ -63,7 +63,8 @@ function App({ pref }: { pref: string }) {
         .then((parsed) => {
           const candidates: Candidate[] = parsed.map((row: DSVRowString<string>) => {
             return {
-              ESTRANA: row.ESTRANA,
+              KRZAST: row.KRZAST,
+              ESTRANA: row.KSTRANA,
               PORCISLO: row.PORCISLO,
               JMENO: row.JMENO,
               PRIJMENI: row.PRIJMENI,
@@ -174,7 +175,9 @@ function App({ pref }: { pref: string }) {
   useEffect(() => {
     const updated = selected.filter((row: Candidate) => {
 
-      if (Number(row.PORCISLO) >= view.rank[0] && Number(row.PORCISLO) <= view.rank[1] &&
+      if (
+        view.regions.map(region => regionsAvailable.indexOf(region) + 1).includes(Number(row.KRZAST)) &&
+        Number(row.PORCISLO) >= view.rank[0] && Number(row.PORCISLO) <= view.rank[1] &&
         Number(row.VEK) >= view.age[0] && Number(row.VEK) <= view.age[1] &&
         (view.sex.length > 1 || view.sex.includes(row.POHLAVI)) &&
         (view.search.value.length === 0 ||
@@ -204,7 +207,7 @@ function App({ pref }: { pref: string }) {
         <Stat title="Volebních stran" number={countUnique(filtered, "VSTRANA")} subtitle="koalice = 1 strana" icon="vote" />
       </div>
       <MobileFilters data={selected} view={view} setView={setView} />
-      <DataTable columns={columns} data={filtered} years={view.years} />
+      <DataTable columns={columns} data={filtered} years={view.years} regions={view.regions} />
 
     </div>
 
