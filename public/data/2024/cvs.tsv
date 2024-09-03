@@ -1415,3 +1415,53 @@ VSTRANA	NAZEVCELK	NAZEV_STRV	ZKRATKAV30	ZKRATKAV8	POCSTR_SLO	SLOZENI	ZKRATKA_OF	
 1680	Koalice SD-SN a SproK	Koalice SD-SN a SproK	Koalice SD-SN, SproK	SD-SN+SproK	2	143,1228		K	
 9995	Koalice	Koalice	Koalice	Koalice	1	9995	koalice	S	
 9999	Neregistrováno u MV	Neregistrováno u MV	Neregistrováno u MV	Neregistr. u MV	1	9999	Neregistrováno u MV	S	
+214	Koalice KDU-ČSL, HSMSMNSJ	Koalice KDU-ČSL, HSMSMNSJ	Koalice KDU-ČSL, HSMSMNSJ		2	001,083			
+258	REPUBLIKÁNI MIROSLAVA SLÁDKA	REPUBLIKÁNI MIROSLAVA SLÁDKA	REPUBLIKÁNI MIROSLAVA SLÁDKA	REPUB-MS	3	011,079,127			
+262	PROSPERITA VYSOČINY	PROSPERITA VYSOČINY	PROSPERITA VYSOČINY	PROSPER	2	082,083			
+263	KOALICE NEPARLAMENTNÍCH STRAN	KOALICE NEPARLAMENTNÍCH STRAN	KOALICE NEPARLAMENTNÍCH STRAN	NEPARLAM	2	005,020			
+265	Sdružení pro Pardubický kraj	Sdružení pro Pardubický kraj	Sdružení pro Pardubický kraj	SDRUŽ.PK	2	005,103			
+266	Náš kraj 21	Náš kraj 21	Náš kraj 21	KRAJ21	2	005,103			
+272	Moravskoslezská koalice	Moravskoslezská koalice	Moravskoslezská koalice	MSLKOAL	2	082,083			
+400	Sdružení HSMSMNSJ, NK	Sdružení HSMSMNSJ, NK	Sdružení HSMSMNSJ, NK		2	080,083			
+270	Koalice KDU-ČSL, US-DEU	Koalice KDU-ČSL, US-DEU	Koalice KDU-ČSL, US-DEU		2	001,102			
+289	Koalice US-DEU, ČSNS	Koalice US-DEU, ČSNS	Koalice US-DEU, ČSNS		2	002,102			
+297	Koalice US-DEU, ODA	Koalice US-DEU, ODA	Koalice US-DEU, ODA	USDEUODA	2	013,102			
+302	Koalice ODS, US-DEU	Koalice ODS, US-DEU	Koalice ODS, US-DEU		2	053,102			
+304	Koalice US-DEU, ODS, KDU-ČSL	Koalice US-DEU, ODS, KDU-ČSL	Koalice US-DEU, ODS, KDU-ČSL		3	001,053,102			
+308	Váš hlas nebude podporovat plané řeči ve zbytečném Senátu, ale celý plat našich senátorů půjde na zdravotnictví obvodu	Váš hlas...plat našich senátorů půjde na zdravotn.	Váš hlas...plat na zdravotn.	Váš hlas	2	128,134			
+312	Za zájmy Moravy ve sjednocené Evropě	Za zájmy Moravy ve sjednocené Evropě	Za zájmy Moravy ve sjedn.Evr.	HSMSMoDS	2	082,083			
+317	Koalice pro Středočeský kraj	Koalice pro Středočeský kraj	Koalice pro Středočeský kraj	KOAL_STČ	2	001,102			
+318	Koalice pro Pardubický kraj	Koalice pro Pardubický kraj	Koalice pro Pardubický kraj	KOAL_PAR	2	001,102			
+326	Morava	Morava	Morava	HSMSMoDS	2	082,083			
+327	Koalice Strany zelených a Strany pro otevřenou společnost	Koal. Str.zelených a Str.pro otevřenou společnost	Str.zel.a Str.pro otevř.spol.	SZ+SOS	2	005,103			
+329	Za prosperitu a jistoty východní Moravy	Za prosperitu a jistoty východní Moravy	Za prosp.a jistoty vých.Moravy	PROSP.VM	3	020,082,083			
+333	Koalice rozumu a citu za pořádek v naší zemi	Koalice rozumu a citu za pořádek v naší zemi	Koal.rozumu a citu za pořádek	K_ROZCIT	3	020,101,137			
+335	Strana zelených a US-DEU	Strana zelených a US-DEU	Strana zelených a US-DEU	SZ,USDEU	2	005,102			
+336	Koalice pro Karlovarský kraj	Koalice pro Karlovarský kraj	Koalice pro Karlovarský kraj	KOAL_KV	2	001,005			
+337	Vaším hlasem podpoříte financování zdravotnictví našeho kraje a nikoliv plané řeči	Vaším hlasem podpoříte zdravotnictví kraje	Vaším hlasem pro zdravotnictví	Váš hlas	2	128,134			
+413	Sdružení US-DEU, NK	Sdružení US-DEU, NK	Sdružení US-DEU, NK		2	080,102			
+414	Sdružení ODA, US-DEU, NK	Sdružení ODA, US-DEU, NK	Sdružení ODA, US-DEU, NK		3	013,080,102			
+419	Sdružení SNK, NK	Sdružení SNK, NK	Sdružení SNK, NK		2	080,129			
+432	Sdružení MoDS, HSMS, NK	Sdružení MoDS, HSMS, NK	Sdružení MoDS, HSMS, NK		3	080,082,083			
+446	Sdružení ODS, US-DEU, NK	Sdružení ODS, US-DEU, NK	Sdružení ODS, US-DEU, NK		3	053,080,102			
+447	Sdružení HSMS, NK	Sdružení HSMS, NK	Sdružení HSMS, NK		2	080,083			
+343	Koalice SNK ED, KDU-ČSL	Koalice SNK ED, KDU-ČSL	Koalice SNK ED, KDU-ČSL		2	001,129		K	
+460	Sdružení KDU-ČSL, US-DEU, NK	Sdružení KDU-ČSL, US-DEU, NK	Sdružení KDU-ČSL, US-DEU, NK		3	001,080,102		K	
+619	Koalice SNK ED, US-DEU	Koalice SNK ED, US-DEU	Koalice SNK ED, US-DEU		2	102,129		K	
+622	"""Celý plat senátora budu dávat na zdravotnictví našeho obvodu"""	"""Celý plat senátora na zdravotn.našeho obvodu"""	"""Plat senátora na zdrav.obv."""	Plat_Zdr	2	128,134		K	
+625	Koalice pro Středočeský kraj	Koalice pro Středočeský kraj	Koalice pro Středočeský kraj	KOALSTČ1	2	001,129		K	
+626	Národní socialisté a Rozumní	Národní socialisté a Rozumní	Národní socialisté a Rozumní	NS+SZR	2	137,175		K	
+627	Koalice pro Liberecký kraj	Koalice pro Liberecký kraj	Koalice pro Liberecký kraj	KOALLIB1	2	001,129		K	
+630	Koalice pro Karlovarský kraj	Koalice pro Karlovarský kraj	Koalice pro Karlovarský kraj	KOAL_KV1	2	001,112		K	
+638	Osobnosti kraje	Osobnosti kraje	Osobnosti kraje	OSOBNOST	2	072,129		K	
+645	Dělnická strana - NE americkému radaru!	Dělnická strana - NE americkému radaru!	Děln.str.-NE americkému radaru	DS_RADAR	2	153,156		K	
+646	Koalice pro Plzeňský kraj	Koalice pro Plzeňský kraj	Koalice pro Plzeňský kraj	KOALPLZ1	2	001,129		K	
+647	Koalice pro Královéhradecký kraj	Koalice pro Královéhradecký kraj	Koalice pro Královéhradec.kraj	KOAL_HK1	2	001,181		K	
+648	Volba pro kraj	Volba pro kraj	Volba pro kraj	VOLBA_HK	2	103,113		K	
+650	DOHODA pro senátní obvod Kladno	DOHODA pro senátní obvod Kladno	DOHODA pro senát.obvod Kladno	DOHODA30	2	040,102		K	
+651	S.O.S. pro kraj	S.O.S. pro kraj	S.O.S. pro kraj	S.O.S.	2	102,103		K	
+652	Koalice pro Pardubický kraj	Koalice pro Pardubický kraj	Koalice pro Pardubický kraj	KOALPAR1	3	001,129,181		K	
+653	Nejen hasiči a živnostníci pro kraj	Nejen hasiči a živnostníci pro kraj	Nejen hasiči a živn. pro kraj	HAS+ŽIVN	2	165,167		K	
+655	Nejen hasiči a živnostníci s učiteli do Evropy - www.hnpd.cz, www.sdzp.cz	Nejen hasiči a živnostníci s učiteli do Evropy	Nejen has. a živn. s uč. do E.	HNDPSDZP	2	165,167		K	
+658	Koalice SOS A ZELENÍ	Koalice SOS A ZELENÍ	Koalice SOS A Z		2	005,103		K	
+697	"""STAROSTOVÉ A NEZÁVISLÍ"" s podporou TOP 09"	"""STAROSTOVÉ A NEZÁVISLÍ"" s podporou TOP 09"	"""STAN"" s podporou TOP 09"	STAN+TOP	2	166,721		K	
