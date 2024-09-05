@@ -25,8 +25,9 @@ async function askAI(input: string) {
 }
 
 
-const years = ["2000", "2004", "2008", "2012", "2016", "2020", "2024"]
+// const years = ["2000", "2004", "2008", "2012", "2016", "2020", "2024"]
 
+const years = ["2024"]
 
 for (const year of years) {
     let results: Array<{ JMENO: string; PRIJMENI: string; POVOLANI: string; POHLAVI: string }> = [];

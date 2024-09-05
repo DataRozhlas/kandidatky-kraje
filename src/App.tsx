@@ -165,18 +165,18 @@ function App({ pref }: { pref: string }) {
     let selected: any[] = []
     view.years.forEach((year) => {
       if (data[year]) {
-        selected = selected.concat(data[year])
+        selected = selected.concat(data[year]).filter((row: Candidate) => view.regions.map(region => regionsAvailable.indexOf(region) + 1).includes(Number(row.KRZAST)))
       }
     })
     setSelected(selected)
-  }, [data, view.years])
+  }, [data, view.years, view.regions])
 
   // filter data with greater granularity
   useEffect(() => {
     const updated = selected.filter((row: Candidate) => {
 
       if (
-        view.regions.map(region => regionsAvailable.indexOf(region) + 1).includes(Number(row.KRZAST)) &&
+        //    view.regions.map(region => regionsAvailable.indexOf(region) + 1).includes(Number(row.KRZAST)) &&
         Number(row.PORCISLO) >= view.rank[0] && Number(row.PORCISLO) <= view.rank[1] &&
         Number(row.VEK) >= view.age[0] && Number(row.VEK) <= view.age[1] &&
         (view.sex.length > 1 || view.sex.includes(row.POHLAVI)) &&
