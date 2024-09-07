@@ -6,15 +6,14 @@ import MandateFilter from "./filters/MandateFilter"
 import PartyFilter from "./filters/PartyFilter"
 
 import {
-    Drawer,
-    DrawerClose,
-    DrawerContent,
-    //    DrawerDescription,
-    DrawerFooter,
-    DrawerHeader,
-    DrawerTitle,
-    DrawerTrigger,
-} from "@/components/ui/drawer"
+    Dialog,
+    DialogClose,
+    DialogContent,
+    DialogFooter,
+    DialogHeader,
+    DialogTitle,
+    DialogTrigger,
+} from "@/components/ui/dialog"
 
 import { Button } from "@/components/ui/button"
 
@@ -28,15 +27,15 @@ export default function Filters(props: FilterPropsType) {
 
     return (
 
-        <Drawer>
-            <DrawerTrigger>
+        <Dialog >
+            <DialogTrigger>
                 <Button className="w-full sm:hidden" variant="outline">Nastavte filtry</Button>
-            </DrawerTrigger>
-            <DrawerContent className="w-full">
-                <DrawerHeader>
-                    <DrawerTitle>Nastavte filtry</DrawerTitle>
+            </DialogTrigger>
+            <DialogContent className="w-full">
+                <DialogHeader>
+                    <DialogTitle>Nastavte filtry</DialogTitle>
                     {/* <DrawerDescription>This action cannot be undone.</DrawerDescription> */}
-                </DrawerHeader>
+                </DialogHeader>
                 {props.data.length === 0 && <div className="text-sm text-center">Nejdřív vyberte aspoň jeden rok</div>}
                 {props.data.length > 0 && <div className="h-[40vh]">
                     <ScrollArea className="w-full h-[40vh]">
@@ -51,13 +50,13 @@ export default function Filters(props: FilterPropsType) {
                     </ScrollArea></div>
 
                 }
-                <DrawerFooter>
-                    <DrawerClose>
+                <DialogFooter>
+                    <DialogClose>
                         <Button variant="outline">Zavřít</Button>
-                    </DrawerClose>
-                </DrawerFooter>
-            </DrawerContent>
-        </Drawer>
+                    </DialogClose>
+                </DialogFooter>
+            </DialogContent>
+        </Dialog>
 
     )
 }
