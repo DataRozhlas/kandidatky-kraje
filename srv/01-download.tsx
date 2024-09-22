@@ -14,15 +14,17 @@ const urls = [
     "https://volby.cz/opendata/kz2016/KZ2016_cisel_20230223_csv.zip",
     "https://volby.cz/opendata/kz2020/KZ2020reg20201004a_csv.zip",
     "https://volby.cz/opendata/kz2020/KZ2020ciselniky20200918_csv.zip",
-    "https://volby.cz/opendata/kz2024/KZ2024reg20240807_csv.zip",
-    "https://volby.cz/opendata/kz2024/KZ2024ciselniky20240807_csv.zip"]
+    "https://www.volby.cz/opendata/kz2024/KZ2024reg20240921_csv.zip",
+    "https://www.volby.cz/opendata/kz2024/KZ2024ciselniky20240921_csv.zip"]
 
 
 
 // downloas each zip file and extract it
 for (const url of urls) {
     const response = await fetch(url);
+    console.log("downloading", url)
     const zip = await JSZip.loadAsync(await response.arrayBuffer());
+    console.log("extracting", url)
     const files = Object.keys(zip.files);
     const matchResult = url.match(/kz(\d{4})/);
     const year = matchResult ? matchResult[1] : "unknown";
